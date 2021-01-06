@@ -5,5 +5,7 @@
 - The reasons for doing deep learning in JavaScript using **TensorFlow.js**
 - The overall organization of this book
 
+https://livebook.manning.com/book/deep-learning-with-javascript
+
 ---
 from 
