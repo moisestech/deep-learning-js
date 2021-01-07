@@ -1,4 +1,6 @@
-# Chapter 1. Deep learning and JavaScript
+# DL and JS
+
+## Chapter 1. Deep learning and JavaScript
 
 - What **deep learning** is and how it is related to artificial intelligence (AI) and machine learning
 - **What makes deep learning stand out** among various machine-learning techniques, and the factors that led to the current “deep-learning revolution”
