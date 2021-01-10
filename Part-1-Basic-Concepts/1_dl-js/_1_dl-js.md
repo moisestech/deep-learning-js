@@ -1,4 +1,4 @@
-# DL and JS
+# 1 DL and JS
 
 ## Chapter 1. Deep learning and JavaScript
 
