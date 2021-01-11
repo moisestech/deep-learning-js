@@ -1,4 +1,4 @@
-# Multi Classification
+# Output Classification
 
 ---
 from [[_3_adding-non-linearity]]
