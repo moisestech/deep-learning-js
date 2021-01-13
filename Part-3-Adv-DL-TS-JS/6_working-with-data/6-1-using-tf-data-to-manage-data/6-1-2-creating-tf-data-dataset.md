@@ -1,4 +1,4 @@
-# 6.2 Training models with model.fitDataset
+# 6.2 Training Model.fitDataset
 
 ---
 from [[_6-1-using-tf-data-to-manage-data]]
