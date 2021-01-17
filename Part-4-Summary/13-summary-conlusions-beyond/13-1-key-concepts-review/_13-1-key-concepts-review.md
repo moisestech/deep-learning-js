@@ -1,4 +1,4 @@
-# Concepts Key Concepts
+# Key Concepts
 
 ---
 from [[_13-summary-conlusions-beyond]]
