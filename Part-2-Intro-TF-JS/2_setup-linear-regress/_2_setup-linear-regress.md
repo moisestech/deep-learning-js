@@ -1,5 +1,10 @@
 # 2 Setup Linear Regress
 
+## This Chapter Covers
+- A minimal example of a neural network for the simple machine-learning task of linear regression
+- Tensors and tensor operations
+- Basic neural network optimization
+
 ---
 from [[_part-2-intro-ts-js]]
 
