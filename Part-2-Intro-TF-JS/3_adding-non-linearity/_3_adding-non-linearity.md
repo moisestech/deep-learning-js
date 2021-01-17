@@ -1,4 +1,12 @@
 # Adding Non-Linearity
+
+## Chapter 3. Adding nonlinearity: Beyond weighted sums
+## This chapter covers
+- What nonlinearity is and how nonlinearity in hidden layers of a neural network enhances the network’s capacity and leads to better prediction accuracies
+- What hyperparameters are and methods for tuning them
+- Binary classification through nonlinearity at the output layer, introduced with the phishing-website-detection example
+- Multiclass classification and how it differs from binary classification, introduced with the iris-flower example
+
 ---
 from [[_part-2-intro-ts-js]]
 
