@@ -2,6 +2,8 @@
 
 ## Chapter 1. Deep learning and JavaScript
 
+## This Chapter Covers
+
 - What **deep learning** is and how it is related to artificial intelligence (AI) and machine learning
 - **What makes deep learning stand out** among various machine-learning techniques, and the factors that led to the current “deep-learning revolution”
 - The reasons for doing deep learning in JavaScript using **TensorFlow.js**
