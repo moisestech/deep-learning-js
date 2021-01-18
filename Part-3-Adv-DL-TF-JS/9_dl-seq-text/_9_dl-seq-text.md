@@ -1,5 +1,12 @@
 # DL for Seq Text
 
+## This chapter covers
+- How sequential data differs from nonsequential data
+- Which deep-learning techniques are suitable for problems that involve sequential data
+- How to represent text data in deep learning, including with one-hot encoding, multi-hot encoding, and word embedding
+- What RNNs are and why they are suitable for sequential problems
+- What 1D convolution is and why it is an attractive alternative to RNNs
+- The unique properties of sequence-to-sequence tasks and how to use the attention mechanism to solve them
 ---
 from [[_part-3-adv-dl-ts-js]]
 
