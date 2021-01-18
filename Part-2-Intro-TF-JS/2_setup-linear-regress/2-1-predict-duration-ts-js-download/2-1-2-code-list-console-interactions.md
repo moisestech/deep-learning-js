@@ -1,5 +1,5 @@
 # Console Interact
-## 2.1.2 A note on code listing and console interactions
+## 2.1.2. A note on code listings and console interactions
 ---
 from [[_2-1-predict-duration-download-ts-js]]
 
