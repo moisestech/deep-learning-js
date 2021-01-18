@@ -1,6 +1,6 @@
 # Predict TF.js Download
 
-## 2.1 Project overview: Duration prediction
+# 2.1. Example 1: Predicting the duration of a download using TensorFlow.js
 
 ---
 from [[_2_setup-linear-regress]]
