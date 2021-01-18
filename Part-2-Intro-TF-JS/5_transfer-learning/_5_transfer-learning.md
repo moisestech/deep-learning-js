@@ -1,5 +1,10 @@
 # Transfer Learning
 
+## This chapter covers
+- What transfer learning is and why it is better than training models from scratch for many types of problems
+- How to leverage the feature-extraction power of state-of-the-art pretrained convnets by converting them from Keras to TensorFlow.js
+- The detailed mechanisms of transfer-learning techniques including layer freezing, creating new transfer heads, and fine-tuning
+- How to use transfer learning to train a simple object-detection model in TensorFlow.js
 ---
 from [[_part-2-intro-ts-js]]
 
