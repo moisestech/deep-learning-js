@@ -1,6 +1,6 @@
 # Intuit Gradient Optims
 
-## 2.2.1 Intuitions Gradient Optimizations
+## 2.2.1 The intuitions behind gradient-descent optimization
 ---
 from [[_2-2-inside-model-fit]]
 
