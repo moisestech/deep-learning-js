@@ -1,6 +1,10 @@
 # Basics Reinforcement Learning
 ## Ch 11. Basics of deep reinforcement learning
 
+## This chapter covers
+- How reinforcement learning differs from the supervised learning discussed in the previous chapters
+- The basic paradigm of reinforcement learning: agent, environment, action, and reward, and the interactions between them
+- The general ideas behind two major approaches to solving reinforcement-learning problems: policy-based and value-based methods
 ---
 from [[_part-3-adv-dl-ts-js]]
 
