@@ -1,5 +1,12 @@
 # Conclusions
 
+## Chapter 13. Summary, conclusions, and beyond
+## This chapter covers
+- Looking back at the high-level concepts and ideas about AI and deep learning
+- A quick overview of the different types of deep-learning algorithms we’ve visited in this book, when they are useful, and how to implement them in TensorFlow.js
+- Pretrained models from the ecosystem of TensorFlow.js
+- Limitations of deep learning as it currently stands; and an educated prediction for trends in deep learning that we will see in the coming years
+- Guidance for how to further advance your deep-learning knowledge and stay up-to-date with the fast-moving field
 ---
 from [[_part-4-summary]]
 
