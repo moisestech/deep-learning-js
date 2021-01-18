@@ -1,6 +1,6 @@
 # Project Overview
 
-## 2.1.1 Project Overview
+## 2.1.1. Project overview: Duration prediction
 
 ---
 from [[_2-1-predict-duration-download-ts-js]]
