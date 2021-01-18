@@ -1,6 +1,6 @@
 # Summary First Example
 
-## 2.1.7 Summary First Example
+## 2.1.7 Summary of our first example
 ---
 from [[_2-1-predict-duration-download-ts-js]]
 
