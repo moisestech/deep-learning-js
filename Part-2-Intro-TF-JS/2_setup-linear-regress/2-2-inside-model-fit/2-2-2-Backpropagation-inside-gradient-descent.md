@@ -1,6 +1,6 @@
 # Backprop In-Gradient Descent
 
-## 2.2.2 Backpropagation Inside Gradient Descent
+## 2.2.2 Backpropagation: Inside gradient descent
 ---
 from [[_2-2-inside-model-fit]]
 
