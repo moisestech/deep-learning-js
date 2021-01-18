@@ -1,5 +1,12 @@
 # 12 Testing Optim
 
+## Chapter 12. Testing, optimizing, and deploying models
+
+## This Chapter Covers
+- The importance of and practical guidelines for testing and monitoring machine-learning code.
+- How to optimize models trained in TensorFlow.js or converted to TensorFlow.js for faster loading and inference.
+- How to deploy TensorFlow.js models to various platforms and environments, ranging from browser extensions to mobile apps, and from desktop apps to single-board computers.
+
 ---
 from [[_part-4-summary]]
 
