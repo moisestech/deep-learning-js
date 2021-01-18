@@ -1,6 +1,6 @@
 # Artificial intelligence, machine learning, neural networks, and deep learning
 
-## 1.1. Artificial intelligence, machine learning, neural networks, and deep learning
+## 1.2. Why combine JavaScript and machine learning?
 
 
 ---
