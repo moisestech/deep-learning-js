@@ -1,6 +1,6 @@
 # Using Trainged Model
 
-## 2.1.6 Using Trained Model
+## 2.1.6. Using our trained model to make predictions
 ---
 from [[_2-1-predict-duration-download-ts-js]]
 
