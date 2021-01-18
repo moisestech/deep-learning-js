@@ -1,4 +1,6 @@
+# Linear Regress Multi-Input Features
 
+## Linear regression with multiple input features
 ---
 from [[_2_setup-linear-regress]]
 
