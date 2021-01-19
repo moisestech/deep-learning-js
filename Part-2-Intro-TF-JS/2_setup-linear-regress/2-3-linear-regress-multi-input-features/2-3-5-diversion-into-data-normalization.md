@@ -1,5 +1,7 @@
 # Data Normalization
 
+## 2.3.5. A slight diversion into data normalization
+
 ---
 from [[_2-3-linear-regress-multi-input-features]]
 
