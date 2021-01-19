@@ -1,5 +1,7 @@
 # Linear Regress Housing Data
 
+## 2.3.6. Linear regression on the Boston-housing data
+
 ---
 from [[_2-3-linear-regress-multi-input-features]]
 
