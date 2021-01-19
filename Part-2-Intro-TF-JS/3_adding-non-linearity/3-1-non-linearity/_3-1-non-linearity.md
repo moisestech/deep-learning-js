@@ -1,5 +1,7 @@
 # Non-Linearity
 
+## 3.1. Nonlinearity: What it is and what it is good for
+
 ---
 from [[_3_adding-non-linearity]]
 
