@@ -1,5 +1,7 @@
 # Output Classification
 
+## 3.2. Nonlinearity at output: Models for classification
+
 ---
 from [[_3_adding-non-linearity]]
 
