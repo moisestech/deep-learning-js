@@ -1,5 +1,6 @@
 # Multi Classification
 
+## 3.3. Multiclass classification
 ---
 from [[_3_adding-non-linearity]]
 
