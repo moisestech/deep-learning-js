@@ -1,5 +1,7 @@
 # Vectors Tensors Rep Imgs
 
+## 4.1. From vectors to tensors: Representing images
+
 ---
 from [[_4_recog-imgs-sounds]]
 
