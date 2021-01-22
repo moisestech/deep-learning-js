@@ -1,5 +1,6 @@
 # Weather TF.js Viz
 
+## 7.1.2. An integrative case study: Visualizing weather data with tfjs-vis
 ---
 from [[_7-1-data-viz]]
 
