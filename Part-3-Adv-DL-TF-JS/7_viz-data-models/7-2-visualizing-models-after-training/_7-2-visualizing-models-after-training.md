@@ -1,5 +1,6 @@
 # Viz Models After Training
 
+## 7.2. Visualizing models after training
 ---
 from [[_7_visualizing-data-models]]
 
