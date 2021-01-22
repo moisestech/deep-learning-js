@@ -1,5 +1,7 @@
 # Viz TF.js
 
+## 7.1.1. Visualizing data using tfjs-vis
+
 ---
 from [[_7-1-data-viz]]
 
