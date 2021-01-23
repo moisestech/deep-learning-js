@@ -1,5 +1,7 @@
 # Spoken Word Recog Audio
 
+## 4.4. Spoken-word recognition: Applying convnets on audio data
+
 ---
 from [[_4_recog-imgs-sounds]]
 
