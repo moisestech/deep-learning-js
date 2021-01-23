@@ -1,5 +1,6 @@
 # Manage with TF.data
 
+## 6.1. Using tf.data to manage data
 ---
 from [[_6_working-with-data]]
 
