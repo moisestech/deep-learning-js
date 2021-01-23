@@ -1,5 +1,5 @@
-# 6.2 Training Model.fitDataset
-
+# tf.data.Dataset
+## 6.1.2. Creating a tf.data.Dataset
 ---
 from [[_6-1-using-tf-data-to-manage-data]]
 
