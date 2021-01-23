@@ -1,5 +1,6 @@
 # 6.4 Theory of Data
 
+## 6.4.1. Theory of data
 ---
 from [[_6-4-dealing-width-flawed-data]]
 
