@@ -1,5 +1,7 @@
 # 1D ConvNets
+
 ## 9.2.4. 1D convnets
+
 ---
 from [[_9-2-build-deep-learn-models-for-text]]
 
