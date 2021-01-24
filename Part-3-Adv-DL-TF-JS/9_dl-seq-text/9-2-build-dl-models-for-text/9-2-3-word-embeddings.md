@@ -1,5 +1,7 @@
 # Word Embeddings
+
 ## 9.2.3. A more efficient representation of text: Word embeddings
+
 ---
 from [[_9-2-build-deep-learn-models-for-text]]
 
