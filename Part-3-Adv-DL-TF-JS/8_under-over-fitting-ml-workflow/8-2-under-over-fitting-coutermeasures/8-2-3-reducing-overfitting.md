@@ -1,6 +1,7 @@
 # Reducing Overfitting
 
 ## 8.2.3. Reducing overfitting with weight regularization and visualizing it working
+
 ---
 from [[_8-2-under-over-fitting-countermeasures]]
 
