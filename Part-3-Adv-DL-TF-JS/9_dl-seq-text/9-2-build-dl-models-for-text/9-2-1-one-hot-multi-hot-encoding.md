@@ -1,5 +1,7 @@
 # Text One Multi Hot Encoding
+
 ## 9.2.1. How text is represented in machine learning: One-hot and multi-hot encoding
+
 ---
 from [[_9-2-build-deep-learn-models-for-text]]
 
