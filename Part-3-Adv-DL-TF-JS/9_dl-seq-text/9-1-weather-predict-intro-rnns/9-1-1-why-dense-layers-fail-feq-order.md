@@ -1,6 +1,7 @@
 # Why Dense Layers Fail Feq Order
 
 ## 9.1.1. Why dense layers fail to model sequential order
+
 ---
 from [[_9-1-weather-predict-rnns]]
 
