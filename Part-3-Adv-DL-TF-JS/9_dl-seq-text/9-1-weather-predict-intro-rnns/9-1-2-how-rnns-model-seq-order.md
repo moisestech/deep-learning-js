@@ -1,6 +1,7 @@
 # How RNNs Model Seq Order
 
 ## 9.1.2. How RNNs model sequential order
+
 ---
 from [[_9-1-weather-predict-rnns]]
 
