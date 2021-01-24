@@ -1,6 +1,6 @@
 # Under Over Fit Counter Measures
 
-# 8.2 Underfitting, overfitting, and countermeasures
+## 8.2 Underfitting, overfitting, and countermeasures
 
 ---
 from [[_8_under-over-fitting-ml-workflow]]
