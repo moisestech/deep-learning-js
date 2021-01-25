@@ -1,3 +1,4 @@
+# Img Gen GANs
 
 ---
 from [[_10_gen-dl]]
