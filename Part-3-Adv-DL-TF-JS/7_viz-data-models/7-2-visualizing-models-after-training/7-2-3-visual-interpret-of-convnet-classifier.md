@@ -1,6 +1,7 @@
 # Viz Convnet Classification
 
 ## 7.2.3. Visual interpretation of a convnet’s classification result
+
 ---
 from [[_7-2-visualizing-models-after-training]]
 
