@@ -1,5 +1,7 @@
 # Video tf.data.webcam
+
 ## 6.3.2. Accessing video data using tf.data.webcam()
+
 ---
 from [[_6-3-common-patterns-for-accessing-data]]
 
