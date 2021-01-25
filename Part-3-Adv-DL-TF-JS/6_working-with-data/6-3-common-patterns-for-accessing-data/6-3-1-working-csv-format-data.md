@@ -1,5 +1,7 @@
 # CSV data format
+
 ## 6.3.1. Working with CSV format data
+
 ---
 from [[_6-3-common-patterns-for-accessing-data]]
 
