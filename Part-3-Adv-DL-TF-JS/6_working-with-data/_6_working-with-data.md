@@ -1,9 +1,11 @@
 # Working with Data
 
 ## This chapter covers
+
 - How to use the tf.data API to train models using large datasets
 - Exploring your data to find and fix potential issues
 - How to use data augmentation to create new “pseudo-examples” to improve model quality
+
 ---
 from [[_part-3-adv-dl-ts-js]]
 
