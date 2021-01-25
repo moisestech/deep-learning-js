@@ -1,5 +1,7 @@
 # 7.1 Data Viz
 
+## 7.1. Data visualization
+
 ---
 from [[_7_visualizing-data-models]]
 
