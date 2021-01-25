@@ -1,6 +1,7 @@
 # Access Audio Data Microphone
 
 ## 6.3.3. Accessing audio data using tf.data.microphone()
+
 ---
 from [[_6-3-common-patterns-for-accessing-data]]
 
