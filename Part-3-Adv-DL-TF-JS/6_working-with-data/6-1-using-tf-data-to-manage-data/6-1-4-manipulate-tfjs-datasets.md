@@ -1,6 +1,7 @@
 # Manipulate TF.js datasets
 
 ## 6.1.4. Manipulating tfjs-data datasets
+
 ---
 from [[_6-1-using-tf-data-to-manage-data]]
 
