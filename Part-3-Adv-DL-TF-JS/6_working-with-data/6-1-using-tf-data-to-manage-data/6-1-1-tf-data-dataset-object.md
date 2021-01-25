@@ -1,4 +1,6 @@
-# 6.1 Using tf.data to manage data
+# tf.data.Dataset
+
+## The tf.data.Dataset object
 
 ---
 from [[_6-1-using-tf-data-to-manage-data]]
