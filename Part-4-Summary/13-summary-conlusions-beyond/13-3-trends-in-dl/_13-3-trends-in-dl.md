@@ -1,5 +1,7 @@
 # Trends in DL
 
+## 13.3. Trends in deep learning
+
 ---
 from [[_13-summary-conlusions-beyond]]
 
