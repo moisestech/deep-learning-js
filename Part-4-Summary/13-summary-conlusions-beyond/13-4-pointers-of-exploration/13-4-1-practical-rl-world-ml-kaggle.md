@@ -1,6 +1,6 @@
-# Summary
+# Kaggle
 
-## Chapter 13. Summary, conclusions, and beyond
+## 13.4.1. Practice real-world machine-learning problems on Kaggle
 
 ---
 from [[_13-4-pointers-of-exploration]]
