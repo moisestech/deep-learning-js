@@ -1,5 +1,7 @@
 # Model Layer Types
 
+## 13.2.2. Reviewing model and layer types in TensorFlow.js: A quick reference
+
 ---
 from [[_13-2-overview-dl-algo-tf-js]]
 
