@@ -1,5 +1,7 @@
 # Limits of DL
 
+## 13.2.5. Limitations of deep learning
+
 ---
 from [[_13-2-overview-dl-algo-tf-js]]
 
