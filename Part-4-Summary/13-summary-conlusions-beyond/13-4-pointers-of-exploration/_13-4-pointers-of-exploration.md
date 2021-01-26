@@ -1,5 +1,7 @@
 # Exploration
 
+## 13.4. Pointers for further exploration
+
 ---
 from [[_13-summary-conlusions-beyond]]
 
