@@ -1,6 +1,8 @@
 # DL Algo TF.js
-# Sub-Chapters
 
+## 13.2. Quick overview of the deep-learning workflow and algorithms in TensorFlow.js
+
+## Sub-Chapters
 
 ---
 from [[_13-summary-conlusions-beyond]]
