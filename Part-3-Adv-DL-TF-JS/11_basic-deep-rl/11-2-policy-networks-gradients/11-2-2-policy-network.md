@@ -1,5 +1,7 @@
 # Policy Network
 
+## 11.2.2. Policy network
+
 ---
 from [[_11-2-policy-networks-gradients]]
 
