@@ -1,5 +1,7 @@
 # Training Deep Q Network
 
+## 11.3.4. Training the deep Q-network
+
 ---
 from [[_11-3-val-net-q-learn]]
 
