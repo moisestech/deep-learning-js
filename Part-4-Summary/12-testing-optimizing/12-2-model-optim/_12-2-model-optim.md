@@ -1,5 +1,12 @@
 # Model Optim
 
+## 12.2. Model optimization
+
+## Sub-Chapters
+
+- **12.2.1.** Model-size optimization through post-training weight quantization
+- **12.2.2.** Inference-speed optimization using GraphModel conversion
+
 ---
 from [[_12-testing-optim]]
 
