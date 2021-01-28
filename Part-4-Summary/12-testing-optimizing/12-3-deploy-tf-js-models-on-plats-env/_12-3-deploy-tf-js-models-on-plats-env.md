@@ -1,5 +1,18 @@
 # Deploy TF.js Modeon on Plats Env
 
+## 12.3. Deploying TensorFlow.js models on various platforms and environments
+
+## Sub-Chapters
+
+- **12.3.1.** Additional considerations when deploying to the web
+- **12.3.2.** Deployment to cloud serving
+- **12.3.3.** Deploying to a browser extension, like Chrome Extension
+- **12.3.4.** Deploying TensorFlow.js models in JavaScript-based mobile applications
+- **12.3.5.** Deploying TensorFlow.js models in JavaScript-based cross-platform- m desktop applications
+- **12.3.6.** Deploying TensorFlow.js models on WeChat and other JavaScript-bas- sed mobile app plugin systems
+- **12.3.7.** Deploying TensorFlow.js models on single-board computers
+- **12.3.8.** Summary of deployments
+
 ---
 from [[_12-testing-optim]]
 
