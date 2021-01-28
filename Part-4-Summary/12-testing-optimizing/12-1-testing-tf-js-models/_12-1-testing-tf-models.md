@@ -1,5 +1,13 @@
 # Testing TF.js Models
 
+## 12.1. Testing TensorFlow.js models
+
+## Sub-Chapters
+
+- **12.1.1.** Traditional unit testing
+- **12.1.2.** Testing with golden values
+- **12.1.3.** Considerations around continuous training
+
 ---
 from [[_12-testing-optim]]
 
