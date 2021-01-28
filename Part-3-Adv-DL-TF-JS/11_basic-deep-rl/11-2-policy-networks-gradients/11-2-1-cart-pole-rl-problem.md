@@ -1,5 +1,7 @@
 # Cart Pole RL problems
 
+## 11.2.1. Cart-pole as a reinforcement-learning problem
+
 ---
 from [[_11-2-policy-networks-gradients]]
 
