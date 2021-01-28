@@ -1,5 +1,7 @@
 # Reinforcement Problem
 
+## 11.1. The formulation of reinforcement-learning problems
+
 ---
 from [[_11_basics-deep-rl]]
 
