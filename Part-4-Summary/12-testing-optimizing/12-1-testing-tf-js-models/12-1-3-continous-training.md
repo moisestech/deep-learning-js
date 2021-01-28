@@ -1,5 +1,7 @@
 # Cont. Training
 
+## 12.1.3. Considerations around continuous training
+
 ---
 from [[_12-1-testing-tf-models]]
 
