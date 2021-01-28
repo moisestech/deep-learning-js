@@ -1,5 +1,7 @@
 # Markov Decision Process Q Values
 
+## 11.3.2. Markov decision process and Q-values
+
 ---
 from [[_11-3-val-net-q-learn]]
 
