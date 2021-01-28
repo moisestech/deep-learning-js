@@ -2,6 +2,12 @@
 
 ## Chapter 13. Summary, conclusions, and beyond
 
+## Sub-Chapters
+- **13.1.** Key concepts in review
+- **13.2.** Quick overview of the deep-learning workflow and algorithms in TensorFlow.js
+- **13.3.** Trends in deep learning
+- **13.4.** Pointers for further exploration
+
 ## This chapter covers
 
 - Looking back at the high-level concepts and ideas about AI and deep learning
