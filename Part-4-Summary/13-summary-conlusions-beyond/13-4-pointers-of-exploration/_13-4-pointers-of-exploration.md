@@ -2,6 +2,11 @@
 
 ## 13.4. Pointers for further exploration
 
+## Sub-Chapters
+- **13.4.1.** Practice real-world machine-learning problems on Kaggle
+- **13.4.2.** Read about the latest developments on arXiv
+- **13.4.3.** Explore the TensorFlow.js Ecosystem
+
 ---
 from [[_13-summary-conlusions-beyond]]
 
