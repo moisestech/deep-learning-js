@@ -1,5 +1,7 @@
 # Snake Reinforce Learning
 
+## 11.3.1. Snake as a reinforcement-learning problem
+
 ---
 from [[_11-3-val-net-q-learn]]
 
