@@ -1,5 +1,7 @@
 # Training Policy Network Reinforce Algo
 
+## 11.2.3. Training the policy network: The REINFORCE algorithm
+
 ---
 from [[_11-2-policy-networks-gradients]]
 
