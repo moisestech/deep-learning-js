@@ -3,6 +3,11 @@
 ## 13.2. Quick overview of the deep-learning workflow and algorithms in TensorFlow.js
 
 ## Sub-Chapters
+- **13.2.1.** The universal workflow of supervised deep learning
+- **13.2.2.** Reviewing model and layer types in TensorFlow.js: A quick reference
+- **13.2.3.** Using pretrained models from TensorFlow.js
+- **13.2.4.** The space of possibilities
+- **13.2.5.** Limitations of deep learning
 
 ---
 from [[_13-summary-conlusions-beyond]]
