@@ -1,5 +1,7 @@
 # Deep Q Network
 
+## 11.3.3. Deep Q-network
+
 ---
 from [[_11-3-val-net-q-learn]]
 
