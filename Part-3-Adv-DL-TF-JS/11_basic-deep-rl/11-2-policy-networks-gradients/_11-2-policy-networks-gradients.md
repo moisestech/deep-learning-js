@@ -1,5 +1,6 @@
 # Policy Networks Gradients
 
+## 11.2. Policy networks and policy gradients: The cart-pole example
 ---
 from [[_11_basics-deep-rl]]
 
