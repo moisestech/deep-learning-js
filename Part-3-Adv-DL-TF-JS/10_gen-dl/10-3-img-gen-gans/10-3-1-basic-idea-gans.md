@@ -1,5 +1,7 @@
 # Basic GANs
 
+## 10.3.1. The basic idea behind GANs
+
 ---
 from [[_10-3-img-gen-gans]]
 
