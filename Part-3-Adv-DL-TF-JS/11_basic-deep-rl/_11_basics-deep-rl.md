@@ -4,9 +4,9 @@
 
 ## Sub-Chapters
 
-- 11.1. The formulation of reinforcement-learning problems
-- 11.2. Policy networks and policy gradients: The cart-pole example
-- 11.3. Value networks and Q-learning: The snake game example
+- **11.1.** The formulation of reinforcement-learning problems
+- **11.2.** Policy networks and policy gradients: The cart-pole example
+- **11.3.** Value networks and Q-learning: The snake game example
 
 ## This chapter covers
 
