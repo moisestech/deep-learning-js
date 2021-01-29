@@ -1,5 +1,7 @@
 # Img Gen GANs
 
+## 10.3. Image generation with GANs
+
 ---
 from [[_10_gen-dl]]
 
