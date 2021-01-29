@@ -1,5 +1,7 @@
 # Var Auto Enc
 
+## 10.2. Variational autoencoders: Finding an efficient and structured vec- ctor representation of images
+
 ---
 from [[_10_gen-dl]]
 
