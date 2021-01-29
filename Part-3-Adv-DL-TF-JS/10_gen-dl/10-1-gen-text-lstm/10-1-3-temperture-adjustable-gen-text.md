@@ -1,5 +1,7 @@
 # Temp Adjust Gen Text
 
+## 10.1.3. Temperature: Adjustable randomness in the generated text
+
 ---
 from [[_10-1-gen-text-lstm]]
 
