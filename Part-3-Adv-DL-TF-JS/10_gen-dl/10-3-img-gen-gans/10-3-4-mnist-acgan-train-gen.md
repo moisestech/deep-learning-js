@@ -1,5 +1,7 @@
 # MNIST ACGAN Train Gen
 
+## 10.3.4. Seeing the MNIST ACGAN training and generation
+
 ---
 from [[_10-3-img-gen-gans]]
 
