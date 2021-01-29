@@ -1,5 +1,7 @@
 # Next Char Predictor
 
+## 10.1.1. Next-character predictor: A simple way to generate text
+
 ---
 from [[_10-1-gen-text-lstm]]
 
