@@ -1,5 +1,7 @@
 # Classical Auto Enc
 
+## 10.2.1. Classical autoencoder and VAE: Basic ideas
+
 ---
 from [[_10-2-var-auto-enc]]
 
