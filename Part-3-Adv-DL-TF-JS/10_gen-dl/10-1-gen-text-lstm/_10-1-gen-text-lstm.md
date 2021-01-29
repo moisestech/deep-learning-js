@@ -1,5 +1,7 @@
 # Gen Text LSTM
 
+## 10.1. Generating text with LSTM
+
 ---
 from [[_10_gen-dl]]
 
