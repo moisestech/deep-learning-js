@@ -1,5 +1,7 @@
 # ACGAN
 
+## 10.3.2. The building blocks of ACGAN
+
 ---
 from [[_10-3-img-gen-gans]]
 
