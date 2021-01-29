@@ -1,6 +1,6 @@
 # Training Policy Network Reinforce Algo
 
-## 11.2.3. Training the policy network: The REINFORCE algorithm
+## [**11.2.3.** Training the policy network: The REINFORCE algorithm](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-11/58)
 
 ---
 from [[_11-2-policy-networks-gradients]]
