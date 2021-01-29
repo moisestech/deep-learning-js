@@ -1,6 +1,6 @@
 # Policy Network
 
-## 11.2.2. Policy network
+## [**11.2.2.** Policy network](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-11/42)
 
 ---
 from [[_11-2-policy-networks-gradients]]
