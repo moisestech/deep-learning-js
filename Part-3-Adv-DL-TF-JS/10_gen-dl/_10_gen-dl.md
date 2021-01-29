@@ -1,10 +1,12 @@
 # Generative DL
 
 ## This chapter covers
+
 - What generative deep learning is, its applications, and how it differs from the deep-learning tasks we’ve seen so far
 - How to generate text using an RNN
 - What latent space is and how it can form the basis of generating novel images, through the example of variational autoencoders
 - The basics of generative adversarial networks
+
 ---
 from [[_part-3-adv-dl-ts-js]]
 
