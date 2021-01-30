@@ -1,6 +1,7 @@
 # Backprop In-Gradient Descent
 
-## 2.2.2 Backpropagation: Inside gradient descent
+## [**2.2.2** Backpropagation: Inside gradient descent](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-2/125)
+
 ---
 from [[_2-2-inside-model-fit]]
 
