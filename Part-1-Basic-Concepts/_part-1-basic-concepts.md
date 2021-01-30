@@ -1,5 +1,3 @@
 # Part 1 Basic concepts
 
-<!-- # Related
-- [[_part-2-intro-ts-js]] -->
-
+## [**Part 1.** Motivation and basic concepts](https://livebook.manning.com/book/deep-learning-with-javascript/part-1/)
