@@ -1,6 +1,6 @@
 # Inside Model Fit
 
-## 2.2 Inside Model.fit(): Dissecting gradient descent from example 1
+## [**2.2** Inside Model.fit(): Dissecting gradient descent from example 1](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-2/93)
 
 ---
 from [[_2_setup-linear-regress]]
