@@ -1,6 +1,6 @@
 # How to Interpret Models
 
-## 2.4 How to Interpret Models
+## [**2.4** How to Interpret Models](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-2/271)
 
 ---
 from [[_2_setup-linear-regress]]
