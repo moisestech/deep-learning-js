@@ -1,6 +1,6 @@
 # 1.2. Why JS with ML?
 
-## Why combine JavaScript and Machine Learning?
+## [**1.2.** Why combine JavaScript and Machine Learning?](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-1/95)
 
 ---
 from [[_1_dl-js]]
