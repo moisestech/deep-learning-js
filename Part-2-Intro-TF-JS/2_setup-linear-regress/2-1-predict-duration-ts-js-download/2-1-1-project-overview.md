@@ -1,6 +1,6 @@
 # Project Overview
 
-## 2.1.1. Project overview: Duration prediction
+## [**2.1.1.** Project overview: Duration prediction](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-2/9)
 
 ---
 from [[_2-1-predict-duration-download-ts-js]]
