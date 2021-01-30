@@ -1,6 +1,6 @@
 # Why DL? Why now?
-##  1.1.4. Why deep learning? Why now?
 
+## [**1.1.4.** Why deep learning? Why now?](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-1/75)
 
 ---
 from [[_1-1-ai-nn-dl]]
