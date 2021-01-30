@@ -1,6 +1,6 @@
 # Will/not teach
 
-## 1.3.4. What this book will and will not teach you about TensorFlow.js
+## [**1.3.4.** What this book will and will not teach you about TensorFlow.js](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-1/179)
 
 ---
 from [[_1-3-why-tf-js]]
