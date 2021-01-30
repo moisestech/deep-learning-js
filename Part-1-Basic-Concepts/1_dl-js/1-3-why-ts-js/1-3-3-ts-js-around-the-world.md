@@ -1,6 +1,7 @@
 # TS.js worldwide
 
-## 1.3.3. How is TensorFlow.js being used by the world?
+## [**1.3.3.** How is TensorFlow.js being used by the world?](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-1/168)
+
 ---
 from [[_1-3-why-tf-js]]
 
