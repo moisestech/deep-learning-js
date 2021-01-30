@@ -1,6 +1,7 @@
 # Housing Prices Dataset
 
-## 2.3.1. The Boston Housing Prices dataset
+## [**2.3.1.** The Boston Housing Prices dataset](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-2/165)
+
 ---
 from [[_2-3-linear-regress-multi-input-features]]
 
