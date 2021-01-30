@@ -1,7 +1,6 @@
 # MNIST dataset
 
-## 4.1.1. The MNIST dataset
-
+## [**4.1.1.** The MNIST dataset]()
 
 ---
 from [[_4-1-vectors-tensors-rep-imgs]]
