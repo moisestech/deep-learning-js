@@ -1,6 +1,7 @@
 # Summary First Example
 
-## 2.1.7 Summary of our first example
+## [**2.1.7** Summary of our first example](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-2/88)
+
 ---
 from [[_2-1-predict-duration-download-ts-js]]
 
