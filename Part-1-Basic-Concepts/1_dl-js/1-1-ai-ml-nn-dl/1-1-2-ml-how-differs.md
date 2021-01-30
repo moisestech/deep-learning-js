@@ -1,5 +1,6 @@
 # ML is not programming
-## 1.1.2. Machine learning: How it differs from traditional programming
+
+## [**1.1.2.** Machine learning: How it differs from traditional programming](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-1/26)
 
 ---
 from [[_1-1-ai-nn-dl]]
