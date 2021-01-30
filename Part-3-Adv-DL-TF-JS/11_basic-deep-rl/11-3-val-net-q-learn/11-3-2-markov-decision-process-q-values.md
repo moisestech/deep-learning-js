@@ -1,6 +1,6 @@
 # Markov Decision Process Q Values
 
-## 11.3.2. Markov decision process and Q-values
+## [**11.3.2.** Markov decision process and Q-values](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-11/115)
 
 ---
 from [[_11-3-val-net-q-learn]]
