@@ -1,5 +1,7 @@
 # Console Interact
-## 2.1.2. A note on code listings and console interactions
+
+## [**2.1.2.** A note on code listings and console interactions](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-2/14)
+
 ---
 from [[_2-1-predict-duration-download-ts-js]]
 
