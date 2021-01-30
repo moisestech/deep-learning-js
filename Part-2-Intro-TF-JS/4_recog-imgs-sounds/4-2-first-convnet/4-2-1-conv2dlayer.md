@@ -1,5 +1,7 @@
 # Conv 2D Layer
 
+## [**4.2.1.** conv2d layer](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-4/29)
+
 ---
 from [[_4-2-first-convnet]]
 
