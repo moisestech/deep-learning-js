@@ -1,6 +1,6 @@
 # Extract Weight Meanings
 
-## 2.4.1 Extracting Meaning from Learned Weights
+## [** 2.4.1** Extracting Meaning from Learned Weights](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-2/276)
 
 ---
 from [[_2-4-how-to-interpret-models]]
