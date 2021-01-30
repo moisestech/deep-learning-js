@@ -1,5 +1,7 @@
 # Training ConvNet Predict
 
+## [**4.2.5.** Training the convnet](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-4/73)
+
 ---
 from [[_4-2-first-convnet]]
 
