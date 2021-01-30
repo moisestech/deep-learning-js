@@ -1,6 +1,6 @@
 # History of TS.js
 
-## 1.3.1. A brief history of TensorFlow, Keras, and TensorFlow.js
+## [**1.3.1.** A brief history of TensorFlow, Keras, and TensorFlow.js](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-1/137)
 
 ---
 from [[_1-3-why-tf-js]]
