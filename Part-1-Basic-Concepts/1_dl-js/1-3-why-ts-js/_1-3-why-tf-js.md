@@ -1,6 +1,6 @@
 # Why TF.js?
 
-# 1.3. Why TensorFlow.js?
+## [**1.3. Why TensorFlow.js?**](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-1/135)
 
 ---
 from [[_1_dl-js]]
