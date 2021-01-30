@@ -1,7 +1,6 @@
 # The JS Ecosystem
 
-## 1.2.2. The JavaScript ecosystem
-
+## [**1.2.2.** The JavaScript ecosystem](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-1/130)
 
 ---
 from [[_1-2-why-js-ml]]
