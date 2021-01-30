@@ -1,6 +1,6 @@
 # Linear Regress Housing Data
 
-## 2.3.6. Linear regression on the Boston-housing data
+## [**2.3.6.** Linear regression on the Boston-housing data](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-2/244)
 
 ---
 from [[_2-3-linear-regress-multi-input-features]]
