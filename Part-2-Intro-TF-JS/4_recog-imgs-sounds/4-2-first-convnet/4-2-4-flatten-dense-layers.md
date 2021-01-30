@@ -1,5 +1,7 @@
 # Flatten Dense Layers
 
+## [**4.2.4.** Flatten and dense layers](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-4/60)
+
 ---
 from [[_4-2-first-convnet]]
 
