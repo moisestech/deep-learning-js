@@ -1,7 +1,6 @@
 # Def Simple Models
 
-## 2.1.4 Defining a simple model
-
+## [**2.1.4** Defining a simple model](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-2/34)
 
 ---
 from [[_2-1-predict-duration-download-ts-js]]
