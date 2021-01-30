@@ -1,8 +1,9 @@
 # 2 Setup Linear Regress
 
-## Chapter 2. Getting started: Simple linear regression in TensorFlow.js
+## [**Chapter 2.** Getting started: Simple linear regression in TensorFlow.js](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-2/)
 
 ## This Chapter Covers
+
 - A minimal example of a neural network for the simple machine-learning task of linear regression
 - Tensors and tensor operations
 - Basic neural network optimization
