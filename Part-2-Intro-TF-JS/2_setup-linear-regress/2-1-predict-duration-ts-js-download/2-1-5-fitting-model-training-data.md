@@ -1,6 +1,6 @@
 # Fit Model to Train Data
 
-## 2.1.5 Fitting the model to the training data
+## [**2.1.5** Fitting the model to the training data](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-2/63)
 
 from [[_2-1-predict-duration-download-ts-js]]
 
