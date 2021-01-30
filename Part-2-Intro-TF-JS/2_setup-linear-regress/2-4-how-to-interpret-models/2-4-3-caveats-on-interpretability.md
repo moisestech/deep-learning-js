@@ -1,6 +1,7 @@
 # Weight Caveats
 
-## 2.4.3 Caveats on interpretability
+## [**2.4.3** Caveats on interpretability](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-2/293)
+
 ---
 from [[_2-4-how-to-interpret-models]]
 
