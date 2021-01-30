@@ -1,6 +1,7 @@
 # Linear Regress Multi-Input Features
 
-## Linear regression with multiple input features
+## [**2.3.** Linear regression with multiple input features](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-2/158)
+
 ---
 from [[_2_setup-linear-regress]]
 
