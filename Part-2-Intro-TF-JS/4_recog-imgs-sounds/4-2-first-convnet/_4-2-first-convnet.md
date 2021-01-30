@@ -1,6 +1,5 @@
 # First ConvNet
-
-## 4.2. Your first convnet
+## [**4.2.** Your first convnet]()
 
 ---
 from [[_4_recog-imgs-sounds]]
