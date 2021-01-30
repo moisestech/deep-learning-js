@@ -1,7 +1,9 @@
 # Adding Non-Linearity
 
-## Chapter 3. Adding nonlinearity: Beyond weighted sums
+## [**Chapter 3.** Adding nonlinearity: Beyond weighted sums](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-3/)
+
 ## This chapter covers
+
 - What nonlinearity is and how nonlinearity in hidden layers of a neural network enhances the network’s capacity and leads to better prediction accuracies
 - What hyperparameters are and methods for tuning them
 - Binary classification through nonlinearity at the output layer, introduced with the phishing-website-detection example
