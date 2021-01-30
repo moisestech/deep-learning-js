@@ -1,6 +1,7 @@
 # Create Format Data
 
-## 2.1.3 Creating and formatting the data
+## [**2.1.3** Creating and formatting the data](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-2/21)
+
 ---
 from [[_2-1-predict-duration-download-ts-js]]
 
