@@ -1,6 +1,7 @@
 # Intuit Gradient Optims
 
-## 2.2.1 The intuitions behind gradient-descent optimization
+## [**2.2.1** The intuitions behind gradient-descent optimization](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-2/96)
+
 ---
 from [[_2-2-inside-model-fit]]
 
