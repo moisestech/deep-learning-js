@@ -1,6 +1,6 @@
 # Running Project
 
-## 2.3.2. Getting and running the Boston-housing project from GitHub
+## [**2.3.2.** Getting and running the Boston-housing project from GitHub](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-2/170)
 
 ---
 from [[_2-3-linear-regress-multi-input-features]]
