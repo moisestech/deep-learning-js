@@ -1,5 +1,7 @@
 # Max Pooling 2D Layer
 
+## [**4.2.2** maxPooling2dlayer](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-4/47)
+
 ---
 from [[_4-2-first-convnet]]
 
