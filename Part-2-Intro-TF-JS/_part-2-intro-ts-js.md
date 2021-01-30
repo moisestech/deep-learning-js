@@ -1,5 +1,7 @@
 # Part 2 Intro TS JS
 
+## [**Part 2.** A gentle introduction to TensorFlow.js](https://livebook.manning.com/book/deep-learning-with-javascript/part-2/)
+
 - [[_2_setup-linear-regress]]
 - [[_3_adding-non-linearity]]
 - [[_4_recog-imgs-sounds]]
