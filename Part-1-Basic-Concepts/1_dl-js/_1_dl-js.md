@@ -1,6 +1,6 @@
 # 1 DL and JS
 
-## Chapter 1. Deep learning and JavaScript
+## [**Chapter 1.** Deep learning and JavaScript](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-1/)
 
 ## This Chapter Covers
 
