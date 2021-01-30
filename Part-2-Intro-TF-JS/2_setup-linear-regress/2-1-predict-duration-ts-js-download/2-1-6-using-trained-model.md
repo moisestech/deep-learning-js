@@ -1,6 +1,7 @@
 # Using Trainged Model
 
-## 2.1.6. Using our trained model to make predictions
+## [**2.1.6.** Using our trained model to make predictions](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-2/81)
+
 ---
 from [[_2-1-predict-duration-download-ts-js]]
 
