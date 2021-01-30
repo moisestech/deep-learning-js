@@ -1,7 +1,6 @@
 # DL with Node.js
 
-## 1.2.1. Deep learning with Node.js
-
+## [**1.2.1.** Deep learning with Node.js](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-1/125)
 
 ---
 from [[_1-2-why-js-ml]]
