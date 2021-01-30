@@ -1,6 +1,7 @@
 # Extract Model Weights
 
-## 2.4.2 Extracting internal weights from the model
+## [**2.4.2** Extracting internal weights from the model](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-2/286)
+
 ---
 from [[_2-4-how-to-interpret-models]]
 
