@@ -1,6 +1,6 @@
 # ConvNet Predict
 
-## 4.2.6. Using a convnet to make predictions
+## [**4.2.6.** Using a convnet to make predictions](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-4/94)
 
 ---
 from [[_4-2-first-convnet]]
