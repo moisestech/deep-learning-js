@@ -1,5 +1,6 @@
 # NNs and DL
-## 1.1.3 Neural networks and deep learning
+
+## [**1.1.3** Neural networks and deep learning](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-1/52)
 
 
 ---
