@@ -1,6 +1,6 @@
 # Predict TF.js Download
 
-# 2.1. Example 1: Predicting the duration of a download using TensorFlow.js
+## [**2.1.** Example 1: Predicting the duration of a download using TensorFlow.js](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-2/7)
 
 ---
 from [[_2_setup-linear-regress]]
