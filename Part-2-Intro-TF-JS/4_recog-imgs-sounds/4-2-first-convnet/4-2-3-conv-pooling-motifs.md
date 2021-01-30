@@ -1,5 +1,7 @@
 # Conv Pooling Motifs
 
+## [**4.2.3.** Repeating motifs of convolution and pooling](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-4/55)
+
 ---
 from [[_4-2-first-convnet]]
 
