@@ -1,6 +1,7 @@
 # Train Models
 
-## 4.3. Beyond browsers: Training models faster using Node.js
+## [**4.3.** Beyond browsers: Training models faster using Node.js](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-4/124)
+
 ---
 from [[_4_recog-imgs-sounds]]
 
