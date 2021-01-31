@@ -1,6 +1,6 @@
 # MNIST dataset
 
-## [**4.1.1.** The MNIST dataset]()
+## [**4.1.1.** The MNIST dataset](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-4/15)
 
 ---
 from [[_4-1-vectors-tensors-rep-imgs]]
