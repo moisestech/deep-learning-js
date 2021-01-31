@@ -1,5 +1,6 @@
 # First ConvNet
-## [**4.2.** Your first convnet]()
+
+## [**4.2.** Your first convnet](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-4/20)
 
 ---
 from [[_4_recog-imgs-sounds]]
