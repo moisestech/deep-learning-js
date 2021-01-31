@@ -1,6 +1,6 @@
 # Depend Imports TF.js Node
 
-## 4.3.1. Dependencies and imports for using tfjs-node
+## [**4.3.1.** Dependencies and imports for using tfjs-node](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-4/126)
 
 ---
 from [[_4-3-train-models-node-js]]
