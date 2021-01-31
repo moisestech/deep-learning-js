@@ -1,6 +1,6 @@
 # Vectors Tensors Rep Imgs
 
-## [**4.1.** From vectors to tensors: Representing images]()
+## [**4.1.** From vectors to tensors: Representing images](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-4/9)
 
 ---
 from [[_4_recog-imgs-sounds]]
