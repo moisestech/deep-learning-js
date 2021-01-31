@@ -1,6 +1,6 @@
 # Saving Model Loading Browser
 
-## 4.3.2. Saving the model from Node.js and loading it in the browser
+## [**4.3.2.** Saving the model from Node.js and loading it in the browser](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-4/171)
 
 ---
 from [[_4-3-train-models-node-js]]
