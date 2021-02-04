@@ -1,7 +1,9 @@
 # Recog Img + Sounds
 
-## Chapter 4. Recognizing images and sounds using convnets
+## [**Chapter 4.** Recognizing images and sounds using convnets](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-4/)
+
 ## This chapter covers
+
 - How images and other perceptual data, such as audio, are represented as multidimensional tensors
 - What convnets are, how they work, and why they are especially suitable for machine-learning tasks involving images
 - How to write and train a convnet in TensorFlow.js to solve the task of classifying hand-written digits
