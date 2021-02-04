@@ -1,6 +1,6 @@
 # Spectrograms
 
-## 4.4.1. Spectrograms: Representing sounds as images
+## [**4.4.1.** Spectrograms: Representing sounds as images](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-4/197)
 
 ---
 from [[_4-4-spoken-word-recog-audio-data]]
