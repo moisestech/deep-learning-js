@@ -1,6 +1,6 @@
 # tf.data.Dataset
 
-## The tf.data.Dataset object
+## [**6.1.1.** The tf.data.Dataset object]()
 
 ---
 from [[_6-1-using-tf-data-to-manage-data]]
