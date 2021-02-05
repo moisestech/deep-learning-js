@@ -1,6 +1,6 @@
 # Viz Internal Active Convnets
 
-## 7.2.1. Visualizing the internal activations of a convnet
+## [**7.2.1.** Visualizing the internal activations of a convnet]()
 
 ---
 from [[_7-2-visualizing-models-after-training]]
