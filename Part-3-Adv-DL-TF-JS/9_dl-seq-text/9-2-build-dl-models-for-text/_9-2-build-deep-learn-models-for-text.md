@@ -1,6 +1,6 @@
 # Text Deep Learn Models
 
-## 9.2. Building deep-learning models for text
+## [**9.2.** Building deep-learning models for text]()
 
 ---
 from [[_9_dl-seq-text]]
