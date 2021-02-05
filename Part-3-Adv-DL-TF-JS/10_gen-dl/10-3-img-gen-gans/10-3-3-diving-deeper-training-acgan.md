@@ -1,6 +1,6 @@
 # Train ACGAN
 
-## 10.3.3. Diving deeper into the training of ACGAN
+## [**10.3.3.** Diving deeper into the training of ACGAN]()
 
 ---
 from [[_10-3-img-gen-gans]]
