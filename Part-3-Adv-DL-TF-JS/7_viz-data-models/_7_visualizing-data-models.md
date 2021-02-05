@@ -1,8 +1,10 @@
 # Viz Data & Models
 
 ## This chapter covers
+
 - How to use tfjs-vis to perform custom data visualization
 - How to peek at the internal workings of models after they are trained and gain useful insights
+
 ---
 from [[_part-3-adv-dl-ts-js]]
 
