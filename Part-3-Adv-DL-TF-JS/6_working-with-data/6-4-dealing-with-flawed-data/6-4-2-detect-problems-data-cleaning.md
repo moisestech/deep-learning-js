@@ -1,6 +1,6 @@
 # Detect / Clean Data Problems
 
-## 6.4.2. Detecting and cleaning problems with data
+## [**6.4.2.** Detecting and cleaning problems with data]()
 
 ---
 from [[_6-4-dealing-width-flawed-data]]
