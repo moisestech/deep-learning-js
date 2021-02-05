@@ -1,6 +1,6 @@
 # Sent-Analysis
 
-## 9.2.2. First attempt at the sentiment-analysis problem
+## [**9.2.2.** First attempt at the sentiment-analysis problem]()
 
 ---
 from [[_9-2-build-deep-learn-models-for-text]]
