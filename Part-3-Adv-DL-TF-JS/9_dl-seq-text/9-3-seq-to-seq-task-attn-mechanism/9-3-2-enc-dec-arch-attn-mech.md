@@ -1,6 +1,6 @@
 # En-De-Coders Attn Mechanisms
 
-## 9.3.2. The encoder-decoder architecture and the attention mechanism
+## [**9.3.2.** The encoder-decoder architecture and the attention mechanism]()
 
 ---
 from [[_9-3-seq-to-seq-task-attn-mechanism]]
