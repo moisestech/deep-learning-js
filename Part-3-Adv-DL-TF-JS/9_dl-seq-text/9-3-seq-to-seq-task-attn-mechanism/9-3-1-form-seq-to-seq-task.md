@@ -1,6 +1,6 @@
 # Seq-to-Seq Task
 
-## 9.3.1. Formulation of the sequence-to-sequence task
+## [**9.3.1.** Formulation of the sequence-to-sequence task]()
 
 ---
 from [[_9-3-seq-to-seq-task-attn-mechanism]]
