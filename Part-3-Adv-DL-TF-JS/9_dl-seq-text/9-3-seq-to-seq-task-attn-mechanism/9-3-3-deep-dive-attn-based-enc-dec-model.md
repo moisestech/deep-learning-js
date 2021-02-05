@@ -1,6 +1,6 @@
 # Attn Based Enc-Dec Model
 
-## 9.3.3. Deep dive into the attention-based encoder-decoder model
+## [**9.3.3.** Deep dive into the attention-based encoder-decoder model]()
 
 ---
 from [[_9-3-seq-to-seq-task-attn-mechanism]]
