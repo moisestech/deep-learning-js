@@ -1,6 +1,6 @@
 # LSTM Text Gene
 
-## 10.1.2. The LSTM-text-generation example
+## [**10.1.2.** The LSTM-text-generation example]()
 
 ---
 from [[_10-1-gen-text-lstm]]
