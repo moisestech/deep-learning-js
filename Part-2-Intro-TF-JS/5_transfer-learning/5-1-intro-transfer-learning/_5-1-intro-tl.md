@@ -1,6 +1,6 @@
 # Intro TL
 
-## 5.1. Introduction to transfer learning: Reusing pretrained models
+## [**5.1.** Introduction to transfer learning: Reusing pretrained models]()
 
 ---
 from [[_5_transfer-learning]]
