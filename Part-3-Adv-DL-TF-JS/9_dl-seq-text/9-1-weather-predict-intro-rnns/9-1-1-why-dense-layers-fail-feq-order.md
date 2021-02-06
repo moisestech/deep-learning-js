@@ -1,6 +1,6 @@
 # Why Dense Layers Fail Feq Order
 
-## [**9.1.1.** Why dense layers fail to model sequential order]()
+## [**9.1.1.** Why dense layers fail to model sequential order](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-9/16)
 
 ---
 from [[_9-1-weather-predict-rnns]]
