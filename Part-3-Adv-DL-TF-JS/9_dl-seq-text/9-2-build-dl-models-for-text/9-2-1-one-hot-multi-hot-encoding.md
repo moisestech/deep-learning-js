@@ -1,6 +1,6 @@
 # Text One Multi Hot Encoding
 
-## [**9.2.1.** How text is represented in machine learning: One-hot and multi-hot encoding]()
+## [**9.2.1.** How text is represented in machine learning: One-hot and multi-hot encoding](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-9/98)
 
 ---
 from [[_9-2-build-deep-learn-models-for-text]]
