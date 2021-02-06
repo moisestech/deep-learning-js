@@ -1,6 +1,6 @@
 # Simple Object Dectect
 
-## 5.2.2. Deep dive into simple object detection
+## [**5.2.2.** Deep dive into simple object detection]()
 
 ---
 from [[_5-2-object-detect-tl-convnet]]
