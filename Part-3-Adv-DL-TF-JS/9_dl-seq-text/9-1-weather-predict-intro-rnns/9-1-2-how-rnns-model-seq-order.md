@@ -1,6 +1,6 @@
 # How RNNs Model Seq Order
 
-## [**9.1.2.** How RNNs model sequential order]()
+## [**9.1.2.** How RNNs model sequential order](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-9/31)
 
 ---
 from [[_9-1-weather-predict-rnns]]
