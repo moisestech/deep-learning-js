@@ -1,6 +1,6 @@
 # TL Incomp Outputs
 
-## 5.1.1. Transfer learning based on compatible output shapes: Freezing layers
+## [**5.1.1.** Transfer learning based on compatible output shapes: Freezing layers]()
 ---
 from [[_5-1-intro-tl]]
 
