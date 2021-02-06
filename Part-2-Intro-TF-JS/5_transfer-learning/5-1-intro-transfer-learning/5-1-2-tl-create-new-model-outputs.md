@@ -1,6 +1,6 @@
 # TL Model Output
 
-## 5.1.2. Transfer learning on incompatible output shapes: Creating a new m- model using outputs fr
+## [**5.1.2.** Transfer learning on incompatible output shapes: Creating a new m- model using outputs fr]()
 
 ---
 from [[_5-1-intro-tl]]
