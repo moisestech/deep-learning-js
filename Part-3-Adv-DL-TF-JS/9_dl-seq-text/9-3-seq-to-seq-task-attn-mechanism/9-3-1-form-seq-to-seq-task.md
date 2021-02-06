@@ -1,6 +1,6 @@
 # Seq-to-Seq Task
 
-## [**9.3.1.** Formulation of the sequence-to-sequence task]()
+## [**9.3.1.** Formulation of the sequence-to-sequence task](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-9/186)
 
 ---
 from [[_9-3-seq-to-seq-task-attn-mechanism]]
