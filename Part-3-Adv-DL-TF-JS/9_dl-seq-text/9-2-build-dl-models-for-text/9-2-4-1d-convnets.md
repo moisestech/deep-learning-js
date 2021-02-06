@@ -1,6 +1,6 @@
 # 1D ConvNets
 
-## [**9.2.4.** 1D convnets]()
+## [**9.2.4.** 1D convnets](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-9/129)
 
 ---
 from [[_9-2-build-deep-learn-models-for-text]]
