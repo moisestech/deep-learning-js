@@ -1,6 +1,6 @@
 # Seq-to-seq Attn Mechanism
 
-## [**9.3.** Sequence-to-sequence tasks with attention mechanism]()
+## [**9.3.** Sequence-to-sequence tasks with attention mechanism](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-9/177)
 
 ---
 from [[_9_dl-seq-text]]
