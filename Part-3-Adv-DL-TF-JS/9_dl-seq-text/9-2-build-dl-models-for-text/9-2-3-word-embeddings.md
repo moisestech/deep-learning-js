@@ -1,6 +1,6 @@
 # Word Embeddings
 
-## [**9.2.3.** A more efficient representation of text: Word embeddings]()
+## [**9.2.3.** A more efficient representation of text: Word embeddings](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-9/117)
 
 ---
 from [[_9-2-build-deep-learn-models-for-text]]
