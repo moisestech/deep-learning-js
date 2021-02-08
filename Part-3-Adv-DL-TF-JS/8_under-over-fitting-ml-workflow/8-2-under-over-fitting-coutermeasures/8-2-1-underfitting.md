@@ -1,6 +1,6 @@
 # Underfitting
 
-## [**8.2.1.** Underfitting]()
+## [**8.2.1.** Underfitting](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-8/30)
 
 ---
 from [[_8-2-under-over-fitting-countermeasures]]
