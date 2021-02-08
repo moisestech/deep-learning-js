@@ -1,6 +1,6 @@
 # Viz Conv Layers Active Imgs
 
-## [**7.2.2.** Visualizing what convolutional layers are sensitive to: Maximally- y activating images]()
+## [**7.2.2.** Visualizing what convolutional layers are sensitive to: Maximally- y activating images](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-7/108)
 
 ---
 from [[_7-2-visualizing-models-after-training]]
