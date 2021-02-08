@@ -1,6 +1,6 @@
 # Viz Internal Active Convnets
 
-## [**7.2.1.** Visualizing the internal activations of a convnet]()
+## [**7.2.1.** Visualizing the internal activations of a convnet](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-7/96)
 
 ---
 from [[_7-2-visualizing-models-after-training]]
