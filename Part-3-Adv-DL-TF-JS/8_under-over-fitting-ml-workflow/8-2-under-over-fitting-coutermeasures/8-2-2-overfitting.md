@@ -1,6 +1,6 @@
 # Overfitting
 
-## [**8.2.2.** Overfitting]()
+## [**8.2.2.** Overfitting](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-8/43)
 
 ---
 from [[_8-2-under-over-fitting-countermeasures]]
