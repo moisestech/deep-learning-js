@@ -1,6 +1,6 @@
 # Reducing Overfitting
 
-## [**8.2.3.** Reducing overfitting with weight regularization and visualizing it working]()
+## [**8.2.3.** Reducing overfitting with weight regularization and visualizing it working](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-8/52)
 
 ---
 from [[_8-2-under-over-fitting-countermeasures]]
