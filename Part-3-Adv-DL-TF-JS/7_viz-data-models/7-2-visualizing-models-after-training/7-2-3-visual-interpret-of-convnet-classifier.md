@@ -1,6 +1,6 @@
 # Viz Convnet Classification
 
-## [**7.2.3.** Visual interpretation of a convnet’s classification result]()
+## [**7.2.3.** Visual interpretation of a convnet’s classification result](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-7/132)
 
 ---
 from [[_7-2-visualizing-models-after-training]]
