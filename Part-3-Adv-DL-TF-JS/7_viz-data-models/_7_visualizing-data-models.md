@@ -1,5 +1,7 @@
 # Viz Data & Models
 
+## [**Chapter 7.** Visualizing data and models](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-7/)
+
 ## This chapter covers
 
 - How to use tfjs-vis to perform custom data visualization
