@@ -1,6 +1,6 @@
 # Viz Models After Training
 
-## [**7.2.** Visualizing models after training]()
+## [**7.2.** Visualizing models after training](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-7/81)
 
 ---
 from [[_7_visualizing-data-models]]
