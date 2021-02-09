@@ -1,6 +1,7 @@
 # Create tf.data.Dataset
 
-## [**6.1.2.** Creating a tf.data.Dataset]()
+## [**6.1.2.** Creating a tf.data.Dataset](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-6/20)
+
 ---
 from [[_6-1-using-tf-data-to-manage-data]]
 
