@@ -1,6 +1,6 @@
 # Viz TF.js
 
-## [**7.1.1.** Visualizing data using tfjs-vis]()
+## [**7.1.1.** Visualizing data using tfjs-vis](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-7/9)
 
 ---
 from [[_7-1-data-viz]]
