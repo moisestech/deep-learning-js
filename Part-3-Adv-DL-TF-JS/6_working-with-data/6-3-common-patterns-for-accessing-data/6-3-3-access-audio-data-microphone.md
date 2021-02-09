@@ -1,6 +1,6 @@
 # Access Audio Data Microphone
 
-## [**6.3.3.** Accessing audio data using tf.data.microphone()]()
+## [**6.3.3.** Accessing audio data using tf.data.microphone()](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-6/155)
 
 ---
 from [[_6-3-common-patterns-for-accessing-data]]
