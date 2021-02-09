@@ -1,6 +1,7 @@
 # 6.3 Accessing your Dataset
 
-## [**6.1.3.** Accessing the data in your dataset]()
+## [**6.1.3.** Accessing the data in your dataset](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-6/53)
+
 ---
 from [[_6-1-using-tf-data-to-manage-data]]
 
