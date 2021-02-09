@@ -1,6 +1,6 @@
 # CSV data format
 
-## [**6.3.1.** Working with CSV format data]()
+## [**6.3.1.** Working with CSV format data](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-6/110)
 
 ---
 from [[_6-3-common-patterns-for-accessing-data]]
