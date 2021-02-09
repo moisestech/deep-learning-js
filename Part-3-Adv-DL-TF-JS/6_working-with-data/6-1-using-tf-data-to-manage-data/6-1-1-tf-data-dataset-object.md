@@ -1,6 +1,6 @@
 # tf.data.Dataset
 
-## [**6.1.1.** The tf.data.Dataset object]()
+## [**6.1.1.** The tf.data.Dataset object](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-6/17)
 
 ---
 from [[_6-1-using-tf-data-to-manage-data]]
