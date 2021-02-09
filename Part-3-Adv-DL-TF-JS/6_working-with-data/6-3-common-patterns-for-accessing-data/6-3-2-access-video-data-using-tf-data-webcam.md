@@ -1,6 +1,6 @@
 # Video tf.data.webcam
 
-## [**6.3.2.** Accessing video data using tf.data.webcam()]()
+## [**6.3.2.** Accessing video data using tf.data.webcam()](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-6/135)
 
 ---
 from [[_6-3-common-patterns-for-accessing-data]]
