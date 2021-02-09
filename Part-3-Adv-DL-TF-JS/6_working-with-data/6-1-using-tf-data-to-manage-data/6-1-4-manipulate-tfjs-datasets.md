@@ -1,6 +1,6 @@
 # Manipulate TF.js datasets
 
-## [**6.1.4.** Manipulating tfjs-data datasets]()
+## [**6.1.4.** Manipulating tfjs-data datasets](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-6/60)
 
 ---
 from [[_6-1-using-tf-data-to-manage-data]]
