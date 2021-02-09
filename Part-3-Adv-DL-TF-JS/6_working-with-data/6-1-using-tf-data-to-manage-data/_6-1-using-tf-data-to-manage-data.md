@@ -1,6 +1,6 @@
 # Manage with TF.data
 
-## [**6.1.** Using tf.data to manage data]()
+## [**6.1.** Using tf.data to manage data](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-6/11)
 
 ---
 from [[_6_working-with-data]]
