@@ -1,6 +1,6 @@
 # VAE Fashion MNIST
 
-## [**10.2.2.** A detailed example of VAE: The Fashion-MNIST example]()
+## [**10.2.2.** A detailed example of VAE: The Fashion-MNIST example](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-10/27)
 
 ---
 from [[_10-2-var-auto-enc]]

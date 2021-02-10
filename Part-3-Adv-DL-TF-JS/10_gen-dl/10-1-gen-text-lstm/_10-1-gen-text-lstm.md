@@ -1,6 +1,6 @@
 # Gen Text LSTM
 
-## [**10.1.** Generating text with LSTM]()
+## [**10.1.** Generating text with LSTM](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-10/17)
 
 ---
 from [[_10_gen-dl]]

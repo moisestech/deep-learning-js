@@ -1,6 +1,6 @@
 # ACGAN
 
-## [**10.3.2.** The building blocks of ACGAN]()
+## [**10.3.2.** The building blocks of ACGAN](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-10/147)
 
 ---
 from [[_10-3-img-gen-gans]]

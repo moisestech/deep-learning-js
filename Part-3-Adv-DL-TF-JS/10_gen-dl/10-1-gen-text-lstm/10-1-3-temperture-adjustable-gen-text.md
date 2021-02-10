@@ -1,6 +1,6 @@
 # Temp Adjust Gen Text
 
-## [**10.1.3.** Temperature: Adjustable randomness in the generated text]()
+## [**10.1.3.** Temperature: Adjustable randomness in the generated text](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-10/49)
 
 ---
 from [[_10-1-gen-text-lstm]]

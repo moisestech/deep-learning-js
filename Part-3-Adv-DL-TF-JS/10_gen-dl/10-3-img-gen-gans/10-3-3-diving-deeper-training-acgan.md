@@ -1,6 +1,6 @@
 # Train ACGAN
 
-## [**10.3.3.** Diving deeper into the training of ACGAN]()
+## [**10.3.3.** Diving deeper into the training of ACGAN](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-10/156)
 
 ---
 from [[_10-3-img-gen-gans]]

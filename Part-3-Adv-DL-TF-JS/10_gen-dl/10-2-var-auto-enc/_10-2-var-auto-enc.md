@@ -1,6 +1,6 @@
 # Var Auto Enc
 
-## [**10.2.** Variational autoencoders: Finding an efficient and structured vec- ctor representation of images]()
+## [**10.2.** Variational autoencoders: Finding an efficient and structured vec- ctor representation of images](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-10/70)
 
 ---
 from [[_10_gen-dl]]

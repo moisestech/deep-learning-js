@@ -1,5 +1,7 @@
 # Generative DL
 
+## [**Chapter 10.** Generative Deep Learning](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-10)
+
 ## This chapter covers
 
 - What generative deep learning is, its applications, and how it differs from the deep-learning tasks we’ve seen so far
