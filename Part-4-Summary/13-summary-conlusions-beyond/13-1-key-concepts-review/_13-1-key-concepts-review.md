@@ -1,4 +1,4 @@
-# Key Concepts
+# 🎓 Key Concepts
 
 ## 13.1. Key concepts in review
 
