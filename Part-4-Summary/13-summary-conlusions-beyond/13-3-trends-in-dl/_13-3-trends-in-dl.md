@@ -1,4 +1,4 @@
-# Trends in DL
+# 🎓 Trends in DL
 
 ## 13.3. Trends in deep learning
 
