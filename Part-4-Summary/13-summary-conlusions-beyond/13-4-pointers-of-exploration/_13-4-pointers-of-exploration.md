@@ -1,4 +1,4 @@
-# Exploration
+# 🎓 Exploration
 
 ## 13.4. Pointers for further exploration
 
