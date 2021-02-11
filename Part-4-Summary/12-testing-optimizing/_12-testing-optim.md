@@ -1,9 +1,12 @@
-# 12 Testing Optim
+# 💊 12 TESTING OPTIM
 
 ## Chapter 12. Testing, optimizing, and deploying models
 
 ## Sub-Chapters
-- 
+
+- **12.1.** Testing TensorFlow.js models
+- **12.2.** Model optimization
+- **12.3.** Deploying TensorFlow.js models on various platforms and environments
 
 ## This Chapter Covers
 
