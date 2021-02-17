@@ -1,4 +1,4 @@
-# DL for Seq Text
+# 🧬 DL for Seq Text
 
 ## [**Chapter 9.** Deep learning for sequences and text](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-9/)
 
