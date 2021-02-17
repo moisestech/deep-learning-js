@@ -1,4 +1,4 @@
-# Text Deep Learn Models
+# 🧬 Text Deep Learn Models
 
 ## [**9.2.** Building deep-learning models for text](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-9/89)
 
