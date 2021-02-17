@@ -1,4 +1,4 @@
-# Model Optim
+# 💊 Model Optim
 
 ## 12.2. Model optimization
 
