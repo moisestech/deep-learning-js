@@ -1,4 +1,4 @@
-# Under Over Fit Counter Measures
+# 💧 Under Over Fit Counter Measures
 
 ## [**8.2** Underfitting, overfitting, and countermeasures](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-8/28)
 
