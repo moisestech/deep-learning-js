@@ -1,4 +1,4 @@
-# Viz Data & Models
+# 👁 Viz Data & Models
 
 ## [**Chapter 7.** Visualizing data and models](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-7/)
 
