@@ -1,4 +1,4 @@
-# Working with Data
+# 🧮 Working with Data
 
 ## [**Chapter 6.** Working with Data](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-6/)
 
