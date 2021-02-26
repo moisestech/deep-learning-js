@@ -1,4 +1,4 @@
-# Basics Reinforcement Learning
+# 🟧 Basics Reinforcement Learning
 
 ## [**Ch 11.** Basics of deep reinforcement learning](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-11/)
 
