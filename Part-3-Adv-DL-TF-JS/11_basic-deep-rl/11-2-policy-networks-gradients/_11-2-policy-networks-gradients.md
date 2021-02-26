@@ -1,4 +1,4 @@
-# Policy Networks Gradients
+# 🟧 Policy Networks Gradients
 
 ## [**11.2.** Policy networks and policy gradients: The cart-pole example](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-11/26)
 
