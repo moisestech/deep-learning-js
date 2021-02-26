@@ -1,10 +1,53 @@
 # 🎓 Model Layer Types
 
-## 13.2.2. Reviewing model and layer types in TensorFlow.js: A quick reference
+## 13.2.2. Reviewing **model and layer types** in TensorFlow.js: **A quick reference**
 
 ---
 
 ## Vocabulary
+
+- multilayer perceptrons
+- convnets
+- hypothesis space
+- Vector data
+- dense layers
+- Image data
+- Audio data as spectrograms
+- RNNs
+- 1D convnets
+- 3D convnets
+- Video data
+- sequence of images
+- feature extraction
+- densely connected networks
+- caveat
+- matrix multiplication
+- kernel
+- bias
+- functions
+- densely connected
+- categorical data
+- input features
+- loss function
+- multiclass classification
+- temperature
+- pooling layers
+- flatten layer (global pooling layer)
+- Repeating patterns of convolution-pooling layer groups
+- Vector space
+- SimpleRNN
+- Binary classification
+- Regularizers
+- Node.js projects
+- ImageNet
+- Object detection
+- Human Interactions
+- WebAudio API
+- encoder
+- vocabulary (user-specific voice adaptation)
+- PoseNet
+- ML5.js
+- MusicRNN
 
 ---
 from [[_13-2-overview-dl-algo-tf-js]]
