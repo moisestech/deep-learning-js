@@ -6,6 +6,23 @@
 
 ## Vocabulary
 
+- summary
+- dataset
+- trained model
+- tensors
+- n-dimensional arrays
+- predicting
+- regression
+- hyperparameters
+- regularization
+- overfitting
+- model's quality on data subsets
+- model optimization
+- supervised learning
+- VAE
+- formulation
+- reward
+
 ---
 from [[_13-2-overview-dl-algo-tf-js]]
 
