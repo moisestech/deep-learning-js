@@ -6,6 +6,15 @@
 
 ## Vocabulary
 
+- backpropagation
+- convolutional layersrecurrent networks
+- activation functions
+- broser's WebGL
+- building blocks
+- loss functions
+- optimizers
+- possibilities
+
 ---
 from [[_13-1-key-concepts-review]]
 
