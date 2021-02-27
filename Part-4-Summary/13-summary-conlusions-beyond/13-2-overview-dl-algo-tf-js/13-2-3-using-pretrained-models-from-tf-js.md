@@ -6,6 +6,17 @@
 
 ## Vocabulary
 
+- Node.js projects
+- ImageNet
+- Object detection
+- Human Interactions
+- WebAudio API
+- encoder
+- vocabulary (user-specific voice adaptation)
+- PoseNet
+- ML5.js
+- MusicRNN
+
 ---
 from [[_13-2-overview-dl-algo-tf-js]]
 
