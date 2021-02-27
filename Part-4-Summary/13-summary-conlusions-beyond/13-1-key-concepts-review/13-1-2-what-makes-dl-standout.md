@@ -6,6 +6,17 @@
 
 ## Vocabulary
 
+- deep learning
+- images
+- data
+- accuracy
+- technology
+- classification
+- object detection
+- machine translation
+- problem
+- deploying
+
 ---
 from [[_13-1-key-concepts-review]]
 
