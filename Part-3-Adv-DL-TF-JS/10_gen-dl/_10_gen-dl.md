@@ -1,4 +1,4 @@
-# Generative DL
+# 🦋 Generative DL
 
 ## [**Chapter 10.** Generative Deep Learning](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-10)
 
