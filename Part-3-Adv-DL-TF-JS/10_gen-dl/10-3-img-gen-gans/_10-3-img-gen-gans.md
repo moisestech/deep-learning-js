@@ -1,4 +1,4 @@
-# Img Gen GANs
+# 🦋 Img Gen GANs
 
 ## [**10.3.** Image generation with GANs](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-10/126)
 
