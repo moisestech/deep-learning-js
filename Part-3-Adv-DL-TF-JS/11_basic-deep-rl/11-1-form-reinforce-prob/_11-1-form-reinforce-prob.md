@@ -1,4 +1,4 @@
-# Reinforcement Problem
+# 🟧 Reinforcement Problem
 
 ## [**11.1.** The formulation of reinforcement-learning problems](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-11/10)
 
