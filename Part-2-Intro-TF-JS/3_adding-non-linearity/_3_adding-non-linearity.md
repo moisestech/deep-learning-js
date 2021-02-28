@@ -1,4 +1,4 @@
-# Adding Non-Linearity
+# ♒️ NON-LINEARITY
 
 ## [**Chapter 3.** Adding nonlinearity: Beyond weighted sums](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-3/)
 
