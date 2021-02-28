@@ -1,4 +1,4 @@
-# Output Classification
+# ♒️ Output Classification
 
 ## 3.2. Nonlinearity at output: Models for classification
 
