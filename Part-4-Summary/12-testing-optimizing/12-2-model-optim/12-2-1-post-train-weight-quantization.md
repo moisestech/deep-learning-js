@@ -1,5 +1,7 @@
 # 💊 Post Train Weight Quantization
 
+## Vocabulary
+
 ---
 from [[_12-2-model-optim]]
 
