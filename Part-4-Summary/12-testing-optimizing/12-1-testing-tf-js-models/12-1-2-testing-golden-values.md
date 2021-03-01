@@ -2,6 +2,8 @@
 
 ## 12.1.2. Testing with golden values
 
+## Vocabulary
+
 ---
 from [[_12-1-testing-tf-models]]
 
