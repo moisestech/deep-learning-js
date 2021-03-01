@@ -1,5 +1,8 @@
 # 💊 Inference Speed Optim Graph Modeling
 
+
+## Vocabulary
+
 ---
 from [[_12-2-model-optim]]
 
