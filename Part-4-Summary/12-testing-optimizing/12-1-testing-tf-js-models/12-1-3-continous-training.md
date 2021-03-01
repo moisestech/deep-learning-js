@@ -2,6 +2,8 @@
 
 ## 12.1.3. Considerations around continuous training
 
+## Vocabulary
+
 ---
 from [[_12-1-testing-tf-models]]
 
