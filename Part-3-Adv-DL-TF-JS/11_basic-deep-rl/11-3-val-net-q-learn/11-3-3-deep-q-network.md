@@ -2,6 +2,8 @@
 
 ## [**11.3.3.** Deep Q-network](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-11/146)
 
+## Vocabulary
+
 ---
 from [[_11-3-val-net-q-learn]]
 
