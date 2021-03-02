@@ -1,10 +1,22 @@
 # Possibilities
 
-## 13.2.4. The space of possibilities
+## [**13.2.4.** The space of possibilities]()
 
 ---
 
-## Vocabulary
+## **Vocabulary**
+
+- **Mapping vector to vector**
+- **Mapping image to vector**
+- **Mapping time-series data to vector**
+- **Mapping text to vector**
+- **Mapping text to text**
+- **Mapping images to text**
+- **Mapping images to images**
+- **Mapping image and time-series data to vector**
+- **Mapping image and text to text**
+- **Mapping image and vector to image**
+- **Mapping time-series data and vector to time-series data**
 
 ---
 from [[_13-2-overview-dl-algo-tf-js]]
