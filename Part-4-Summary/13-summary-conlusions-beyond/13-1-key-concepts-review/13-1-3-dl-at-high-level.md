@@ -1,10 +1,10 @@
 # 🎓 High-level DL
 
-## 13.1.3. How to think about deep learning at a high level
+## [**13.1.3.** How to think about deep learning at a high level]()
 
 ---
 
-## Vocabulary
+## **Vocabulary**
 
 - high-level
 - labeled
