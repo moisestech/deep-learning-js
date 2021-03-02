@@ -1,21 +1,21 @@
 # 🎓 Pre-Trained TF.js Models
 
-## 13.2.3. Using pretrained models from TensorFlow.js
+## [**13.2.3.** Using pretrained models from TensorFlow.js]()
 
 ---
 
-## Vocabulary
+## **Vocabulary**
 
-- Node.js projects
-- ImageNet
-- Object detection
-- Human Interactions
-- WebAudio API
-- encoder
-- vocabulary (user-specific voice adaptation)
-- PoseNet
-- ML5.js
-- MusicRNN
+- **Node.js projects**
+- **ImageNet**
+- **Object detection**
+- **Human Interactions**
+- **WebAudio API**
+- **encoder**
+- **vocabulary (user-specific voice adaptation)**
+- **PoseNet**
+- **ML5.js**
+- **MusicRNN**
 
 ---
 from [[_13-2-overview-dl-algo-tf-js]]
