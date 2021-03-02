@@ -1,10 +1,13 @@
 # 🎓 Kaggle
 
-## 13.4.1. Practice real-world machine-learning problems on Kaggle
+## [**13.4.1.** Practice real-world machine-learning problems on Kaggle]()
 
 ---
 
-## Vocabulary
+## **Vocabulary**
+
+- **Real-world machine-learning problems**
+- **array**
 
 ---
 from [[_13-4-pointers-of-exploration]]
