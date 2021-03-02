@@ -1,4 +1,4 @@
-# 2 Setup Linear Regress
+# 🪀 2 LINEAR REGRESS
 
 ## [**Chapter 2.** Getting started: Simple linear regression in TensorFlow.js](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-2/)
 
