@@ -1,10 +1,15 @@
 # 🎓 Trends in DL
 
-## 13.3. Trends in deep learning
+## [**13.3.** Trends in deep learning]()
 
 ---
 
-## Vocabulary
+## **Vocabulary**
+
+- **AutoML**
+- **Google Vizier**
+- **reuse**
+- **momentum**
 
 ---
 from [[_13-summary-conlusions-beyond]]
