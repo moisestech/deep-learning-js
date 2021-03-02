@@ -1,10 +1,10 @@
 # 🎓 Why DL Standsout
 
-## 13.1.2. What makes deep learning stand out among the subfields of machine learning
+## [**13.1.2.** What makes deep learning stand out among the subfields of machine learning]()
 
 ---
 
-## Vocabulary
+## **Vocabulary**
 
 - deep learning
 - images
