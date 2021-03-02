@@ -1,10 +1,10 @@
 # 🎓 Key DL Tech
 
-## 13.1.4. Key enabling technologies of deep learning
+## [**13.1.4.** Key enabling technologies of deep learning]()
 
 ---
 
-## Vocabulary
+## **Vocabulary**
 
 - backpropagation
 - convolutional layersrecurrent networks
