@@ -1,6 +1,6 @@
 # 🎓 Exploration
 
-## 13.4. Pointers for further exploration
+## [**13.4.** Pointers for further exploration]()
 
 ## Sub-Chapters
 
@@ -10,7 +10,9 @@
 
 ---
 
-## Vocabulary
+## **Vocabulary**
+
+- **Feature Engineering**
 
 ---
 from [[_13-summary-conlusions-beyond]]
