@@ -1,10 +1,10 @@
 # 🎓 App Opportunities
 
-## 13.1.5. Applications and opportunities unlocked by deep learning in JavaScript
+## [**13.1.5.** Applications and opportunities unlocked by deep learning in JavaScript]()
 
 ---
 
-## Vocabulary
+## **Vocabulary**
 
 - webcam
 - sounds
