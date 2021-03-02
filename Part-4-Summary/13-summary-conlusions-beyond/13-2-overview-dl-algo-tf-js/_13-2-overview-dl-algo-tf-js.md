@@ -1,6 +1,6 @@
 # 🎓 DL Algo TF.js
 
-## 13.2. Quick overview of the deep-learning workflow and algorithms in TensorFlow.js
+## [**13.2.** Quick overview of the deep-learning workflow and algorithms in TensorFlow.js]()
 
 ## Sub-Chapters
 
@@ -12,7 +12,7 @@
 
 ---
 
-## Vocabulary
+## **Vocabulary**
 
 - considerations
 - Tensorflow.js ecosystem
