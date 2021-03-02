@@ -1,10 +1,17 @@
 # Limits of DL
 
-## 13.2.5. Limitations of deep learning
+## [**13.2.5.** Limitations of deep learning]()
 
 ---
 
-## Vocabulary
+## **Vocabulary**
+
+- **Anthropomorphization**
+- **Adversarial examples**
+- **Convnet Filters**
+- **Gradient Ascent**
+- **Input space**
+- **Local Generalization**
 
 ---
 from [[_13-2-overview-dl-algo-tf-js]]
