@@ -1,5 +1,7 @@
 # 💊 Cloud Serving
 
+## [**12.3.2.** Deployment to cloud serving]()
+
 ---
 from [[_12-3-deploy-tf-js-models-on-plats-env]]
 
