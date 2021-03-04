@@ -1,5 +1,7 @@
 # 💊 Chrome Extension
 
+## [**12.3.3.** Deploying to a browser extension, like Chrome Extension]()
+
 ---
 from [[_12-3-deploy-tf-js-models-on-plats-env]]
 
