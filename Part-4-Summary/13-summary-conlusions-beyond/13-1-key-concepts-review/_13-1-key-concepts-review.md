@@ -14,8 +14,8 @@
 
 ## **Vocabulary**
 
-- limitations of deep learning
-- javascript ecosystem
+- **limitations of deep learning**
+- **javascript ecosystem**
 
 ---
 from [[_13-summary-conlusions-beyond]]
