@@ -1,6 +1,6 @@
 # 💊 12 TESTING OPTIM
 
-## Chapter 12. Testing, optimizing, and deploying models
+## [**Chapter 12.** Testing, optimizing, and deploying models]()
 
 ## Sub-Chapters
 
@@ -14,7 +14,11 @@
 - How to optimize models trained in TensorFlow.js or converted to TensorFlow.js for faster loading and inference.
 - How to deploy TensorFlow.js models to various platforms and environments, ranging from browser extensions to mobile apps, and from desktop apps to single-board computers.
 
-## Vocabulary
+---
+
+## **Vocabulary**
+
+- 
 
 ---
 from [[_part-4-summary]]
