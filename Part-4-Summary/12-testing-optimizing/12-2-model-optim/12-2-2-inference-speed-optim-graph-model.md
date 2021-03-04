@@ -1,7 +1,10 @@
 # 💊 Inference Speed Optim Graph Modeling
 
+## [**12.2.2.** **Inference-speed optimization** using **GraphModel conversion**]()
 
-## Vocabulary
+---
+
+## **Vocabulary**
 
 ---
 from [[_12-2-model-optim]]
