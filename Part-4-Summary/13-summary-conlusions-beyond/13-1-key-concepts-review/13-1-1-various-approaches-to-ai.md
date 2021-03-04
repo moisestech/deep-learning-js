@@ -1,20 +1,20 @@
 # 🎓 AI Approaches
 
-## 13.1.1. Various approaches to AI
+## [**13.1.1.** Various approaches to AI]()
 
 ---
 
-## Vocabulary
+## **Vocabulary**
 
-- machine learning
-- artificial intelligence
-- subfields
-- models
-- training data
-- layers
-- graphs
-- weights
-- output
+- **machine learning**
+- **artificial intelligence**
+- **subfields**
+- **models**
+- **training data**
+- **layers**
+- **graphs**
+- **weights**
+- **output**
 
 ---
 from [[_13-1-key-concepts-review]]
