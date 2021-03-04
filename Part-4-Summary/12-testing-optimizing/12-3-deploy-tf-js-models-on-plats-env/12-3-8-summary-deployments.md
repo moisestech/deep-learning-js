@@ -1,5 +1,7 @@
 # 💊 Summary Deploy
 
+## [**12.3.8.** Summary of deployments]()
+
 ---
 from [[_12-3-deploy-tf-js-models-on-plats-env]]
 
