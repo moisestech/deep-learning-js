@@ -1,5 +1,7 @@
 # 💊 Mobile Apps
 
+## [**12.3.4.** Deploying TensorFlow.js models in JavaScript-based mobile applications]()
+
 ---
 from [[_12-3-deploy-tf-js-models-on-plats-env]]
 
