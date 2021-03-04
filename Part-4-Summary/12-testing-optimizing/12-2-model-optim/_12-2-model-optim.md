@@ -9,7 +9,7 @@
 
 ---
 
-## Vocabulary
+## **Vocabulary**
 
 ---
 from [[_12-testing-optim]]
