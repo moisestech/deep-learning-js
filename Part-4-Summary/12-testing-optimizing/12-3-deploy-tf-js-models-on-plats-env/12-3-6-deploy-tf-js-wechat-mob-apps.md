@@ -1,5 +1,7 @@
 # 💊 WeChat Mob Apps
 
+## [**12.3.6.** Deploying TensorFlow.js models on WeChat and other JavaScript-bas- sed mobile app plugin systems]()
+
 ---
 from [[_12-3-deploy-tf-js-models-on-plats-env]]
 
