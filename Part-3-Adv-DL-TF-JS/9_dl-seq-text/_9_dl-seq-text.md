@@ -11,6 +11,9 @@
 - What 1D convolution is and why it is an attractive alternative to RNNs
 - The unique properties of sequence-to-sequence tasks and how to use the attention mechanism to solve them
 
+---
+
+## **Vocabulary**
 
 ---
 from [[_part-3-adv-dl-ts-js]]
