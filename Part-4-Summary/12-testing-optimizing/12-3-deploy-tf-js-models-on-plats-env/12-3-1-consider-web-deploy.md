@@ -1,5 +1,7 @@
 # 💊 Web Deploy
 
+## [**12.3.1.** Additional considerations when deploying to the web]()
+
 ---
 from [[_12-3-deploy-tf-js-models-on-plats-env]]
 
