@@ -1,6 +1,10 @@
 # 💊 Post Train Weight Quantization
 
-## Vocabulary
+## [**12.2.1.** **Model-size optimization** through **post-training weight quantization**]()
+
+---
+
+## **Vocabulary**
 
 ---
 from [[_12-2-model-optim]]
