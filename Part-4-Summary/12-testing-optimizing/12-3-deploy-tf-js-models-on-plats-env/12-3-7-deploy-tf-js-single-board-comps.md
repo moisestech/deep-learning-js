@@ -1,5 +1,7 @@
 # 💊 Single Board Comps
 
+## [**12.3.7.** Deploying TensorFlow.js models on single-board computers]()
+
 ---
 from [[_12-3-deploy-tf-js-models-on-plats-env]]
 
