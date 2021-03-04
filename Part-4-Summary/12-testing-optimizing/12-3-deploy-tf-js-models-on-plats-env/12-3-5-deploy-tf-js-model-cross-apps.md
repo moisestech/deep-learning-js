@@ -1,5 +1,7 @@
 # 💊 Model Cross Apps
 
+## [**12.3.5.** Deploying TensorFlow.js models in JavaScript-based cross-platform- m desktop applications]()
+
 ---
 from [[_12-3-deploy-tf-js-models-on-plats-env]]
 
