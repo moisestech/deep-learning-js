@@ -14,7 +14,10 @@
 - The basic paradigm of reinforcement learning: agent, environment, action, and reward, and the interactions between them
 - The general ideas behind two major approaches to solving reinforcement-learning problems: policy-based and value-based methods
 
-## Vocabulary
+---
+
+## **Vocabulary**
+
 
 ---
 from [[_part-3-adv-dl-ts-js]]
