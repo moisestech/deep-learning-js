@@ -2,7 +2,9 @@
 
 ## [**11.3.** Value networks and Q-learning: The snake game example](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-11/92)
 
-## Vocabulary
+---
+
+## **Vocabulary**
 
 ---
 from [[_11_basics-deep-rl]]
