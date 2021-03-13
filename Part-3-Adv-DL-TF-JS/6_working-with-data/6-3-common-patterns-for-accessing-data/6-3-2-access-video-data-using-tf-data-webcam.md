@@ -6,6 +6,13 @@
 
 ## **Vocabulary**
 
+- **video data**
+- **`tf.data.webcam()`**
+- **transfer learning**
+- **`capture()`**
+- **`tf.nextFrame()`**
+- **weights**
+
 ---
 from [[_6-3-common-patterns-for-accessing-data]]
 
