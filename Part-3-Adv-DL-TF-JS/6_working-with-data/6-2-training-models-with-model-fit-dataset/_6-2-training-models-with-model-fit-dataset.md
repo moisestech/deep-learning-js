@@ -6,6 +6,18 @@
 
 ## **Vocabulary**
 
+- **`tf.data`**
+- **`model.fit()`**
+- **output**
+- **batch size**
+- **optimizer**
+- **`model.fitDataset()`**
+- **features**
+- **accuracy**
+- **`batchesPerEpoch`**
+- **validationData**
+- **validationBatches**
+
 ---
 from [[_6_working-with-data]]
 
