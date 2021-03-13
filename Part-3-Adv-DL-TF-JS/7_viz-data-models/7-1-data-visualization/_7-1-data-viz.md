@@ -6,6 +6,10 @@
 
 ## **Vocabulary**
 
+- **histograms**
+- **browser**
+- **real dataset**
+
 ---
 from [[_7_visualizing-data-models]]
 
