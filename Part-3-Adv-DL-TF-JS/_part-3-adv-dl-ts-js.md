@@ -1,5 +1,7 @@
 # Part 3 Adv DL TS JS
 
+## [**Part 3.** Advanced deep learning with TensorFlow.js](https://livebook.manning.com/book/deep-learning-with-javascript/part-3/1)
+
 ## Chapters
 
 - [[_6_working-width-data]]
