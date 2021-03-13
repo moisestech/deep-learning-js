@@ -12,6 +12,20 @@
 
 ## **Vocabulary**
 
+- **`tf.data`**
+- **train models**
+- **datasets**
+- **model quality**
+- **access**
+- **Kaggle**
+- **benchmarks**
+- **space race**
+- **transfer learning**
+- **vectors**
+- **tensor**
+- **training**
+- **`tf.data.Dataset`**
+
 ---
 from [[_part-3-adv-dl-ts-js]]
 
