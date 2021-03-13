@@ -6,6 +6,15 @@
 
 ## **Vocabulary**
 
+- **`tf.data.Dataset`**
+- **MNIST**
+- **data augmentation**
+- **overfitting**
+- **`dataset.map()`**
+- **tfjs-vis**
+- **`tf.data.generator()`**
+- **`model.fitDataset()`**
+
 ---
 from [[_6_working-with-data]]
 
