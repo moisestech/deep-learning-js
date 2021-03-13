@@ -4,12 +4,29 @@
 
 ## This chapter covers
 
-- How to use tfjs-vis to perform custom data visualization
-- How to peek at the internal workings of models after they are trained and gain useful insights
+- How to use `tfjs-vis` to perform **custom data visualization**
+- How to **peek at the internal workings of models** after they are trained and gain **useful insights**
+
+## Summary
+
+- We studied the basic usage of `tfjs-vis`, a visualization library tightly integrated with TensorFlow.js. It can be used to render basic types of charts in the browser.
+- **Visualizing data is an indispensable part of machine learning**. 
+  - **Efficient and effective presentation of data** can reveal patterns and provide insights that are otherwise hard to obtain, as we showed by using the *Jena-weather-archive data*.
+- Rich **patterns and insights can be extracted from trained neural networks**.
+- We showed the **steps and results of Visualizing the internal-layer activations of a deep convnet**.
+- **Calculating what the layers are maximally responsive to**.
+- **Determining which parts of an input image are most relevant to the convnet’s classification decision**.
+  - These **help us understand what is learned by the convnet and how it operates during inference**.
 
 ---
 
 ## **Vocabulary**
+
+- **Data before ML**
+- **Facets**
+- **internal activations**
+- **layers**
+- **convnet**
 
 ---
 from [[_part-3-adv-dl-ts-js]]
