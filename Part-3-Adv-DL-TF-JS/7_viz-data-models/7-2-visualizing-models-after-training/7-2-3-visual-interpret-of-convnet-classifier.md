@@ -6,6 +6,12 @@
 
 ## **Vocabulary**
 
+- **visual interpretation**
+- **class activation map**
+- **CAM algorithm**
+- **`gradClassActivationMap()`**
+- **underfitting, overfitting**
+
 ---
 from [[_7-2-visualizing-models-after-training]]
 
