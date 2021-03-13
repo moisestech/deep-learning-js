@@ -6,6 +6,12 @@
 
 ## **Vocabulary**
 
+- **audio data**
+- **`tf.data.microphone()`**
+- **image data**
+- **fast Fourier transform (FFT)**
+- **spectrogram**
+
 ---
 from [[_6-3-common-patterns-for-accessing-data]]
 
