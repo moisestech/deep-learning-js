@@ -6,6 +6,18 @@
 
 ## **Vocabulary**
 
+- **bad data vs good data**
+- **probability distribution**
+- **formulation**
+- **inference**
+- **different distributions**
+- **dataset skew**
+- **independent and identically distributed**
+- **`Plotly.js`**
+- **train-test split**
+- **streaming window**
+- **`windowSize`**
+
 ---
 from [[_6-4-dealing-width-flawed-data]]
 
