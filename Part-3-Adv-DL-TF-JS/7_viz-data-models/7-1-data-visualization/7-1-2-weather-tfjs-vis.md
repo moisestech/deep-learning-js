@@ -6,6 +6,9 @@
 
 ## **Vocabulary**
 
+- **integrative case study**
+- **visualizing weather data**
+
 ---
 from [[_7-1-data-viz]]
 
