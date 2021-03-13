@@ -6,6 +6,27 @@
 
 ## **Vocabulary**
 
+- **outliers**
+- **bias**
+- **imputation**
+- **categorical features**
+- **sentinel value**
+- **before clamping**
+- **sentinel value**
+- **`weight_missing`**
+- **deploying**
+- **simple way**
+- **Facets**
+- **algorithm**
+- **categorical data**
+- **deep-learning model**
+- **word embeddings**
+- **unbalanced data**
+- **numeric/categorical distinction**
+- **means encoding**
+- **one-hot embedding**
+- **scale differences**
+
 ---
 from [[_6-4-dealing-width-flawed-data]]
 
