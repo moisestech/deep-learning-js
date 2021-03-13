@@ -6,6 +6,11 @@
 
 ## **Vocabulary**
 
+- **interaction**
+- **`tf.data.Dataset`**
+- **`Strean`**
+- **elements**
+
 ---
 from [[_6-1-using-tf-data-to-manage-data]]
 
