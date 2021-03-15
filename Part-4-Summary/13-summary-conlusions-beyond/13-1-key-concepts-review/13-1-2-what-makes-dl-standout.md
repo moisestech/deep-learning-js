@@ -1,6 +1,6 @@
 # 🎓 Why DL Standsout
 
-## [**13.1.2.** What makes deep learning stand out among the subfields of machine learning]()
+## [**13.1.2.** What makes deep learning stand out among the subfields of machine learning](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-13/17)
 
 ---
 
