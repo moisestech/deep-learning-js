@@ -1,6 +1,6 @@
 # 🎓 Key Concepts
 
-## [**13.1.** Key concepts in review]()
+## [**13.1.** Key concepts in review](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-13/11)
 
 ## Sub-Chapters
 
