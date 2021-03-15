@@ -1,10 +1,25 @@
 # 💊 Post Train Weight Quantization
 
-## [**12.2.1.** **Model-size optimization** through **post-training weight quantization**]()
+## [**12.2.1.** **Model-size optimization** through **post-training weight quantization**](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-12/56)
 
 ---
 
 ## **Vocabulary**
+
+- **predicting**
+- **overfitting**
+- **conclusion**
+- **loss function**
+- **MNIST Dataset**
+- **`argMax()`**
+- **Fashion NIST dataset**
+- **pretrained model**
+- **ACGAN**
+- **gzip compression**
+- **repeating paterns**
+- **observation**
+- **binary**
+- **tensors**
 
 ---
 from [[_12-2-model-optim]]
