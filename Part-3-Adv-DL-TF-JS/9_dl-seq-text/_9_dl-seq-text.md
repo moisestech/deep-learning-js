@@ -11,9 +11,24 @@
 - What 1D convolution is and why it is an attractive alternative to RNNs
 - The unique properties of sequence-to-sequence tasks and how to use the attention mechanism to solve them
 
+## Summary
+
+- By virtue of being able to extract and learn information contained in the sequential order of things, RNNs can outperform feedforward models (for example, MLPs) in tasks that involve sequential input data. We see this through the example of applying simpleRNN and GRU to the temperature-prediction problem.
+- There are three types of RNNs available from TensorFlow.js: simpleRNN, GRU, and LSTM. The latter two types are more sophisticated than simpleRNN in that they use a more complex internal structure to make it possible to carry memory state over many time steps, which mitigates the vanishing-gradient problem. GRU is computationally less intensive than LSTM. In most practical problems, you’ll probably want to use GRU and LSTM.
+- When building neural networks for text, the text inputs need to be represented as vectors of numbers first. This is called text vectorization. Most frequently used methods of text vectorization include one-hot and multi-hot encoding, as well as the more powerful embedding method.
+- In word embedding, each word is represented as a nonsparse vector, of which the element values are learned through backpropagation, just like all other weight parameters of the neural network. The function in TensorFlow.js that performs embedding is tf.layers.embedding().
+- seq2seq problems are different from sequence-based regression and classification problems in that they involve generating a new sequence as the output. RNNs can be used (together with other layer types) to form an encoder-decoder architecture to solve seq2seq problems.
+- In seq2seq problems, the attention mechanism enables different items of the output sequence to selectively depend on specific elements of the input sequence. We demonstrate how to train an attention-based encoder-decoder network to solve a simple date-conversion problem and visualize the attention matrix during inference.
+
 ---
 
 ## **Vocabulary**
+
+- **arrays**
+- **trend**
+- **sequences**
+- **features**
+- **output sequence**
 
 ---
 from [[_part-3-adv-dl-ts-js]]
