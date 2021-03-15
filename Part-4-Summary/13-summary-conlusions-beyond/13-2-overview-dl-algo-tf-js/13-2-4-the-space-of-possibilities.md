@@ -1,6 +1,6 @@
 # Possibilities
 
-## [**13.2.4.** The space of possibilities]()
+## [**13.2.4.** The space of possibilities](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-13/111)
 
 ---
 
