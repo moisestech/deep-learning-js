@@ -1,6 +1,6 @@
 # Limits of DL
 
-## [**13.2.5.** Limitations of deep learning]()
+## [**13.2.5.** Limitations of deep learning](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-13/127)
 
 ---
 
