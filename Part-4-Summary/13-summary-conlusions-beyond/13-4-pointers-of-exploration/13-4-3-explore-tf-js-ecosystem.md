@@ -1,6 +1,6 @@
 # 🎓 TF.js Ecosystem
 
-## [**13.4.3.** Explore the TensorFlow.js Ecosystem]()
+## [**13.4.3.** Explore the TensorFlow.js Ecosystem](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-13/1)
 
 ---
 from [[_13-4-pointers-of-exploration]]
