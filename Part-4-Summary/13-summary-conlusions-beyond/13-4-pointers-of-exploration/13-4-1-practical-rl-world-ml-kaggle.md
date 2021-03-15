@@ -1,6 +1,6 @@
 # 🎓 Kaggle
 
-## [**13.4.1.** Practice real-world machine-learning problems on Kaggle]()
+## [**13.4.1.** Practice real-world machine-learning problems on Kaggle](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-13/150)
 
 ---
 
