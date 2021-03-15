@@ -1,6 +1,6 @@
 # 🎓 Trends in DL
 
-## [**13.3.** Trends in deep learning]()
+## [**13.3.** Trends in deep learning](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-13/136)
 
 ---
 
