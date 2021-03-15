@@ -1,6 +1,6 @@
 # 🎓 Model Layer Types
 
-## [**13.2.2.** Reviewing **model and layer types** in TensorFlow.js: **A quick reference**]()
+## [**13.2.2.** Reviewing **model and layer types** in TensorFlow.js: **A quick reference**](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-13/61)
 
 ---
 
