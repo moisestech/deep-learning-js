@@ -1,6 +1,6 @@
 # 💊 Testing Golden Values
 
-## 12.1.2. Testing with golden values
+## [**12.1.2.** Testing with golden values](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-12/33)
 
 ---
 
