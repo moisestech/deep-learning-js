@@ -1,6 +1,6 @@
 # 🎓 App Opportunities
 
-## [**13.1.5.** Applications and opportunities unlocked by deep learning in JavaScript]()
+## [**13.1.5.** Applications and opportunities unlocked by deep learning in JavaScript](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-13/34)
 
 ---
 
