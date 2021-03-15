@@ -1,6 +1,6 @@
 # 🎓 Pre-Trained TF.js Models
 
-## [**13.2.3.** Using pretrained models from TensorFlow.js]()
+## [**13.2.3.** Using pretrained models from TensorFlow.js](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-13/100)
 
 ---
 
