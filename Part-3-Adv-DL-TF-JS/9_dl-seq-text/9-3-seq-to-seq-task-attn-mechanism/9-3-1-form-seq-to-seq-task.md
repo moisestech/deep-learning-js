@@ -6,6 +6,10 @@
 
 ## **Vocabulary**
 
+- **encode-decoder architecture**
+- **trained model**
+- **heatmap**
+
 ---
 from [[_9-3-seq-to-seq-task-attn-mechanism]]
 
