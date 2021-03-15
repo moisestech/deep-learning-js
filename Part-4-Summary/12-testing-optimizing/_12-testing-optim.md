@@ -16,6 +16,14 @@
 
 ---
 
+## Summary
+
+- Good engineering discipline around testing is as important to your machine-learning code as it is to your non-machine-learning code. However, avoid the temptation to focus strongly on “special” examples or make assertions on “golden” model predictions. Instead, rely on testing the fundamental properties of your model, such as its input and output specifications. Furthermore, remember that all the data-preprocessing code before your machine-learning system is just “normal” code and should be tested accordingly.
+- Optimizing the speed of downloading and inference is an important factor to the success of client-side deployment of TensorFlow.js models. Using the post-training weight quantization feature of the tensorflowjs_converter binary, you can reduce the total size of a model, in some cases without observable loss of inference accuracy. The graph-model conversion feature of tensorflowjs_converter helps to speed up model inference through graph transformations such as op fusion. You are highly encouraged to test and employ both model-optimization techniques when deploying your TensorFlow.js models to production.
+- A trained, optimized model is not the end of the story for your machine-learning application. You must find some way to integrate it with an actual product. The most common way for TensorFlow.js applications to be deployed is within web pages, but this is just one of a wide variety of deployment scenarios, each with its own strengths. TensorFlow.js models can run as browser extensions, within native mobile apps, as native desktop applications, and even on single-board hardware like the Raspberry Pi.
+
+---
+
 ## **Vocabulary**
 
 - 
