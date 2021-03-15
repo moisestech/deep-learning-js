@@ -1,6 +1,6 @@
 # 🎓 Workflow of SL
 
-## [**13.2.1.** The universal workflow of supervised deep learning]()
+## [**13.2.1.** The universal workflow of supervised deep learning](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-13/46)
 
 ---
 
