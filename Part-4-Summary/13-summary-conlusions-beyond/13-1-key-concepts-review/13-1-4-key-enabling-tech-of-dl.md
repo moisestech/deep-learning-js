@@ -1,6 +1,6 @@
 # 🎓 Key DL Tech
 
-## [**13.1.4.** Key enabling technologies of deep learning]()
+## [**13.1.4.** Key enabling technologies of deep learning](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-13/25)
 
 ---
 
