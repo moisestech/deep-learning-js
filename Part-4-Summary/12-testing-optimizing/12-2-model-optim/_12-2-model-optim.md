@@ -1,6 +1,6 @@
 # 💊 Model Optim
 
-## 12.2. Model optimization
+## [**12.2.** Model optimization]()
 
 ## Sub-Chapters
 
