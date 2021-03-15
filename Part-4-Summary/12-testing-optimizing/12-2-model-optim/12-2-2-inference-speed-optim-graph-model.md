@@ -1,10 +1,30 @@
 # 💊 Inference Speed Optim Graph Modeling
 
-## [**12.2.2.** **Inference-speed optimization** using **GraphModel conversion**]()
+## [**12.2.2.** **Inference-speed optimization** using **GraphModel conversion**](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-12/114)
 
 ---
 
 ## **Vocabulary**
+
+- **GraphModel**
+- **`tf.GraphModel`**
+- **`tf.loadGraphModel()`**
+- **relu activation**
+- **graph**
+- **fine granularity**
+- **ahead-of-time analysis**
+- **fine granularity**
+- **Batch Normalization layer**
+- **`tf.layers.batchNormalization()`**
+- **`predict()`**
+- **Layers API**
+- **op fusion**
+- **`tf.layers.dense()`**
+- **matrix multiplication**
+- **kernel**
+- **`Fused malMul+relu`**
+- **`tensorflowjs_ converter`**
+- **`console.timeEnd()`**
 
 ---
 from [[_12-2-model-optim]]
