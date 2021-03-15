@@ -6,6 +6,14 @@
 
 ## **Vocabulary**
 
+- **output sequence**
+- **sequence-to-sequence**
+- **text-summarization**
+- **word prediction for autocompletion**
+- **music composition**
+- **chat bots**
+- **attention mechanism**
+
 ---
 from [[_9_dl-seq-text]]
 
