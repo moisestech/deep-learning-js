@@ -1,6 +1,6 @@
 # 🎓 Exploration
 
-## [**13.4.** Pointers for further exploration]()
+## [**13.4.** Pointers for further exploration](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-13/148)
 
 ## Sub-Chapters
 
