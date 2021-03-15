@@ -1,6 +1,6 @@
 # 🎓 DL Algo TF.js
 
-## [**13.2.** Quick overview of the deep-learning workflow and algorithms in TensorFlow.js]()
+## [**13.2.** Quick overview of the deep-learning workflow and algorithms in TensorFlow.js](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-13/44)
 
 ## Sub-Chapters
 
