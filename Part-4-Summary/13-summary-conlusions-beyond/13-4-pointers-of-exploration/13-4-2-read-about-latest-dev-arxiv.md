@@ -1,6 +1,6 @@
 # 🎓 Arxiv
 
-## [**13.4.2.** Read about the latest developments on arXiv]()
+## [**13.4.2.** Read about the latest developments on arXiv](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-13/153)
 
 ---
 
