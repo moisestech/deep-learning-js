@@ -1,6 +1,6 @@
 # 🎓 AI Approaches
 
-## [**13.1.1.** Various approaches to AI]()
+## [**13.1.1.** Various approaches to AI](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-13/12)
 
 ---
 
