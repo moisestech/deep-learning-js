@@ -1,6 +1,6 @@
 # 🎓 Conclusions
 
-## [**Chapter 13.** Summary, conclusions, and beyond]()
+## [**Chapter 13.** Summary, conclusions, and beyond](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-13/4)
 
 ## Sub-Chapters
 
@@ -16,6 +16,11 @@
 - Pre-trained models from the ecosystem of TensorFlow.js
 - Limitations of deep learning as it currently stands; and an educated prediction for trends in deep learning that we will see in the coming years
 - Guidance for how to further advance your deep-learning knowledge and stay up-to-date with the fast-moving field
+
+## **Vocabulary**
+
+- **limitations**
+- **Javascript ecosystem**
 
 ---
 from [[_part-4-summary]]
