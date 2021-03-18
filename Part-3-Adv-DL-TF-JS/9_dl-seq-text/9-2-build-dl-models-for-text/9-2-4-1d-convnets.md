@@ -6,6 +6,25 @@
 
 ## **Vocabulary**
 
+- **2D convolutional layers**
+- **`tf.layers.conv1d()`**
+- **`kernelSize`**
+- **`font()`**
+- **recall**
+- **considerations**
+- **trade-off**
+- **`padSequences()`**
+- **`tf.Model`**
+- **output shape**
+- **globalMaxPool1d**
+- **pooling**
+- **dot product**
+- **interaction**
+- **lstm**
+- **commands**
+- **`embeddingFilesPrefix`**
+- **`padSequences()`**
+
 ---
 from [[_9-2-build-deep-learn-models-for-text]]
 
