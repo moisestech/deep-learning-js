@@ -6,6 +6,14 @@
 
 ## **Vocabulary**
 
+- **word embedding**
+- **matrix shape**
+- **`vocabularySize`**
+- **`embeddingDims`**
+- **`sequenceLength`**
+- **`tf.gather()`**
+- **classification result**
+
 ---
 from [[_9-2-build-deep-learn-models-for-text]]
 
