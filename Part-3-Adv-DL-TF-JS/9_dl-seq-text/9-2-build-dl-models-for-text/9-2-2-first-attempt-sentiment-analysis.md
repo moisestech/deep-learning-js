@@ -6,6 +6,11 @@
 
 ## **Vocabulary**
 
+- **sentiment analysis problem**
+- **binary classification**
+- **`buildModel()`**
+- **word embeddings and 1D convnets**
+
 ---
 from [[_9-2-build-deep-learn-models-for-text]]
 
