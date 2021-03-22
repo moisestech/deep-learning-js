@@ -6,6 +6,18 @@
 
 ## **Vocabulary**
 
+- **dense layer**
+- **activation to generate the prediction**
+- **linear regression**
+- **loss function**
+- **`meanAbsoluteError`**
+- **normalized**
+- **Regression**
+- **text-output**
+- **`tfvis.show.modelSummary()`**
+- **`fitCallbacks()`**
+- **recall**
+
 ---
 from [[_8-2-under-over-fitting-countermeasures]]
 
