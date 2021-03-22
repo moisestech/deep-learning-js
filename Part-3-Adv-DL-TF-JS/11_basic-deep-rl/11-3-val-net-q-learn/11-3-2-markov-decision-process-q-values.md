@@ -6,6 +6,11 @@
 
 ## **Vocabulary**
 
+- **markov decision process (MDP)**
+- **non-markov decision process**
+- **conclusion**
+- **bellman equation**
+
 ---
 from [[_11-3-val-net-q-learn]]
 
