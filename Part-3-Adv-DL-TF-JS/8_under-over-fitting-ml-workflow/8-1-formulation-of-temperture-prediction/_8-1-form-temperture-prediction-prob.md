@@ -6,6 +6,23 @@
 
 ## **Vocabulary**
 
+- **temperature-prediction**
+- **intuition**
+- **training data**
+- **`timeSteps`**
+- **`numFeatures`**
+- **`batchSteps`**
+- **sequence**
+- **spectrogram**
+- **sequential input data**
+- **RNNs**
+- **`getNextBatchFunction()`**
+- **`next()`**
+- **`tf.data.generator`**
+- **`customCallback`**
+- **visitor surface**
+- **`fitCallbacks()`**
+
 ---
 from [[_8_under-over-fitting-ml-workflow]]
 
