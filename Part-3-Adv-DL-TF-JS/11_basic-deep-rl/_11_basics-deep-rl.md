@@ -14,9 +14,22 @@
 - The basic paradigm of reinforcement learning: agent, environment, action, and reward, and the interactions between them
 - The general ideas behind two major approaches to solving reinforcement-learning problems: policy-based and value-based methods
 
+## Summary
+
+- As a type of machine learning, RL is about learning to make optimal decisions. In an RL problem, an agent learns to select actions in an environment to maximize a metric called the cumulative reward.
+- Unlike supervised learning, there are no labeled training datasets in RL. Instead, the agent must learn what actions are good under different circumstances by trying out random actions.
+- We explored two commonly used types of RL algorithms: policy-based methods (using the cart-pole example) and Q-value-based methods (using the snake example).
+- A policy is an algorithm by which the agent picks an action based on the current state observation. A policy can be encapsulated in a neural network that takes state observation as its input and produces an action selection as its output. Such a neural network is called a policy network. In the cart-pole problem, we used policy gradients and the REINFORCEMENT method to update and train a policy network.
+- Unlike the policy-based methods, Q-learning uses a model called Q-network to estimate the values of actions under a given observed state. In the snake-dqn example, we demonstrated how a deep convnet can serve as the Q-network and how it can be trained by using the MDP assumption, the Bellman equation, and a construct called replay memory.
+
 ---
 
 ## **Vocabulary**
+
+- **reward**
+- **interactions**
+- **reinforcement learning**
+- **basic ideas**
 
 
 ---
