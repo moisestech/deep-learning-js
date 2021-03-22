@@ -6,6 +6,10 @@
 
 ## **Vocabulary**
 
+- **deep q-network**
+- **representing the snakes mouth**
+- **frames**
+- **hyperparameters**
 
 ---
 from [[_11-3-val-net-q-learn]]
