@@ -6,6 +6,9 @@
 
 ## **Vocabulary**
 
+- **underfit**
+- **overfit**
+
 ---
 from [[_8_under-over-fitting-ml-workflow]]
 
