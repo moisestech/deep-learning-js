@@ -6,6 +6,8 @@
 
 ## **Vocabulary**
 
+- **weights**
+
 ---
 from [[_11-2-policy-networks-gradients]]
 
