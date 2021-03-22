@@ -6,6 +6,28 @@
 
 ## **Vocabulary**
 
+- **`tf.layers.simpleRNN()`**
+- **feedforward layers**
+- **conv2d**
+- **rolled**
+- **flattening**
+- **weight parameters**
+- **parameter sharing**
+- **time dimension**
+- **gradient**
+- **recurrent network**
+- **graph**
+- **backpropagation through time (bptt)**
+- **activation**
+- **batch dimension**
+- **sequence data**
+- **parallelization**
+- **LSTM**
+- **vanishing gradient problem**
+- **reset gate**
+- **image input**
+- **hypothesis space**
+
 ---
 from [[_9-1-weather-predict-rnns]]
 
