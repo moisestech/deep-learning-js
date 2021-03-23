@@ -6,6 +6,33 @@
 
 ## **Vocabulary**
 
+- **loss**
+- **`trainData.xs`**
+- **`model.fit()`**
+- **loss function**
+- **`categoricalCrossentropy`**
+- **`model.compile()`**
+- **`accuracy`**
+- **`batchSize`**
+- **parameter**
+- **batch sizes**
+- **gradient**
+- **trade-off**
+- **`validationSplit`**
+- **trainData.labels**
+- **overfitting**
+- **supervised machine learning**
+- **`await`**
+- **`model.evaluate`**
+- **`fit()`**
+- **quality**
+- **random initialization**
+- **convolutional layers**
+- **browser**
+- **classification**
+- **`createConvModel`**
+- **`createDenseModel`**
+
 ---
 from [[_4-2-first-convnet]]
 
