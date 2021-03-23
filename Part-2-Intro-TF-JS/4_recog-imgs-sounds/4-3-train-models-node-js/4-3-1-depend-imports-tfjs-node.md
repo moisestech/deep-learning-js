@@ -6,6 +6,21 @@
 
 ## **Vocabulary**
 
+- **Dependencies and imports**
+- **tfjs-node**
+- **package.json**
+- **`@tensorflow/tfjs-node`**
+- **enhanced convnet**
+- **NVIDIA driver**
+- **CUDA toolkit**
+- **CuDNN**
+- **@-tensor-flow/tfjs-node-gpu**
+- **dropout layers**
+- **deep neural networks**
+- **training phase**
+- **inference phase**
+- **testing time**
+
 ---
 from [[_4-3-train-models-node-js]]
 
