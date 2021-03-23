@@ -6,6 +6,18 @@
 
 ## **Vocabulary**
 
+- **checkpoint or an artifact**
+- **`model.save()`**
+- **modelSavePath**
+- **`model.json`**
+- **`filters`**
+- **`rates`**
+- **`tf.loadLayersModel()`**
+- **transfer learning**
+- **caveat**
+- **`tf.loadLayersModel()`**
+- **`tf.io.browserHTTPRequest()`**
+
 ---
 from [[_4-3-train-models-node-js]]
 
