@@ -6,6 +6,16 @@
 
 ## **Vocabulary**
 
+- **classical autoencoder**
+- **basic ideas**
+- **loss function**
+- **image-to-image transformation**
+- **z-vector**
+- **encoder**
+- **decoder**
+- **latent vector**
+- **classical autoencoders**
+
 ---
 from [[_10-2-var-auto-enc]]
 
