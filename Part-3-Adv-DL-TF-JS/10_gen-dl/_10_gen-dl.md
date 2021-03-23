@@ -6,12 +6,29 @@
 
 - What generative deep learning is, its applications, and how it differs from the deep-learning tasks we’ve seen so far
 - How to generate text using an RNN
-- What latent space is and how it can form the basis of generating novel images, through the example of variational autoencoders
+- What latent space is and how it can form the basis of generating novel images, through the example of variational auto-encoders
 - The basics of generative adversarial networks
+
+## Summary
+
+- Generative models are different from the discriminative ones we’ve studied throughout earlier chapters of this book in that they are designed to model the process in which examples of the training dataset are generated, along with their statistical distributions. Due to this design, they are capable of generating new examples that conform to the distributions and hence appear similar to the real training data.
+- We introduce one way to model the structure of text datasets: next-character prediction. LSTMs can be used to perform this task in an iterative fashion to generate text of arbitrary length. The temperature parameter controls the stochasticity (how random and unpredictable) the generated text is.
+- Autoencoders are a type of generative model that consists of an encoder and a decoder. First, the encoder compresses the input data into a concise representation called the latent vector, or z-vector. Then, the decoder tries to reconstruct the input data by using just the latent vector. Through the training process, the encoder becomes an efficient data summarizer, and the decoder is endowed with knowledge of the statistical distribution of the examples. A VAE adds some additional statistical constraints on the latent vectors so that the latent spaces comprising those vectors display continuously varying and interpretable structures after the VAE is trained.
+- GANs are based on the idea of a simultaneous competition and cooperation between a discriminator and a generator. The discriminator tries to distinguish real data examples from the generated ones, while the generator aims at generating fake examples that “fool” the discriminator. Through joint training, the generator part will eventually become capable of generating realistic-looking examples. An ACGAN adds class information to the basic GAN architecture to make it possible to specify what class of examples to generate.
 
 ---
 
 ## **Vocabulary**
+
+- **deep-neural-networks**
+- **sounds**
+- **generative models**
+- **datasets**
+- **machine learning**
+- **this book**
+- **discriminative models**
+- **data better**
+- **autoencoder**
 
 ---
 from [[_part-3-adv-dl-ts-js]]
