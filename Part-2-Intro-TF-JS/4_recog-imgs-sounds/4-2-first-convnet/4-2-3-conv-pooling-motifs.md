@@ -6,6 +6,11 @@
 
 ## **Vocabulary**
 
+- **motifs**
+- **convolution and pooling**
+- **`inputShape`**
+- **`filters`**
+
 ---
 from [[_4-2-first-convnet]]
 
