@@ -6,6 +6,16 @@
 
 ## **Vocabulary**
 
+- **generator**
+- **discriminator**
+- **1D Tensor**
+- **`latentSize`**
+- **`batchSize`**
+- **backpropagation**
+- **labels**
+- **MINST**
+- **transfer learning**
+
 ---
 from [[_10-3-img-gen-gans]]
 
