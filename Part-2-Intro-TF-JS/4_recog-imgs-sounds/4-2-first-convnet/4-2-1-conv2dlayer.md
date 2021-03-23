@@ -6,6 +6,19 @@
 
 ## **Vocabulary**
 
+- **conv2d layer**
+- **2D convolution**
+- **image tensor**
+- **`kernelSize`**
+- **`filters`**
+- **training data**
+- **bias**
+- **activation function**
+- **image-to-image transformation**
+- **locality**
+- **parameter sharing**
+- **batch dimension**
+
 ---
 from [[_4-2-first-convnet]]
 
