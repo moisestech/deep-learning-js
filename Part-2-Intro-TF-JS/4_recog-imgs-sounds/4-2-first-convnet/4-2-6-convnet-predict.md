@@ -6,6 +6,23 @@
 
 ## **Vocabulary**
 
+- **Tensorflow.js models**
+- **data.js**
+- **`Float32Array`**
+- **`tf.tensor4d()`**
+- **inference**
+- **video elements**
+- **`tf.browser.fromPixels`**
+- **`tf.image.resizeBilinear();`**
+- **`tf.image.resizeNearestNeighbot()`**
+- **algorithms**
+- **PoseNet**
+- **GitHub**
+- **skew**
+- **`example.xs`**
+- **`argMax()`**
+- **`axis`**
+
 ---
 from [[_4-2-first-convnet]]
 
