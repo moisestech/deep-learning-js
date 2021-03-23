@@ -6,6 +6,10 @@
 
 ## **Vocabulary**
 
+- **observation**
+- **possibilities**
+- **axis**
+
 ---
 from [[_11_basics-deep-rl]]
 
