@@ -6,6 +6,10 @@
 
 ## **Vocabulary**
 
+- **output**
+- **sequences**
+- **training datasets**
+
 ---
 from [[_10_gen-dl]]
 
