@@ -6,6 +6,8 @@
 
 ## **Vocabulary**
 
+- **backpropagation**
+
 ---
 from [[_4_recog-imgs-sounds]]
 
