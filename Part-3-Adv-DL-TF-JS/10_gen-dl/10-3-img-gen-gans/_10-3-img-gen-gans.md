@@ -6,6 +6,11 @@
 
 ## **Vocabulary**
 
+- **StyleGAN**
+- **artifacts**
+- **ACGAN**
+- **digit class**
+
 ---
 from [[_10_gen-dl]]
 
