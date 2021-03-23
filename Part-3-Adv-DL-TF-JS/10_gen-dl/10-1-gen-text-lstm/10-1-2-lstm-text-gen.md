@@ -6,6 +6,20 @@
 
 ## **Vocabulary**
 
+- **LSTM text generation**
+- **`returnSequence`**
+- **sequential**
+- **dense layers**
+- **`lstmLayerSize`**
+- **`sampleLen`**
+- **`charSetSize`**
+- **batch dimension**
+- **categorical cross-entropy loss**
+- **optimizer**
+- **RMSProp**
+- **hyperparameters**
+- **temperature values**
+
 ---
 from [[_10-1-gen-text-lstm]]
 
