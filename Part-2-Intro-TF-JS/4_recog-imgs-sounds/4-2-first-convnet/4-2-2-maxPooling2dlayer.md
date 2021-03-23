@@ -6,6 +6,10 @@
 
 ## **Vocabulary**
 
+- **maxPooling2d layer**
+- **`pollSize`**
+- **`strides`**
+
 ---
 from [[_4-2-first-convnet]]
 
