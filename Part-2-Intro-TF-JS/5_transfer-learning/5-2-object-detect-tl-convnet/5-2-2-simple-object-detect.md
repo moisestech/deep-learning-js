@@ -1,6 +1,24 @@
-#  🟦 Simple Object Dectect
+#  🟦 Simple Object Detect
 
 ## [**5.2.2.** Deep dive into simple object detection](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-5/178)
+
+---
+
+## **Vocabulary**
+
+- **convolutional layers**
+- **`loadTruncatedBase()`**
+- **`buildNewHead()`**
+- **`meanSquaredError`**
+- **2D Tensor**
+- **batch size**
+- **scalar tensor**
+- **`customLossFunction`**
+- **matrix**
+- **binary cross entropy**
+- **hyperparameter**
+- **single-shot detection (ssd)**
+- **`meanAbsoluteError`**
 
 ---
 from [[_5-2-object-detect-tl-convnet]]
