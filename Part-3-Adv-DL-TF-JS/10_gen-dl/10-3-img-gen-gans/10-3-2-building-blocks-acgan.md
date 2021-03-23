@@ -6,6 +6,13 @@
 
 ## **Vocabulary**
 
+- **building blocks**
+- **latent vector**
+- **embedding layer**
+**`imageClass`**
+- **image tensors**
+- **`kernelSize`**
+
 ---
 from [[_10-3-img-gen-gans]]
 
