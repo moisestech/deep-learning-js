@@ -1,6 +1,6 @@
 # 💧 Under Over Fitting ML Workflow
 
-## [**Chaper 8.** Underfitting, overfitting, and the universal workflow of machine learning](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-8/)
+## [**Chapter 8.** Underfitting, overfitting, and the universal workflow of machine learning](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-8/)
 
 ## *This chapter covers*
 
