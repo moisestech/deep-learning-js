@@ -2,12 +2,14 @@
 
 ## [**8.2** Underfitting, overfitting, and countermeasures](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-8/28)
 
+- **Overfit** models can be brought back on track through countermeasures such as **regularization.**
+
 ---
 
 ## **Vocabulary**
 
-- **underfit**
-- **overfit**
+- **underfit**: a models that doesn't capture the patterns in the training data very well.
+- **overfit**: a model that captures the patterns too well, to the extent that what it learns generalizes poorly to new data.
 
 ---
 from [[_8_under-over-fitting-ml-workflow]]
