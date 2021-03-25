@@ -25,8 +25,6 @@
 - **batch size**
 - **weights**
 - **bias**:
-- **bias variance tradeoff**: the more parameters you have relative to data, the more likely you are to pick a random solution as opposed to a good solution.
-- **holdout sets**: take 85% of data for training and 15% for testing.
 - **`tf.Model.fit()`**
 - **transfer learning**
 - **fine-tunning**
