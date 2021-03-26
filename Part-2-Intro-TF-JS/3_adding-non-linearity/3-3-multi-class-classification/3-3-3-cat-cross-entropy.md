@@ -4,6 +4,10 @@
 
 ---
 
+## **Table 3.5** The values of categorical cross entropy under different probability outputs
+
+---
+
 ## **Vocabulary**
 
 - **`categoricalCrossentropy`** -
