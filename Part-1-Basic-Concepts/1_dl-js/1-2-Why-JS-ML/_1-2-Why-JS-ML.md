@@ -4,6 +4,10 @@
 
 ---
 
+## Figure 1.6 A screenshot of [TensorFlow Playground](https://playground.tensorflow.org/)
+
+---
+
 ## **Vocabulary**
 
 ---
