@@ -4,15 +4,19 @@
 
 ## This chapter covers
 
-- What nonlinearity is and how nonlinearity in hidden layers of a neural network enhances the network’s capacity and leads to better prediction accuracies
-- What hyperparameters are and methods for tuning them
-- Binary classification through nonlinearity at the output layer, introduced with the phishing-website-detection example
-- Multiclass classification and how it differs from binary classification, introduced with the iris-flower example
+- What **nonlinearity** is and how nonlinearity in hidden layers of a neural network **enhances the network’s capacity and leads to better prediction accuracies**
+- What **hyperparameters** are and **methods for tuning them**
+- **Binary classification through nonlinearity** at the output layer, introduced with the phishing-website-detection example
+- **Multiclass classification** and how it differs from binary classification, introduced with the iris-flower example
+
+## Exercises
 
 ## Summary
 
 - **Classification** tasks are different from regression tasks in that they involve making discrete predictions.
-- There are **two types of classification**: binary and multiclass. In binary classification, there are two possible classes for a given input, whereas in multiclass classification, there are three or more.
+- There are **two types of classification**:
+  - In **binary classification**, there are two possible classes for a given input
+  - whereas in **multiclass classification**, there are three or more.
 - **Binary classification** can usually be viewed as detecting a certain type of event or object of significance, called positives, among all the input examples. When viewed this way, we can use metrics such as precision, recall, and FPR, in addition to accuracy, to quantify various aspects of a binary classifier’s behavior.
 - The **trade-off** between the need to catch all positive examples and the need to minimize false positives (false alarms) is common in binary-classification tasks. The ROC curve, along with the associated AUC metric, is a technique that helps us quantify and visualize this relation.
 - A **neural network created for binary classification** should use the sigmoid activation in its last (output) layer and use binary cross entropy as the loss function during training.
