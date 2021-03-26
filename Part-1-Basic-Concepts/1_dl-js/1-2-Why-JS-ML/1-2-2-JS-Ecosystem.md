@@ -4,6 +4,10 @@
 
 ---
 
+## Table 1.2 A brief summary of the benefits of doing deep learning in JavaScript
+
+---
+
 ## **Vocabulary**
 
 ---
