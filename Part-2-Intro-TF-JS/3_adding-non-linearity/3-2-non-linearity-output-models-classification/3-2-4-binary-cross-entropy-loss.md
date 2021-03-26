@@ -4,6 +4,14 @@
 
 ---
 
+## **Figure 3.7** The step function used to convert the probability output of a binary-classification model is differentiable almost everywhere
+
+## **Figure 3.8** The binary cross-entropy loss function
+
+## **Table 3.4** Comparing values of binary cross entropy and MSE for hypothetical binary classification results
+
+---
+
 ## **Vocabulary**
 
 - **entropy**
