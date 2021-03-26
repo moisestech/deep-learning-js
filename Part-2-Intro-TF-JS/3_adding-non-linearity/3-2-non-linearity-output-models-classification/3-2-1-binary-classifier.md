@@ -4,6 +4,17 @@
 
 ---
 
+## Optimizers supported by TensorFlow.js
+
+- Stochastic Gradient Descent (SGD)
+- Momentum
+- RMSProp
+- AdaDelta
+- ADAM
+- AdaMax
+
+---
+
 ## **Vocabulary**
 
 - **Phishing Website dataset** -
