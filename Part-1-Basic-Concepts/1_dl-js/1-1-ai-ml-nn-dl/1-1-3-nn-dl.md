@@ -4,6 +4,10 @@
 
 ---
 
+## Figure 1.5 The schematic diagram of a neural network, organized in layers
+
+---
+
 ## **Vocabulary**
 
 ---
