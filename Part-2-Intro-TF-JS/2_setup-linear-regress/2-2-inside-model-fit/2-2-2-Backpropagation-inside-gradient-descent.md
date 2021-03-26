@@ -1,6 +1,12 @@
-# 🪀 Backprop In-Gradient Descent
+# 🪀 Backprop > Gradient Descent
 
 ## [**2.2.2** Backpropagation: Inside gradient descent](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-2/125)
+
+---
+
+## **Figure 2.9** Illustrating the backpropagation algorithm through a simple linear model with only one updatable weight
+
+## **Figure 2.10** Schematic drawing showing backpropagation from loss to two updatable weights (k and b)
 
 ---
 
