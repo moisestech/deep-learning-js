@@ -4,6 +4,14 @@
 
 ---
 
+## Figure 1.2 Comparing the classical programming paradigm and the machine-learning paradigm
+
+## Figure 1.3 A detailed view of the machine-learning paradigm, showing the training and inference phase
+
+## Figure 1.4 Example of the representation transformations that machine learning is about
+
+---
+
 ## **Vocabulary**
 
 ---
