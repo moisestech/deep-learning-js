@@ -4,6 +4,10 @@
 
 ---
 
+## Table 1.1 Example of Tasks in which accuracy improved with deep-learning
+
+---
+
 ## **Vocabulary**
 
 ---
