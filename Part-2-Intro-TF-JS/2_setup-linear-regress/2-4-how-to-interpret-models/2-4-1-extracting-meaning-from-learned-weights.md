@@ -4,6 +4,10 @@
 
 ---
 
+## **Figure 2.13** Ranked by absolute value, these are the top five weights learned in one run of the linear model on the Boston-housing prediction problem
+
+---
+
 ## **Vocabulary**
 
 ---
