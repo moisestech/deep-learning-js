@@ -4,6 +4,10 @@
 
 ---
 
+## **Figure 2.4** The linear model fit after training for 10, 20, 100, and 200 epochs
+
+---
+
 ## **Vocabulary**
 
 ---
