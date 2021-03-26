@@ -4,6 +4,10 @@
 
 ---
 
+## **Figure 2.12** The TensorFlow.js API documentation allows you to explore and interact with the TensorFlow API right within the documentation
+
+---
+
 ## **Vocabulary**
 
 ---
