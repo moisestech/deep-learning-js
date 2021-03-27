@@ -4,7 +4,7 @@
 
 ---
 
-## **Figure 2.2** Measured download duration versus file size. [Codepen](https://codepen.io/tfjs-book/pen/dgQVze)
+### [**Figure 2.2** Measured download duration versus file size. [Codepen](https://codepen.io/tfjs-book/pen/dgQVze)]()
 
 ---
 
