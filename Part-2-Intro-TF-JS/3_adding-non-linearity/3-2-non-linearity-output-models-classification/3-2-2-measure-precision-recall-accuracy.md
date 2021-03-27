@@ -4,7 +4,7 @@
 
 ---
 
-## **Figure 3.5** An example result from a round of training the model for phishing web page detection
+### [**Figure 3.5** An example result from a round of training the model for phishing web page detection]()
 
 ---
 
