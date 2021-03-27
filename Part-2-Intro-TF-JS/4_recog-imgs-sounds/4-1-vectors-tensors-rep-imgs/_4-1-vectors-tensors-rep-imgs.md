@@ -4,6 +4,10 @@
 
 ---
 
+### [**Figure 4.1** Representing an MNIST image as tensors in deep learning](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-4/ch04fig01)
+
+---
+
 ## **Vocabulary**
 
 - **vectors** -
