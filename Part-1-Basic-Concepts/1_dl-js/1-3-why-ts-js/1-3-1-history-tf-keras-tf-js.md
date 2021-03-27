@@ -4,13 +4,25 @@
 
 ---
 
-## **Figure 1.7** Tensors "flow through a number of layers, a common scenario in TensorFlow
+### [**Figure 1.7** Tensors "flow through a number of layers, a common scenario in TensorFlow]()
 
-## **Figure 1.8** The architecture of TensorFlow.js at a glance. Its relationship to TensorFlow and Keras is also shown
+### [**Figure 1.8** The architecture of TensorFlow.js at a glance. Its relationship to TensorFlow and Keras is also shown]()
 
 ---
 
 ## **Vocabulary**
+
+- **brief history of TensorFlow, Keras**:
+- **tensors**:
+- **graph**:
+- **sequence tasks**:
+- **pooling**:
+- **possibilities**:
+- **introduction**:
+- **loss functions**:
+- **optimizers**:
+- **interaction**:
+- **TensorFlow Developer Summit**:
 
 ---
 from [[_1-3-why-tf-js]]
