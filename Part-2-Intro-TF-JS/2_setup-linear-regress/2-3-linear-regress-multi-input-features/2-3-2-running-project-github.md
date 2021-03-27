@@ -4,7 +4,7 @@
 
 ---
 
-## **Figure 2.11** The Boston-housing linear-regression example from tfjs-examples
+### [**Figure 2.11** The Boston-housing linear-regression example from tfjs-examples]()
 
 ---
 
