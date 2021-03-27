@@ -9,9 +9,9 @@
 - **Binary classification through nonlinearity** at the output layer, introduced with the phishing-website-detection example
 - **Multiclass classification** and how it differs from binary classification, introduced with the iris-flower example
 
-## Exercises
+---
 
-## Summary
+## **Summary**
 
 - **Classification** tasks are different from regression tasks in that they involve making discrete predictions.
 - There are **two types of classification**:
@@ -28,6 +28,10 @@
     2. they are often discrete.
   - **Hyperparameter optimization** is the process in which values of the hyperparameters are sought in order to minimize a loss on the validation dataset.
   - **Hyperparameter optimization** is still an active area of research. Currently, the most frequently used methods include **grid search**, **random search**, and **Bayesian methods**.
+
+---
+
+## **Exercises**
 
 ---
 
