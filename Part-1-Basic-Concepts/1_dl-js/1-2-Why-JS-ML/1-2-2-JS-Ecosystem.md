@@ -4,11 +4,21 @@
 
 ---
 
-## Table 1.2 A brief summary of the benefits of doing deep learning in JavaScript
+### [**Table 1.2** A brief summary of the benefits of doing deep learning in JavaScript]()
 
 ---
 
 ## **Vocabulary**
+
+- **javascript ecosystem**:
+- **GitHub**:
+- **Amazon Web Services**:
+- **MongoDB**:
+- **RethinkDB**:
+- **vega.js**:
+- **plotly.js**:
+- **Ionic**:
+- **locality**:
 
 ---
 from [[_1-2-why-js-ml]]
