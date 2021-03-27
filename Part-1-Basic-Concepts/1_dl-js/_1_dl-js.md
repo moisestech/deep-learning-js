@@ -11,7 +11,57 @@
 
 ---
 
+## **Summary**
+
+- AI is the **study of automating cognitive tasks**.
+  - Machine learning is a subfield of AI in which **rules** for performing a task such as image classification are **discovered automatically by learning from examples in the training data**.
+- A **central problem** in machine learning is how to transform the original representation of data into a **representation more amenable to solving the task**.
+- **Neural networks** are an approach in machine learning wherein the **transformation of data** representation is **performed by successive steps (or layers) of mathematical operations**. 
+  - The field of **deep learning** concerns deep neural networks— neural networks with **many layers**.
+- Thanks to enhancements in **hardware**, increased availability of **labeled data**, and **advances in algorithms**, the field of deep learning has made astonishing progress since the early 2010s, **solving previously unsolvable problems** and creating exciting new opportunities.
+- **JavaScript** and the web browser are a **suitable environment** for deploying and training deep neural networks.
+- TensorFlow.js, the focus of this book, is a comprehensive, versatile, and **powerful open source library for deep learning in JavaScript**.
+
+---
+
+## Exercises
+
+---
+
 ## **Vocabulary**
+
+- **Deep Learning**:
+- **AI**:
+- **Tensorflow.js**:
+- **This book**:
+- **deep neural networks**:
+- **range of problems**:
+- **improve solution accuracy**:
+- **deep learning technology**:
+- **MNIST**:
+- **MobileNet**:
+- **inference**:
+- **transfer learning**:
+- **neural networks**:
+- **convnets**:
+- **ResNet**:
+- **Inception**:
+- **ImageNet classification**:
+- **machine translation**:
+- **LSTM**:
+- **models**:
+- **mechanisms**:
+- **GANs**:
+- **training data**:
+- **autoencoders**:
+- **RNNs**:
+- **sounds**:
+- **generate text**:
+- **image recognition**:
+- **deep reinforcement**:
+- **detection**:
+- **javascript**:
+- **node.js**:
 
 ---
 from [[_part-1-basic-concepts]]
