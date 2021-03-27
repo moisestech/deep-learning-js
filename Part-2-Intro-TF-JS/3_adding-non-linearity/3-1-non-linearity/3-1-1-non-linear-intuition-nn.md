@@ -4,13 +4,13 @@
 
 ---
 
-## **Figure 3.1** The linear-regression model (panel A) and two-layer neural network (panel B) created for the Boston-housing dataset
+### [**Figure 3.1** The linear-regression model (panel A) and two-layer neural network (panel B) created for the Boston-housing dataset]()
 
-## **Figure 3.2** Two frequently used nonlinear activation functions for deep neural networks
+### [**Figure 3.2** Two frequently used nonlinear activation functions for deep neural networks]()
 
-## **Figure 3.3** Cascading linear functions (top) and nonlinear functions (bottom)
+### [**Figure 3.3** Cascading linear functions (top) and nonlinear functions (bottom)]()
 
-## **Figure 3.4** Comparing the training results with (panel A) and without (panel B) the sigmoid activation
+### [**Figure 3.4** Comparing the training results with (panel A) and without (panel B) the sigmoid activation]()
 
 ---
 
