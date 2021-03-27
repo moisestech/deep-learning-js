@@ -4,7 +4,7 @@
 
 ---
 
-## **Figure 2.3** An illustration of our simple linear-regression model
+### [**Figure 2.3** An illustration of our simple linear-regression model]()
 
 ---
 
