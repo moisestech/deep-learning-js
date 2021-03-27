@@ -4,9 +4,9 @@
 
 ---
 
-## **Figure 3.9** A typical result from training the iris model for 40 epochs
+### [**Figure 3.9** A typical result from training the iris model for 40 epochs]()
 
-## **Figure 3.10** An example of an "imperfect" confusion matrix, in which there are nonzero elements off the diagonal
+### [**Figure 3.10** An example of an "imperfect" confusion matrix, in which there are nonzero elements off the diagonal]()
 
 ---
 
