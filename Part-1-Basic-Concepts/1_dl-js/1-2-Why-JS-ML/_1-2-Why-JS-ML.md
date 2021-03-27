@@ -4,11 +4,34 @@
 
 ---
 
-## Figure 1.6 A screenshot of [TensorFlow Playground](https://playground.tensorflow.org/)
+### [**Figure 1.6** A screenshot of [TensorFlow Playground](https://playground.tensorflow.org/)]()
 
 ---
 
 ## **Vocabulary**
+
+- **deployment**:
+- **access**:
+- **deploying**:
+- **YOLO2**:
+- **CNN-LSTM network**:
+- **WebAudio API**:
+- **spoken-word recognition**:
+- **server cost**:
+- **data privacy**:
+- **instant access**:
+- **consideration**:
+- **Google Cloud**:
+- **video data**:
+- **Instant WebGL acceleration**:
+- **PyTorch**:
+- **PoseNet**:
+- **transfer learning**:
+- **zero install**:
+- **parallelization**:
+- **TensorFlow Playground**:
+- **hyperparameters**:
+- **embedding**:
 
 ---
 from [[_1_dl-js]]
