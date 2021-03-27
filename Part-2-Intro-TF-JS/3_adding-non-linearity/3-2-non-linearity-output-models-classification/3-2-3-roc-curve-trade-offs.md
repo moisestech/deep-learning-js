@@ -4,9 +4,9 @@
 
 ---
 
-## **Figure 3.6** A set of sample ROCs plotted during the training of the phishing-detection model
+### [**Figure 3.6** A set of sample ROCs plotted during the training of the phishing-detection model]()
 
-## **Table 3.3** Commonly seen metrics for a binary-classification problem
+### [**Table 3.3** Commonly seen metrics for a binary-classification problem]()
 
 ---
 
