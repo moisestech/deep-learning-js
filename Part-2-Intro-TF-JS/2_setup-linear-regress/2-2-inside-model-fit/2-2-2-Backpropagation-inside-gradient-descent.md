@@ -4,9 +4,9 @@
 
 ---
 
-## **Figure 2.9** Illustrating the backpropagation algorithm through a simple linear model with only one updatable weight
+### [**Figure 2.9** Illustrating the backpropagation algorithm through a simple linear model with only one updatable weight]()
 
-## **Figure 2.10** Schematic drawing showing backpropagation from loss to two updatable weights (k and b)
+### [**Figure 2.10** Schematic drawing showing backpropagation from loss to two updatable weights (k and b)]()
 
 ---
 
