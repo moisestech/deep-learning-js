@@ -6,12 +6,12 @@
 
 ## **Vocabulary**
 
-- **Anthropomorphization**
-- **Adversarial examples**
-- **Convnet Filters**
-- **Gradient Ascent**
-- **Input space**
-- **Local Generalization**
+- **Anthropomorphization** -
+- **Adversarial examples** -
+- **Convnet Filters** -
+- **Gradient Ascent** -
+- **Input space** -
+- **Local Generalization** -
 
 ---
 from [[_13-2-overview-dl-algo-tf-js]]
