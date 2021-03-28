@@ -4,13 +4,13 @@
 
 ---
 
-### [**Figure 2.5** The loss surface illustrates loss, shown against the model's tunable parameters, as a contour plot]()
+### [**Figure 2.5** The loss surface illustrates loss, shown against the model's tunable parameters, as a contour plot](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-2/ch02fig05)
 
-### [**Figure 2.6** A flowchart illustrating the training loop, which updates the model via gradient descent]()
+### [**Figure 2.6** A flowchart illustrating the training loop, which updates the model via gradient descent](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-2/ch02fig06)
 
-### [**Figure 2.7** Panel A: Gradient Descent to Epochs, Panel B: A plot of the loss as a function of epoch, Panel C: the function from sizeMB to timeSec]()
+### [**Figure 2.7** Panel A: Gradient Descent to Epochs, Panel B: A plot of the loss as a function of epoch, Panel C: the function from sizeMB to timeSec](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-2/ch02fig07)
 
-### [**Figure 2.8** When the learning rate is too high, the gradient step will be too large, and the new parameters may be worse than the old ones]()
+### [**Figure 2.8** When the learning rate is too high, the gradient step will be too large, and the new parameters may be worse than the old ones](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-2/ch02fig08)
 
 ---
 
