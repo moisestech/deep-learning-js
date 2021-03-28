@@ -4,9 +4,9 @@
 
 ---
 
-### [**Figure 1.7** Tensors "flow through a number of layers, a common scenario in TensorFlow]()
+### [**Figure 1.7** Tensors "flow through a number of layers, a common scenario in TensorFlow](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-1/ch01fig07)
 
-### [**Figure 1.8** The architecture of TensorFlow.js at a glance. Its relationship to TensorFlow and Keras is also shown]()
+### [**Figure 1.8** The architecture of TensorFlow.js at a glance. Its relationship to TensorFlow and Keras is also shown](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-1/ch01fig08)
 
 ---
 
