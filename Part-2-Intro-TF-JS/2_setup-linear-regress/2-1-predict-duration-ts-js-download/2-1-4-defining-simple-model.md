@@ -4,7 +4,7 @@
 
 ---
 
-### [**Figure 2.3** An illustration of our simple linear-regression model]()
+### [**Figure 2.3** An illustration of our simple linear-regression model](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-2/ch02fig03)
 
 ---
 
