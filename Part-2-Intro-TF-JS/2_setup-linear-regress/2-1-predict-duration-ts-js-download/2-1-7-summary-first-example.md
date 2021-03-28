@@ -4,7 +4,7 @@
 
 ---
 
-### [**Figure 2.4** The linear model fit after training for 10, 20, 100, and 200 epochs]()
+### [**Figure 2.4** The linear model fit after training for 10, 20, 100, and 200 epochs](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-2/ch02fig04)
 
 ---
 
