@@ -4,11 +4,13 @@
 
 ---
 
-## Table 1.1 Example of Tasks in which accuracy improved with deep-learning
+## [**Table 1.1** Example of Tasks in which accuracy improved with deep-learning](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-1/ch01table01)
 
 ---
 
 ## **Vocabulary**
+
+- **machine learning**:
 
 ---
 from [[_1_dl-js]]
