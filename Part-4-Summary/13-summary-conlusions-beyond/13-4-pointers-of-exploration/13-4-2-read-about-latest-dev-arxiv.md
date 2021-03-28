@@ -6,8 +6,8 @@
 
 ## **Vocabulary**
 
-- **latest developments**
-- **arXiv**
+- **latest developments** -
+- **arXiv** -
 
 ---
 from [[_13-4-pointers-of-exploration]]
