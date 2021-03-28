@@ -4,15 +4,30 @@
 
 ---
 
-## Figure 1.2 Comparing the classical programming paradigm and the machine-learning paradigm
+### [**Figure 1.2** Comparing the classical programming paradigm and the machine-learning paradigm](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-1/ch01fig02)
 
-## Figure 1.3 A detailed view of the machine-learning paradigm, showing the training and inference phase
+### [**Figure 1.3** A detailed view of the machine-learning paradigm, showing the training and inference phase](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-1/ch01fig03)
 
-## Figure 1.4 Example of the representation transformations that machine learning is about
+### [**Figure 1.4** Example of the representation transformations that machine learning is about](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-1/ch01fig04)
 
 ---
 
 ## **Vocabulary**
+
+- **traditional programming**:
+- **features**:
+- **output**:
+- **binary**:
+- **array**:
+- **RGB (red-green-blue)**:
+- **labels**:
+- **predictions**:
+- **training**:
+- **hypothesis space**:
+- **training phase**:
+- **dataset**:
+- **HSV (hue-saturation-value)**:
+- **kernel methods**:
 
 ---
 from [[_1-1-ai-nn-dl]]
