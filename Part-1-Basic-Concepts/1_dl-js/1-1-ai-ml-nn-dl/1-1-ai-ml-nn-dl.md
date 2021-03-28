@@ -1,6 +1,6 @@
 # 🌱 AI, ML, NN, DL
 
-## 1.2. Why combine JavaScript and machine learning?
+## [**1.2.** Why combine JavaScript and machine learning?]()
 
 ---
 
