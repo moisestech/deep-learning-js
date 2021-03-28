@@ -4,11 +4,31 @@
 
 ---
 
-## Figure 1.5 The schematic diagram of a neural network, organized in layers
+### [**Figure 1.5** The schematic diagram of a neural network, organized in layers](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-1/ch01fig05)
 
 ---
 
 ## **Vocabulary**
+
+- **artificial neural networks**:
+- **layers**:
+- **weights**:
+- **matrix**:
+- **vector**:
+- **loss function**:
+- **gradient descent**:
+- **naives bayes classifier**:
+- **logistic regression (logreg)**:
+- **kernel methods**:
+- **tackle binary**:
+- **decision trees**:
+- **random forests**:
+- **gradient**:
+- **kaggle**:
+- **backpropagation**:
+- **feature engineering**:
+- **shallow learning**:
+- **deep-learning model**:
 
 ---
 from [[_1-1-ai-nn-dl]]
