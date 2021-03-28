@@ -6,6 +6,16 @@
 
 ## **Vocabulary**
 
+- **basic ideas**:
+- **benchmarks**:
+- **theory**:
+- **AMD**:
+- **activation functions**:
+- **weight-initialization schemes**:
+- **optimization schemes**:
+- **RMSProp**:
+- **training models**:
+
 ---
 from [[_1-1-ai-nn-dl]]
 
