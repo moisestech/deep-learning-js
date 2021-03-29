@@ -6,14 +6,14 @@
 
 ## **Vocabulary**
 
-- **backpropagation**
-- **convolutional layers recurrent networks**
-- **activation functions**
-- **browser's WebGL**
-- **building blocks**
-- **loss functions**
-- **optimizers**
-- **possibilities**
+- **backpropagation** -
+- **convolutional layers recurrent networks** -
+- **activation functions** -
+- **browser's WebGL** -
+- **building blocks** -
+- **loss functions** -
+- **optimizers** -
+- **possibilities** -
 
 ---
 from [[_13-1-key-concepts-review]]
