@@ -6,18 +6,18 @@
 
 ## **Vocabulary**
 
-- **webcam**
-- **sounds**
-- **deployment**
-- **deep-learning models**
-- **inference**
-- **transfer learning**
-- **two-way data transfer**
-- **data privacy**
-- **fine-tuning**
-- **access**
-- **Node.js**
-- **tfjs-node**
+- **webcam** -
+- **sounds** -
+- **deployment** -
+- **deep-learning models** -
+- **inference** -
+- **transfer learning** -
+- **two-way data transfer** -
+- **data privacy** -
+- **fine-tuning** -
+- **access** -
+- **Node.js** -
+- **tfjs-node** -
 
 ---
 from [[_13-1-key-concepts-review]]
