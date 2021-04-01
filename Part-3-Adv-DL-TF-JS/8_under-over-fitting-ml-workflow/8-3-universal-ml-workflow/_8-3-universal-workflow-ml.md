@@ -6,16 +6,16 @@
 
 ## **Vocabulary**
 
-- **considerations**
-- **nonstationary**
-- **precision**
-- **n-dimensional arrays**
-- **last-layer-activation**
-- **optimization**
-- **generalization**
-- **deployment**
-- **`buildLinearRegressionModel()`**
-- **input features**
+- **considerations** -
+- **nonstationary** -
+- **precision** -
+- **n-dimensional arrays** -
+- **last-layer-activation** -
+- **optimization** -
+- **generalization** -
+- **deployment** -
+- **`buildLinearRegressionModel()`** -
+- **input features** -
 
 ---
 from [[_8_under-over-fitting-ml-workflow]]
