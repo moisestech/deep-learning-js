@@ -6,13 +6,13 @@
 
 ## **Vocabulary**
 
-- **high-level**
-- **labeled**
-- **vector**
-- **geometric space**
-- **text**
-- **targets**
-- **gradient**
+- **high-level** -
+- **labeled** -
+- **vector** -
+- **geometric space** -
+- **text** -
+- **targets** -
+- **gradient** -
 
 ---
 from [[_13-1-key-concepts-review]]
