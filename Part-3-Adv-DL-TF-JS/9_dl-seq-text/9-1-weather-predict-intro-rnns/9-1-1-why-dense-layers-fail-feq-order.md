@@ -6,21 +6,21 @@
 
 ## **Vocabulary**
 
-- **dense layers**
-- **sequential order**
-- **dataset**
-- **temperature**
-- **training time**
-- **`tf.layers.flatten`**
-- **inference**
-- **output**
-- **regularization**
-- **accuracy**
-- **algorithms**
-- **`getBaselineMeanAbsoluteError()`**
-- **observations**
-- **machine learning**
-- **hyperparameter**
+- **dense layers** -
+- **sequential order** -
+- **dataset** -
+- **temperature** -
+- **training time** -
+- **`tf.layers.flatten`** -
+- **inference** -
+- **output** -
+- **regularization** -
+- **accuracy** -
+- **algorithms** -
+- **`getBaselineMeanAbsoluteError()`** -
+- **observations** -
+- **machine learning** -
+- **hyperparameter** -
 
 ---
 from [[_9-1-weather-predict-rnns]]
