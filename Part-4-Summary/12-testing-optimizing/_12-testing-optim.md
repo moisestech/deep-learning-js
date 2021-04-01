@@ -26,8 +26,6 @@
 
 ## **Vocabulary**
 
-- 
-
 ---
 from [[_part-4-summary]]
 
