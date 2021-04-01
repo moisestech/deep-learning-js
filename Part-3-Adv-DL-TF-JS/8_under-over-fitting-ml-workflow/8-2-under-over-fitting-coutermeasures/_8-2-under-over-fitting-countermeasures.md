@@ -4,12 +4,16 @@
 
 - **Overfit** models can be brought back on track through countermeasures such as **regularization.**
 
+## Blog
+
+- [Memorizing is not learning! - 6 tricks to prevent overfitting in machine learning](https://hackernoon.com/memorizing-is-not-learning-6-tricks-to-prevent-overfitting-in-machine-learning-820b091dc42)
+
 ---
 
 ## **Vocabulary**
 
-- **underfit**: a models that doesn't capture the patterns in the training data very well.
-- **overfit**: a model that captures the patterns too well, to the extent that what it learns generalizes poorly to new data.
+- **underfit** - a models that doesn't capture the patterns in the training data very well.
+- **overfit** - a model that captures the patterns too well, to the extent that what it learns generalizes poorly to new data.
 
 ---
 from [[_8_under-over-fitting-ml-workflow]]
