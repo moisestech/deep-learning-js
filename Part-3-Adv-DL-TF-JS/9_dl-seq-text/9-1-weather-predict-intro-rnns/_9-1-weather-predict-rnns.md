@@ -6,7 +6,7 @@
 
 ## **Vocabulary**
 
-- **prediction**
+- **prediction** -
 
 ---
 from [[_9_dl-seq-text]]
