@@ -22,13 +22,13 @@
 
 ## **Vocabulary**
 
-- **`tfjs-viz`**
-- **data**
-- **training machine-learning models**
-- **bias variance tradeoff**: the more parameters you have relative to data, the more likely you are to pick a random solution as opposed to a good solution.
-- **holdout sets**: take 85% of data for training and 15% for testing.
-- **cross-validation**: check your performance on the training set and when that error goes up, you stop training.
-- **constrain models**: make the number be as close to zero as possible in order to keep your data as close to each other.
+- **`tfjs-viz`** -
+- **data** -
+- **training machine-learning models** -
+- **bias variance tradeoff** - the more parameters you have relative to data, the more likely you are to pick a random solution as opposed to a good solution.
+- **holdout sets** - take 85% of data for training and 15% for testing.
+- **cross-validation** - check your performance on the training set and when that error goes up, you stop training.
+- **constrain models** - make the number be as close to zero as possible in order to keep your data as close to each other.
 
 ---
 from [[_part-3-adv-dl-ts-js]]
