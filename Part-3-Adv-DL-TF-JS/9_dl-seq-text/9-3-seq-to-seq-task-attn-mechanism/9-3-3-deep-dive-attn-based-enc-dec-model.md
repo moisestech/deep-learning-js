@@ -6,20 +6,20 @@
 
 ## **Vocabulary**
 
-- **deep-dive**
-- **attention-based encode-decoder model**
-- **`createModel()`**
-- **`maskZero: true`**
-- **`returnSequences: true`**
-- **`GetLastTimestepLayer`**
-- **symbolic tensor**
-- **`encoderLast`**
-- **softmax**
-- **`decoderCombinedContext`**
-- **`timeDistributed layer`**
-- **`categorical cross-entropy`**
-- **`argMax()`**
-- **`dateTupleToMMMSpaceDDSpaceYY()`**
+- **deep-dive** -
+- **attention-based encode-decoder model** -
+- **`createModel()`** -
+- **`maskZero: true`** -
+- **`returnSequences: true`** -
+- **`GetLastTimestepLayer`** -
+- **symbolic tensor** -
+- **`encoderLast`** -
+- **softmax** -
+- **`decoderCombinedContext`** -
+- **`timeDistributed layer`** -
+- **`categorical cross-entropy`** -
+- **`argMax()`** -
+- **`dateTupleToMMMSpaceDDSpaceYY()`** -
 
 ---
 from [[_9-3-seq-to-seq-task-attn-mechanism]]
