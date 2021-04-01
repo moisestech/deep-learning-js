@@ -6,20 +6,20 @@
 
 ## **Vocabulary**
 
-- **predicting**
-- **overfitting**
-- **conclusion**
-- **loss function**
-- **MNIST Dataset**
-- **`argMax()`**
-- **Fashion NIST dataset**
-- **pretrained model**
-- **ACGAN**
-- **gzip compression**
-- **repeating paterns**
-- **observation**
-- **binary**
-- **tensors**
+- **predicting** -
+- **overfitting** -
+- **conclusion** -
+- **loss function** -
+- **MNIST Dataset** -
+- **`argMax()`** -
+- **Fashion NIST dataset** -
+- **pretrained model** -
+- **ACGAN** -
+- **gzip compression** -
+- **repeating patterns** -
+- **observation** -
+- **binary** -
+- **tensors** -
 
 ---
 from [[_12-2-model-optim]]
