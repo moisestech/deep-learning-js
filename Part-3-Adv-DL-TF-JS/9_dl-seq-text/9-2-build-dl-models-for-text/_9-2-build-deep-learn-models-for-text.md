@@ -6,8 +6,8 @@
 
 ## **Vocabulary**
 
-- **deep-learning models**
-- **target space**
+- **deep-learning models** -
+- **target space** -
 
 ---
 from [[_9_dl-seq-text]]
