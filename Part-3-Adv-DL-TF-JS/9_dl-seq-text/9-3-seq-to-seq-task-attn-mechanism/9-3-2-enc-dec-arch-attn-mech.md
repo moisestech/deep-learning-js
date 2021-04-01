@@ -6,16 +6,16 @@
 
 ## **Vocabulary**
 
-- **regression**
-- **classification**
-- **encoder**
-- **decoder**
-- **training phase**
-- **`Model.predict()`**
-- **`runSeq2SeqInference()`**
-- **introduction**
-- **access**
-- **sounds**
+- **regression** -
+- **classification** -
+- **encoder** -
+- **decoder** -
+- **training phase** -
+- **`Model.predict()`** -
+- **`runSeq2SeqInference()`** -
+- **introduction** -
+- **access** -
+- **sounds** -
 
 ---
 from [[_9-3-seq-to-seq-task-attn-mechanism]]
