@@ -19,7 +19,7 @@
 
 ## **Vocabulary**
 
-- **deploying Tensorflow.js models**
+- **deploying Tensorflow.js models** -
 
 ---
 from [[_12-testing-optim]]
