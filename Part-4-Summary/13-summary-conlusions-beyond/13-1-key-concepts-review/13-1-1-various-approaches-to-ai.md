@@ -6,15 +6,15 @@
 
 ## **Vocabulary**
 
-- **machine learning**
-- **artificial intelligence**
-- **subfields**
-- **models**
-- **training data**
-- **layers**
-- **graphs**
-- **weights**
-- **output**
+- **machine learning** -
+- **artificial intelligence** -
+- **subfields** -
+- **models** -
+- **training data** -
+- **layers** -
+- **graphs** -
+- **weights** -
+- **output** -
 
 ---
 from [[_13-1-key-concepts-review]]
