@@ -4,21 +4,21 @@
 
 ## **Vocabulary**
 
-- **ml projects unit testing**
-- **hyperparameter tuning and training**
-- **MSE for a regression task**
-- **dataset change & regularity**
-- **problems with lenient or strict thresholds**
-- **`Math.seedrandom()` function**
-- **dropout layers**
-- **loss or metric value assertions**
-- **`model.fit()`**
-- **output shapes**
-- **sentiment-analysis**
-- **sequence**
-- **helper function**
-- **classification**
-- **random initialization**
+- **ml projects unit testing** -
+- **hyperparameter tuning and training** -
+- **MSE for a regression task** -
+- **dataset change & regularity** -
+- **problems with lenient or strict thresholds** -
+- **`Math.seedrandom()` function** -
+- **dropout layers** -
+- **loss or metric value assertions** -
+- **`model.fit()`** -
+- **output shapes** -
+- **sentiment-analysis** -
+- **sequence** -
+- **helper function** -
+- **classification** -
+- **random initialization** -
 
 ---
 from [[_12-1-testing-tf-models]]

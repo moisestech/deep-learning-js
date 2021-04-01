@@ -24,11 +24,11 @@
 
 ## **Vocabulary**
 
-- **arrays**
-- **trend**
-- **sequences**
-- **features**
-- **output sequence**
+- **arrays** -
+- **trend** -
+- **sequences** -
+- **features** -
+- **output sequence** -
 
 ---
 from [[_part-3-adv-dl-ts-js]]
