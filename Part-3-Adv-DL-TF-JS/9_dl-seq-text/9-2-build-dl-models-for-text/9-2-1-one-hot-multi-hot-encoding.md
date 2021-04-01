@@ -6,14 +6,14 @@
 
 ## **Vocabulary**
 
-- **multiclass classification**
-- **MobileNet**
-- **text vectorization**
-- **one-hot encoding**
-- **out-of vocabulary (OOV)**
-- **embedding vector**
-- **one-hot vectors**
-- **multi-hot encoding**
+- **multiclass classification** -
+- **MobileNet** -
+- **text vectorization** -
+- **one-hot encoding** -
+- **out-of vocabulary (OOV)** -
+- **embedding vector** -
+- **one-hot vectors** -
+- **multi-hot encoding** -
 
 ---
 from [[_9-2-build-deep-learn-models-for-text]]
