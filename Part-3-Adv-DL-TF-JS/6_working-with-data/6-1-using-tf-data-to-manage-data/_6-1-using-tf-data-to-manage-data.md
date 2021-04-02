@@ -6,7 +6,7 @@
 
 ## **Vocabulary**
 
-- **technology**
+- **technology** -
 
 ---
 from [[_6_working-with-data]]
