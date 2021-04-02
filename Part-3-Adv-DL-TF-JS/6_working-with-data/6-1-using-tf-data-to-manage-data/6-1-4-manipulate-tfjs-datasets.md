@@ -6,18 +6,18 @@
 
 ## **Vocabulary**
 
-- **tfjs-data datasets**
-- **almost never**
-- **`tf.data.Dataset`**
-- **considerations**
-- **training data**
-- **`map()`**
-- **`preprocessFn`**
-- **`dataset.map()`**
-- **`streaming normalization`**
-- **limitations**
-- **possibility**
-- **`samplesSoFar`**
+- **tfjs-data datasets** -
+- **almost never** -
+- **`tf.data.Dataset`** -
+- **considerations** -
+- **training data** -
+- **`map()`** -
+- **`preprocessFn`** -
+- **`dataset.map()`** -
+- **`streaming normalization`** -
+- **limitations** -
+- **possibility** -
+- **`samplesSoFar`** -
 
 ---
 from [[_6-1-using-tf-data-to-manage-data]]
