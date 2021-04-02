@@ -6,20 +6,20 @@
 
 ## **Vocabulary**
 
-- **`tf.data.Dataset`**
-- **`tf.data.array()`**
-- **`model.fitDataset()`**
-- **`model.evaluateDataset()`**
-- **`forEachAsync()`**
-- **`Dataset.forEachAsync`**
-- **representing**
-- **`tf.data.csv`**
-- **`tf.data.generator()`**
-- **generator function**
-- **sequence**
-- **myGeneratorDataset**
-- **numPlaySoFar**
-- **`tf.data.generator()`**
+- **`tf.data.Dataset`** -
+- **`tf.data.array()`** -
+- **`model.fitDataset()`** -
+- **`model.evaluateDataset()`** -
+- **`forEachAsync()`** -
+- **`Dataset.forEachAsync`** -
+- **representing** -
+- **`tf.data.csv`** -
+- **`tf.data.generator()`** -
+- **generator function** -
+- **sequence** -
+- **myGeneratorDataset** -
+- **numPlaySoFar** -
+- **`tf.data.generator()`** -
 
 ---
 from [[_6-1-using-tf-data-to-manage-data]]
