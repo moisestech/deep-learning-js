@@ -6,26 +6,26 @@
 
 ## **Vocabulary**
 
-- **features**
-- **`tfvis.render.*`**
-- **`@tensorflow/tfjs-vis`**
-- **`@tensorflow/tfjs`**
-- **`y-axis`**
-- **temperature**
-- **ROC*
-- **binary classifier**
-- **`linechart()`**
-- **scatter plots**
-- **`scatterplot()`**
-- **bar charts**
-- **`barchart()`**
-- **histograms**
-- **distributions**
-- **bins**
-- **`tfvis.render.histogram()`**
-- **`histograms()`**
-- **heatmaps**
-- **confusion matrix**
+- **features** -
+- **`tfvis.render.*`** -
+- **`@tensorflow/tfjs-vis`** -
+- **`@tensorflow/tfjs`** -
+- **`y-axis`** -
+- **temperature** -
+- **ROC* -
+- **binary classifier** -
+- **`linechart()`** -
+- **scatter plots** -
+- **`scatterplot()`** -
+- **bar charts** -
+- **`barchart()`** -
+- **histograms** -
+- **distributions** -
+- **bins** -
+- **`tfvis.render.histogram()`** -
+- **`histograms()`** -
+- **heatmaps** -
+- **confusion matrix** -
 
 ---
 from [[_7-1-data-viz]]
