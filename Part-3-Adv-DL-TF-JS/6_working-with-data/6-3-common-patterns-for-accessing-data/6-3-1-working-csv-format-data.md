@@ -6,13 +6,13 @@
 
 ## **Vocabulary**
 
-- **CSV format**
-- **lingua franca**
-- **RequestInfo**
-- **`Dataset.skip()`**
-- **empty array**
-- **`csvConfig.columnConfigs`**
-- **`tf.data.csv()`**
+- **CSV format** -
+- **lingua franca** -
+- **RequestInfo** -
+- **`Dataset.skip()`** -
+- **empty array** -
+- **`csvConfig.columnConfigs`** -
+- **`tf.data.csv()`** -
 
 ---
 from [[_6-3-common-patterns-for-accessing-data]]
