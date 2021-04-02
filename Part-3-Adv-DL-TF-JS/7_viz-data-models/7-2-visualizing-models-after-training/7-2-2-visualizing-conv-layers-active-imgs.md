@@ -6,17 +6,17 @@
 
 ## **Vocabulary**
 
-- **maximally-y**
-- **loss function**
-- **backpropagation**
-- **gradient ascent in input space**
-- **gradient descent in weight space**
-- **`inputGradientAscent()`**
-- **loss**
-- **MobileNetV2**
-- **`auxModel`**
-- **`tf.grad()`**
-- **gradFunction**
+- **maximally-y** -
+- **loss function** -
+- **backpropagation** -
+- **gradient ascent in input space** -
+- **gradient descent in weight space** -
+- **`inputGradientAscent()`** -
+- **loss** -
+- **MobileNetV2** -
+- **`auxModel`** -
+- **`tf.grad()`** -
+- **gradFunction** -
 
 ---
 from [[_7-2-visualizing-models-after-training]]
