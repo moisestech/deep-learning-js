@@ -6,16 +6,16 @@
 
 ## **Vocabulary**
 
-- **interpreting representations**
-- **decision trees**
-- **regression**
-- **algorithms**
-- **interpretability**
-- **convnet**
-- **activation**
-- **classification result**
-- **VGG16 model**
-- **convolutional layer**
+- **interpreting representations** -
+- **decision trees** -
+- **regression** -
+- **algorithms** -
+- **interpretability** -
+- **convnet** -
+- **activation** -
+- **classification result** -
+- **VGG16 model** -
+- **convolutional layer** -
 
 ---
 from [[_7_visualizing-data-models]]
