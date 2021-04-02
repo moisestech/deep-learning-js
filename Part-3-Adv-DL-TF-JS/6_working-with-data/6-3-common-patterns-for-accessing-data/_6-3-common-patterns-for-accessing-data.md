@@ -6,7 +6,7 @@
 
 ## **Vocabulary**
 
-- **common patterns**
+- **common patterns** -
 
 ---
 from [[_6_working-with-data]]
