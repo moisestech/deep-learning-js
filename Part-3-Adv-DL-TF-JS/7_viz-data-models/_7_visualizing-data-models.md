@@ -22,11 +22,11 @@
 
 ## **Vocabulary**
 
-- **Data before ML**
-- **Facets**
-- **internal activations**
-- **layers**
-- **convnet**
+- **Data before ML** -
+- **Facets** -
+- **internal activations** -
+- **layers** -
+- **convnet** -
 
 ---
 from [[_part-3-adv-dl-ts-js]]
