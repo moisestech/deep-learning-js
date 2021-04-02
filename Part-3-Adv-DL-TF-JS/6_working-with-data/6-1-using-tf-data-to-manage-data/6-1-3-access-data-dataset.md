@@ -6,8 +6,8 @@
 
 ## **Vocabulary**
 
-- **`Dataset.toArray()`**
-- **`dataset.forEachAsync(f)`**
+- **`Dataset.toArray()`** -
+- **`dataset.forEachAsync(f)`** -
 
 ---
 from [[_6-1-using-tf-data-to-manage-data]]
