@@ -6,11 +6,11 @@
 
 ## **Vocabulary**
 
-- **`buildLinearRegressionModel()`**
-- **`kernelRegularizer`**
-- **accuracy**
-- **`dropoutRate`**
-- **weight**
+- **`buildLinearRegressionModel()`** -
+- **`kernelRegularizer`** -
+- **accuracy** -
+- **`dropoutRate`** -
+- **weight** -
 
 ---
 from [[_8-2-under-over-fitting-countermeasures]]
