@@ -6,14 +6,14 @@
 
 ## **Vocabulary**
 
-- **vector**
-- **observation**
-- **information distillation pipeline**
-- **training data**
-- **deep dive**
-- **`writeInternalActivationAndGetOutput()`**
-- **`compositeModel`**
-- **prediction**
+- **vector** -
+- **observation** -
+- **information distillation pipeline** -
+- **training data** -
+- **deep dive** -
+- **`writeInternalActivationAndGetOutput()`** -
+- **`compositeModel`** -
+- **prediction** -
 
 ---
 from [[_7-2-visualizing-models-after-training]]
