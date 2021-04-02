@@ -6,16 +6,16 @@
 
 ## **Vocabulary**
 
-- **weight regularization**
-- **convnet**
-- **dropout layers**
-- **`buildMLPModel()`**
-- **tf.regularizers.l2()**
-- **`l2Rate * l2(kernel)`**
-- **hyperparameter**
-- **tfvis.show.layer()**
-- **quality**
-- **tunable parameters**
+- **weight regularization** -
+- **convnet** -
+- **dropout layers** -
+- **`buildMLPModel()`** -
+- **tf.regularizers.l2()** -
+- **`l2Rate * l2(kernel)`** -
+- **hyperparameter** -
+- **tfvis.show.layer()** -
+- **quality** -
+- **tunable parameters** -
 
 ---
 from [[_8-2-under-over-fitting-countermeasures]]
