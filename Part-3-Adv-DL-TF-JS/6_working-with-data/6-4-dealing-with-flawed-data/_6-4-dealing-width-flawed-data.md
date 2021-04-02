@@ -6,8 +6,8 @@
 
 ## **Vocabulary**
 
-- **hyperparameter**
-- **Data Wrangling with JavaScript**
+- **hyperparameter** -
+- **Data Wrangling with JavaScript** -
 
 ---
 from [[_6_working-with-data]]
