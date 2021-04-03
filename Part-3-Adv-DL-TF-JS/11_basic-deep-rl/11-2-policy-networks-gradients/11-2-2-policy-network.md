@@ -6,18 +6,18 @@
 
 ## **Vocabulary**
 
-- **features**
-- **vector**
-- **binary classifier**
-- **quality**
-- **sigmoid function**
-- **nonlinearity**
-- **`tf.multinomial()`**
-- **lstm-text-generation**
-- **softmax**
-- **`tf.sigmoid()`**
-- **exploration versus exploitation**
-- **`fitDataset()`**
+- **features** -
+- **vector** -
+- **binary classifier** -
+- **quality** -
+- **sigmoid function** -
+- **nonlinearity** -
+- **`tf.multinomial()`** -
+- **lstm-text-generation** -
+- **softmax** -
+- **`tf.sigmoid()`** -
+- **exploration versus exploitation** -
+- **`fitDataset()`** -
 
 ---
 from [[_11-2-policy-networks-gradients]]
