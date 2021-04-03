@@ -6,11 +6,11 @@
 
 ## **Vocabulary**
 
-- **next-character predictor**
-- **sequence based classification**
-- **sentiment analysis**
-- **Claude Shannon**
-- **entropy**
+- **next-character predictor** -
+- **sequence based classification** -
+- **sentiment analysis** -
+- **Claude Shannon** -
+- **entropy** -
 
 ---
 from [[_10-1-gen-text-lstm]]
