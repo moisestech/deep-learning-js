@@ -6,9 +6,9 @@
 
 ## **Vocabulary**
 
-- **VAE**
-- **GAN**
-- **image generation**
+- **VAE** -
+- **GAN** -
+- **image generation** -
 
 ---
 from [[_10_gen-dl]]
