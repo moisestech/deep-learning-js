@@ -6,9 +6,9 @@
 
 ## **Vocabulary**
 
-- **cart-pole**
-- **benchmark**
-- **MNIST**
+- **cart-pole** -
+- **benchmark** -
+- **MNIST** -
 
 ---
 from [[_11_basics-deep-rl]]
