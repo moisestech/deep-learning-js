@@ -6,8 +6,8 @@
 
 ## **Vocabulary**
 
-- **value networks**
-- **snake game example**
+- **value networks** -
+- **snake game example** -
 
 ---
 from [[_11_basics-deep-rl]]
