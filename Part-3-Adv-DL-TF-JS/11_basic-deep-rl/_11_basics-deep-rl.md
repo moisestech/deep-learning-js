@@ -26,10 +26,10 @@
 
 ## **Vocabulary**
 
-- **reward**
-- **interactions**
-- **reinforcement learning**
-- **basic ideas**
+- **reward** -
+- **interactions** -
+- **reinforcement learning** -
+- **basic ideas** -
 
 
 ---
