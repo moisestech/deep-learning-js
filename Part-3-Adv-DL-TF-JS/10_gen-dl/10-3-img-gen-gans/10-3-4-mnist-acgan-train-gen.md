@@ -6,12 +6,12 @@
 
 ## **Vocabulary**
 
-- **training and generation**
-- **tensorboard url**
-- **feature**
-- **trend**
-- **binary cross entropy**
-- **`tf.concat()`**
+- **training and generation** -
+- **tensorboard url** -
+- **feature** -
+- **trend** -
+- **binary cross entropy** -
+- **`tf.concat()`** -
 
 ---
 from [[_10-3-img-gen-gans]]
