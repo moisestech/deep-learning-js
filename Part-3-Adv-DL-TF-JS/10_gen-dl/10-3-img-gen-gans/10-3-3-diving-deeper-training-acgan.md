@@ -6,8 +6,8 @@
 
 ## **Vocabulary**
 
-- **`categorical cross entropy`**
-- **conv2dTranspose layer**
+- **`categorical cross entropy`** -
+- **conv2dTranspose layer** -
 
 ---
 from [[_10-3-img-gen-gans]]
