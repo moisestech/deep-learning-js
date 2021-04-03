@@ -20,15 +20,15 @@
 
 ## **Vocabulary**
 
-- **deep-neural-networks**
-- **sounds**
-- **generative models**
-- **datasets**
-- **machine learning**
-- **this book**
-- **discriminative models**
-- **data better**
-- **autoencoder**
+- **deep-neural-networks** -
+- **sounds** -
+- **generative models** -
+- **datasets** -
+- **machine learning** -
+- **this book** -
+- **discriminative models** -
+- **data better** -
+- **autoencoder** -
 
 ---
 from [[_part-3-adv-dl-ts-js]]
