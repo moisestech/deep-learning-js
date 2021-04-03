@@ -6,11 +6,11 @@
 
 ## **Vocabulary**
 
-- **tensor**
-- **batch dimension**
-- **`getStateTensor()`**
-- **tensor buffer**
-- **conv2d layers**
+- **tensor** -
+- **batch dimension** -
+- **`getStateTensor()`** -
+- **tensor buffer** -
+- **conv2d layers** -
 
 ---
 from [[_11-3-val-net-q-learn]]
