@@ -6,13 +6,13 @@
 
 ## **Vocabulary**
 
-- **`sample()`**
-- **`tf.div()`**
-- **`tf.log()`**
-- **`tf.multinomial()`**
-- **`argMax()`**
-- **deterministic**
-- **weights**
+- **`sample()`** -
+- **`tf.div()`** -
+- **`tf.log()`** -
+- **`tf.multinomial()`** -
+- **`argMax()`** -
+- **deterministic** -
+- **weights** -
 
 ---
 from [[_10-1-gen-text-lstm]]
