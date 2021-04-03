@@ -6,20 +6,20 @@
 
 ## **Vocabulary**
 
-- **intuition**
-- **backpropagation**
-- **gradient descent**
-- **replay memory**
-- **rolling dataset**
-- **`tf.LayersModel`**
-- **`fitDataset()`**
-- **epsilon-greedy algorithm**
-- **`actionTensor`**
-- **`createDeepQNetwork()`**
-- **`meanSquaredError`**
-- **`tf.variableGrads()`**
-- **optimizer**
-- **`targetQs`**
+- **intuition** -
+- **backpropagation** -
+- **gradient descent** -
+- **replay memory** -
+- **rolling dataset** -
+- **`tf.LayersModel`** -
+- **`fitDataset()`** -
+- **epsilon-greedy algorithm** -
+- **`actionTensor`** -
+- **`createDeepQNetwork()`** -
+- **`meanSquaredError`** -
+- **`tf.variableGrads()`** -
+- **optimizer** -
+- **`targetQs`** -
 
 ---
 from [[_11-3-val-net-q-learn]]
