@@ -6,14 +6,14 @@
 
 ## **Vocabulary**
 
-- **reward discounting**
-- **`getGradientAndSaveActions()`**
-- **`scaleAndAverageGradients()`**
-- **loss function**
-- **policy gradients**
-- **theory**
-- **target**
-- **deep q-learning**
+- **reward discounting** -
+- **`getGradientAndSaveActions()`** -
+- **`scaleAndAverageGradients()`** -
+- **loss function** -
+- **policy gradients** -
+- **theory** -
+- **target** -
+- **deep q-learning** -
 
 ---
 from [[_11-2-policy-networks-gradients]]
