@@ -14,14 +14,14 @@
 
 ## **Vocabulary**
 
-- **entropy**
-- **`binaryCrossentropy`**
-- **thresholding function**
-- **step function**
-- **limitations**
-- **epsilon, fudge factor**
-- **`truthLabel`**
-- **`measSquaredError`**
+- **entropy** -
+- **`binaryCrossentropy`** -
+- **thresholding function** -
+- **step function** -
+- **limitations** -
+- **epsilon, fudge factor** -
+- **`truthLabel`** -
+- **`measSquaredError`** -
 
 ---
 from [[_3_adding-non-linearity]]
