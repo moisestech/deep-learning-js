@@ -6,10 +6,10 @@
 
 ## **Vocabulary**
 
-- **nonbinary classification**
-- **iris flower dataset**
-- **multiclass classification**
-- **multilabel classification**
+- **nonbinary classification** -
+- **iris flower dataset** -
+- **multiclass classification** -
+- **multi-label classification** -
 
 ---
 from [[_3_adding-non-linearity]]
