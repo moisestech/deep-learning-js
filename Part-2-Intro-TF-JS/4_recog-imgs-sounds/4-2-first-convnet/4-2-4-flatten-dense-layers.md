@@ -6,8 +6,8 @@
 
 ## **Vocabulary**
 
-- **flatten layers**
-- **activation**
+- **flatten layers** -
+- **activation** -
 
 ---
 from [[_4-2-first-convnet]]
