@@ -19,7 +19,7 @@
 - **dropout layers** -
 - **`'sgd'` vs `'adam'`** -
 - **hyperparameter optimization** -
-- **hyperparameter tunning** -
+- **hyperparameter tuning** -
 - **algorithm** -
 - **categorical parameter** -
 - **regularization factors** -
