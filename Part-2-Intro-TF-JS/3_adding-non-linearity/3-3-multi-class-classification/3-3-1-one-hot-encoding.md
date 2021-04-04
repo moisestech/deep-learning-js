@@ -6,11 +6,11 @@
 
 ## **Vocabulary**
 
-- **one-hot-encoding**
-- **categorical data**
-- **`shuffledTargets`**
-- **1D Tensors**
-- **vector**
+- **one-hot-encoding** -
+- **categorical data** -
+- **`shuffledTargets`** -
+- **1D Tensors** -
+- **vector** -
 
 ---
 form [[_3_adding-non-linearity]]
