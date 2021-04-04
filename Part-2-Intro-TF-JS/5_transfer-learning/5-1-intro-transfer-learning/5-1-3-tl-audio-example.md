@@ -6,18 +6,18 @@
 
 ## **Vocabulary**
 
-- **spectrogram**
-- **trained model**
-- **underfitting**
-- **overfitting**
-- **fine-tunning in transfer learning**
-- **`trancatedBaseOutput`**
-- **TypeScript**
-- **`tf.SymbolicTensor`**
-- **`trainable`**
-- **attribute**
-- **`balancedTrainValSplit`**
-- **training subset**
+- **spectrogram** -
+- **trained model** -
+- **underfitting** -
+- **overfitting** -
+- **fine-tuning in transfer learning** -
+- **`trancatedBaseOutput`** -
+- **TypeScript** -
+- **`tf.SymbolicTensor`** -
+- **`trainable`** -
+- **attribute** -
+- **`balancedTrainValSplit`** -
+- **training subset** -
 
 ---
 from [[_5-1-intro-tl]]
