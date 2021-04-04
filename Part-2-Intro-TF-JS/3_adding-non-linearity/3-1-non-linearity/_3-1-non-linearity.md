@@ -6,31 +6,31 @@
 
 ## **Vocabulary**
 
-- **dense layer**
-- **trained models**
-- **data**
-- **yarn watch**
-- **command**
-- **web**
-- **training**
-- **activation**
-- **kernel**
-- **function**
-- **multilayer perceptron (MLP)**
-- **TensorFlor.js models**
-- **browsers**
-- **Node.js**
-- **output shape**
-- **representing**
-- **batch size**
-- **weights**
-- **bias**:
-- **`tf.Model.fit()`**
-- **transfer learning**
-- **fine-tunning**
-- **`model.summary()`**
-- **inference**
-- **loss**
+- **dense layer** -
+- **trained models** -
+- **data** -
+- **yarn watch** -
+- **command** -
+- **web** -
+- **training** -
+- **activation** -
+- **kernel** -
+- **function** -
+- **multilayer perceptron (MLP)** -
+- **TensorFlor.js models** -
+- **browsers** -
+- **Node.js** -
+- **output shape** -
+- **representing** -
+- **batch size** -
+- **weights** -
+- **bias** -
+- **`tf.Model.fit()`** -
+- **transfer learning** -
+- **fine-tuning** -
+- **`model.summary()`** -
+- **inference** -
+- **loss** -
 
 ---
 from [[_3_adding-non-linearity]]
