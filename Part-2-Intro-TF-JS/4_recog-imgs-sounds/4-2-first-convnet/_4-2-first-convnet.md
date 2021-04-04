@@ -5,37 +5,38 @@
 ## Blog
 
 - [A comprehensive guide to CNNs, Towards Data Science](https://towardsdatascience.com/a-comprehensive-guide-to-convolutional-neural-networks-the-eli5-way-3bd2b1164a53)
+- [Understanding your Convolution network with Visualizations](https://towardsdatascience.com/understanding-your-convolution-network-with-visualizations-a4883441533b)
 
 ---
 
 ## **Vocabulary**
 
 - **CNNs**: Convolutional neural network. That is, a network which has at least one convolutional layer. A typical CNN also includes other types of layers, such as pooling layers and dense layers.
-- **Convolution**: The process of applying a kernel (filter) to an image
-- **Kernel / filter**: A matrix which is smaller than the input, used to transform the input into chunks
-- **image data**
-- **neural network**
-- **MNIST**
-- **output**
-- **one-hot encoding**
-- **sound**
-- **function**
-- **layers**
-- **sequential**
-- **`add()`**
-- **method**
-- **repeating**
-- **feature**
-- **Padding**: Adding pixels of some value, usually 0, around the input image
-- **convolutional kernel**
-- **nonlinearity**
-- **Pooling**: The process of reducing the size of an image through downsampling.There are several types of pooling layers. For example, average pooling converts many values into a single value by taking the average. However, max-pooling is the most common.
-- **Max-pooling**: A pooling process in which many values are converted into a single value by taking the maximum value from among them.
-- **Stride**: the number of pixels to slide the kernel (filter) across the image.
-- **space**
-- **dense layers**
-- **conv2d**
-- **Downsampling**: The act of reducing the size of an image
+- **Convolution** - The process of applying a kernel (filter) to an image
+- **Kernel / filter** - A matrix which is smaller than the input, used to transform the input into chunks
+- **image data** -
+- **neural network** -
+- **MNIST** -
+- **output** -
+- **one-hot encoding** -
+- **sound** -
+- **function** -
+- **layers** -
+- **sequential** -
+- **`add()`** -
+- **method** -
+- **repeating** -
+- **feature** -
+- **Padding** - Adding pixels of some value, usually 0, around the input image
+- **convolutional kernel** -
+- **nonlinearity** -
+- **Pooling** - The process of reducing the size of an image through downsampling.There are several types of pooling layers. For example, average pooling converts many values into a single value by taking the average. However, max-pooling is the most common.
+- **Max-pooling** - A pooling process in which many values are converted into a single value by taking the maximum value from among them.
+- **Stride** - the number of pixels to slide the kernel (filter) across the image.
+- **space** -
+- **dense layers** -
+- **conv2d** -
+- **Downsampling** - The act of reducing the size of an image
 
 ---
 from [[_4_recog-imgs-sounds]]
