@@ -6,9 +6,9 @@
 
 ## **Vocabulary**
 
-- **softmax activation**
-- **simple model**
-- **sofmax function**
+- **softmax activation** -
+- **simple model** -
+- **softmax function** -
 
 ---
 from [[_3_adding-non-linearity]]
