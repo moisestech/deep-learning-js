@@ -6,25 +6,25 @@
 
 ## **Vocabulary**
 
-- **dataset**
-- **different but related**
-- **base model**
-- **retraining**
-- **transfer model**
-- **browser**
-- **data**
-- **model adaptation**
-- **regression**
-- **weights**
-- **accuracy**
-- **neural network**
-- **features*
-- **ImageNet**
-- **deep**
-- **ResNet**
-- **word embeddings**
-- **vector**
-- **text**
+- **dataset** -
+- **different but related** -
+- **base model** -
+- **retraining** -
+- **transfer model** -
+- **browser** -
+- **data** -
+- **model adaptation** -
+- **regression** -
+- **weights** -
+- **accuracy** -
+- **neural network** -
+- **features** -
+- **ImageNet** -
+- **deep** -
+- **ResNet** -
+- **word embeddings** -
+- **vector** -
+- **text** -
 
 ---
 from [[_5_transfer-learning]]
