@@ -5,21 +5,21 @@
 ---
 ## **Vocabulary**
 
-- **compatible output shapes**
-- **freezing layers**
-- **activation function**
-- **softmax**
-- **`retrainModel()`**
-- **trainable**
-- **optimizer**
-- **untrainable**
-- **flatten layer**
-- **`trainable`**
-- **`fit()`**
-- **predictions**
-- **gradients**
-- **backpropagation**
-- **layer-freezing approach**
+- **compatible output shapes** -
+- **freezing layers** -
+- **activation function** -
+- **softmax** -
+- **`retrainModel()`** -
+- **trainable** -
+- **optimizer** -
+- **untrainable** -
+- **flatten layer** -
+- **`trainable`** -
+- **`fit()`** -
+- **predictions** -
+- **gradients** -
+- **backpropagation** -
+- **layer-freezing approach** -
 
 ---
 from [[_5-1-intro-tl]]
