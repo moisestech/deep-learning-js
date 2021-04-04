@@ -6,14 +6,14 @@
 
 ## **Vocabulary**
 
-- **representing sounds**
-- **Web Audio API**
-- **access**
-- **spectrograms**
-- **Fourier transform**
-- **trained model**
-- **vocabulary**
-- **building blocks**
+- **representing sounds** -
+- **Web Audio API** -
+- **access** -
+- **spectrograms** -
+- **Fourier transform** -
+- **trained model** -
+- **vocabulary** -
+- **building blocks** -
 
 ---
 from [[_4-4-spoken-word-recog-audio-data]]
