@@ -6,9 +6,9 @@
 
 ## **Vocabulary**
 
-- **MNIST dataset**
-- **label**
-- **Boston-housing datasets**
+- **MNIST dataset** -
+- **label** -
+- **Boston-housing datasets** -
 
 ---
 from [[_4-1-vectors-tensors-rep-imgs]]
