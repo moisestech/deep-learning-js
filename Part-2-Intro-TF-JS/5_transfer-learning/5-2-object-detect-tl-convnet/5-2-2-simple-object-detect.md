@@ -6,19 +6,19 @@
 
 ## **Vocabulary**
 
-- **convolutional layers**
-- **`loadTruncatedBase()`**
-- **`buildNewHead()`**
-- **`meanSquaredError`**
-- **2D Tensor**
-- **batch size**
-- **scalar tensor**
-- **`customLossFunction`**
-- **matrix**
-- **binary cross entropy**
-- **hyperparameter**
-- **single-shot detection (ssd)**
-- **`meanAbsoluteError`**
+- **convolutional layers** -
+- **`loadTruncatedBase()`** -
+- **`buildNewHead()`** -
+- **`meanSquaredError`** -
+- **2D Tensor** -
+- **batch size** -
+- **scalar tensor** -
+- **`customLossFunction`** -
+- **matrix** -
+- **binary cross entropy** -
+- **hyperparameter** -
+- **single-shot detection (ssd)** -
+- **`meanAbsoluteError`** -
 
 ---
 from [[_5-2-object-detect-tl-convnet]]
