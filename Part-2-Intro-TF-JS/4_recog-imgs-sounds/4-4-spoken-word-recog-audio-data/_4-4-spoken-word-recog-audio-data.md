@@ -6,8 +6,8 @@
 
 ## **Vocabulary**
 
-- **applying convnets**
-- **amazon echo, google home**
+- **applying convnets** -
+- **amazon echo, google home** -
 
 ---
 from [[_4_recog-imgs-sounds]]
