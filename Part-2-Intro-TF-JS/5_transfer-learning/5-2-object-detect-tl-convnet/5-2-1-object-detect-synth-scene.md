@@ -6,11 +6,10 @@
 
 ## **Vocabulary**
 
-- **simple object-detection problem**
-- **synthesizes scenes**
-- **target object**
-- **input features**
-- **deep-learning models**
+- **simple object-detection problem** -
+- **target object** -
+- **input features** -
+- **deep-learning models** -
 
 ---
 from [[_5-2-object-detect-tl-convnet]]
