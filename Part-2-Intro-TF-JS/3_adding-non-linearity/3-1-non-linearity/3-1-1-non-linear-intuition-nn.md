@@ -16,31 +16,31 @@
 
 ## **Vocabulary**
 
-- **key**
-- **activation function**
-- **2D Tensor**
-- **matrix**
-- **array**
-- **activation function**
-- **action pontentials**
-- **synapses**
-- **non-linear**
-- **backpropagation**
-- **deep-neural networks**
-- **sigmoid function**
-- **deep-learning**
-- **capacity**
-- **Boston-housing problem**
-- **`multiLayerPerceptronRegressionModel2Hidden()`**
-- **Repeating**
-- **stacking layers**
-- **model interpretability**
-- **API for accessing weight values**
-- **`getWeights()`**
-- **`model.fit()`**
-- **tensors**
-- **space**
-- **decision trees**
+- **key** -
+- **activation function** -
+- **2D Tensor** -
+- **matrix** -
+- **array** -
+- **activation function** -
+- **action potentials** -
+- **synapses** -
+- **non-linear** -
+- **backpropagation** -
+- **deep-neural networks** -
+- **sigmoid function** -
+- **deep-learning** -
+- **capacity** -
+- **Boston-housing problem** -
+- **`multiLayerPerceptronRegressionModel2Hidden()`** -
+- **Repeating** -
+- **stacking layers** -
+- **model interpretability** -
+- **API for accessing weight values** -
+- **`getWeights()`** -
+- **`model.fit()`** -
+- **tensors** -
+- **space** -
+- **decision trees** -
 
 ---
 from [[_3_adding-non-linearity]]
