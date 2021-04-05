@@ -4,7 +4,7 @@
 
 ---
 
-### [**Figure 2.13** Ranked by absolute value, these are the top five weights learned in one run of the linear model on the Boston-housing prediction problem]()
+### [**Figure 2.13** Ranked by absolute value, these are the top five weights learned in one run of the linear model on the Boston-housing prediction problem](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-2/ch02fig13)
 
 ---
 
