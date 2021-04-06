@@ -10,8 +10,6 @@
 
 ## **Vocabulary**
 
-- **project overview** -
-- **duration prediction** -
 - **training data** -
 - **machine learning** -
 - **trainable function** -
