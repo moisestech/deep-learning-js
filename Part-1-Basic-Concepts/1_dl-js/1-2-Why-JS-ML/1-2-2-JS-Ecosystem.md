@@ -11,7 +11,7 @@
 ## **Vocabulary**
 
 - **Javascript Ecosystem** - for years has consistently ranked number one among programming languages by repository count such as NPM.
-- **GitHub** -
+- **GitHub** - JavaScript has been consistently ranked number one among a few dozen programming languages in terms of repository count and pull activities on GitHub.
 - **Amazon Web Services** -
 - **MongoDB** -
 - **RethinkDB** -
