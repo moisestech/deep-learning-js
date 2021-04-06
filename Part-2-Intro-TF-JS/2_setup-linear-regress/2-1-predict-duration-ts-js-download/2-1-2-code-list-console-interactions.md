@@ -6,8 +6,7 @@
 
 ## **Vocabulary**
 
-- **console interactions** -
-- **web browser** -
+- **web browser** - it is often desirable or imperative that the "somewhere" is a web frontend.
 
 ---
 
