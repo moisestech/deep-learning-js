@@ -6,8 +6,6 @@
 
 ## **Vocabulary**
 
-- **brief comparison** -
-- **similar libraries** -
 - **trained model** -
 - **TensorFlow.js model** -
 
