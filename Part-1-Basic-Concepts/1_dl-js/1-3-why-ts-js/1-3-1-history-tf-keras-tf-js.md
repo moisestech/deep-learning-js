@@ -16,7 +16,7 @@
 
 ## **Vocabulary**
 
-- **brief history of TensorFlow, Keras** -
+- **TensorFlow, Keras** - The LEGO equivalent is the high-level API called Keras. Keras provides a set of the most frequently used types of neural network layers, each with configurable parameters.
 - **tensors** -
 - **graph** -
 - **sequence tasks** -
