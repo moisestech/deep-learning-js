@@ -6,9 +6,8 @@
 
 ## **Vocabulary**
 
-- **predicting** -
-- **duration** -
-- **download** -
+- **predicting** - predicting controller direction using image embeddings.
+- **duration** - measured download duration versus file size.
 
 ---
 
