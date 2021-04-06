@@ -6,7 +6,7 @@
 
 ## **Vocabulary**
 
-- **audio data** -
+- **audio data** - collecting on e second of audio data using the `tf.data.microphone()` API.
 
 ---
 
