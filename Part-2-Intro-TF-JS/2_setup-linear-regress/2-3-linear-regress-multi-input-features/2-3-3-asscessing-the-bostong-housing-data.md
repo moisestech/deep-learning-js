@@ -10,7 +10,7 @@
 
 ## **Vocabulary**
 
-- **`tf.tensor2d`** -
+- **`tf.tensor2d`** - function
 - **Google Cloud CSV** -
 
 ---
