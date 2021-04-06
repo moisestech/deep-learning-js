@@ -7,6 +7,7 @@
 ## **Vocabulary**
 
 - **`evaluate()`** -
+- **`fit()`** -
 - **mean absolute error (MAE)** -
 - **chaining API** -
 - **tf namespace** -
