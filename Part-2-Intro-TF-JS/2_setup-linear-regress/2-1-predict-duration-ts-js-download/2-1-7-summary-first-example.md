@@ -10,7 +10,7 @@
 
 ## **Vocabulary**
 
-- **TensorFlow.js model** -
+- **TensorFlow.js model** - 3 different ways to reuse a pretrained model for transfer learning on new tasks and their relative advantages and shortcomings.
 - **`model.fit()`** -
 
 ---
