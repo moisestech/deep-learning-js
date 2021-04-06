@@ -10,7 +10,7 @@
 
 ## **Vocabulary**
 
-- **simple model** -
+- **simple model** - A linear regression model with one layer. For example a dense layers with tunable weights on the kernel and bias.
 - **deep learning** -
 - **model** -
 - **network** -
