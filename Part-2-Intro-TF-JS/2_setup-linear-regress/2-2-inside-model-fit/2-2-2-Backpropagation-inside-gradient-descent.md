@@ -12,7 +12,7 @@
 
 ## **Vocabulary**
 
-- **directions** -
+- **directions** - which axis and direction does gradient descent move towards as the weights are being computed.
 - **backpropagation** -
 - **`tf.Model.fit()`** -
 - **squared error** -
