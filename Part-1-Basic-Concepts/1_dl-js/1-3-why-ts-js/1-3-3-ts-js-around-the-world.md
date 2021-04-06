@@ -6,7 +6,7 @@
 
 ## **Vocabulary**
 
-- **Google's Project Magenta** -
+- **Google's Project Magenta** - uses TF.js to run RNNs and other kinds of deep neural networks to generate musical scores and novel instrument sounds in the browser.
 - **ML5.js** -
 - **Amazon Echo** -
 - **MetaCar** -
