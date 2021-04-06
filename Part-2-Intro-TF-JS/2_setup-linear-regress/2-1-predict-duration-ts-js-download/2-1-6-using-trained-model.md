@@ -6,7 +6,7 @@
 
 ## **Vocabulary**
 
-- **`predict()`** -
+- **`predict()`** - both `tf.LayersModel` and `tf.GraphModel` provide the unified `predict()` method to support inference. This method takes one or more tensors as in put and returns one or more tensors as the inference result.
 - **`inputShape`** -
 - **`fit()`** -
 
