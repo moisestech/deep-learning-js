@@ -11,7 +11,7 @@
 ## **Vocabulary**
 
 - **Deployment** - Optimizing the speed of downloading and inference is an important factor to the success of client-side deployment of TensorFlow.js.
-- **access** -
+- **access** - Browser-based application of deep learning comes with five additional benefits: reduced server cost, lowered inference latency, data privacy, instant GPU acceleration, and instant access.
 - **deploying** -
 - **YOLO2** -
 - **CNN-LSTM network** -
