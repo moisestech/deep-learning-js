@@ -12,7 +12,7 @@
 
 ## **Vocabulary**
 
-- **dataset** -
+- **dataset** - `tf.data.Dataset` provides a chainable API of methods to perform these sorts of operations. Each of these methods returns a new `Dataset` object.
 - **representing** -
 - **target** -
 - **training** -
