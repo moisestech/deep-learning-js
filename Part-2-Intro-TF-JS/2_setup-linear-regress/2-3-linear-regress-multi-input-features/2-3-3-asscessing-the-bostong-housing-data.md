@@ -10,7 +10,7 @@
 
 ## **Vocabulary**
 
-- **`tf.tensor2d`** - function
+- **[`tf.tensor2d`](https://js.tensorflow.org/api/0.6.1/#tensor2d)** - Creates rank-2 tf.Tensor with the provided values, shape and dtype. The same functionality can be achieved with tf.tensor(), but in general we recommend using tf.tensor2d() as it makes the code more readable.
 - **Google Cloud CSV** -
 
 ---
