@@ -16,7 +16,7 @@
 
 ## **Vocabulary**
 
-- **gradient-descent optimization** -
+- **gradient-descent optimization** - In optimization, a gradient method is an algorithm to solve problems of the form. with the search directions defined by the gradient of the function at the current point. Examples of gradient methods are the gradient descent and the conjugate gradient.
 - **random initialization** -
 - **loss surface** -
 - **deep learning models** -
