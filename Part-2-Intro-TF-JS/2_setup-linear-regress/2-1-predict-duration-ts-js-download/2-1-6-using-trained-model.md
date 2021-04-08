@@ -7,7 +7,7 @@
 ## **Vocabulary**
 
 - **`predict()`** - both `tf.LayersModel` and `tf.GraphModel` provide the unified `predict()` method to support inference. This method takes one or more tensors as in put and returns one or more tensors as the inference result.
-- **`inputShape`** -
+- **`inputShape`** - It's the starting tensor you send to the first hidden layer. This tensor must have the same shape as your training data. Example: if you have 30 images of 50x50 pixels in RGB (3 channels), the shape of your input data is (30,50,50,3).
 - **`fit()`** -
 
 ---
