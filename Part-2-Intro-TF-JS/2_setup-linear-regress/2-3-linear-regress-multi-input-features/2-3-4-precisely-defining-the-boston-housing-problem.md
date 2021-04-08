@@ -6,7 +6,7 @@
 
 ## **Vocabulary**
 
-- **`meanAbsoluteError`** -
+- **[`meanAbsoluteError`](https://medium.com/@ewuramaminka/mean-absolute-error-mae-machine-learning-ml-b9b4afc63077)** - refers to the mean of the absolute values of each prediction error on all instances of the test data-set. Prediction error is the difference between the actual value and the predicted value for that instance.
 - **outliers** -
 - **dataSync** -
 
