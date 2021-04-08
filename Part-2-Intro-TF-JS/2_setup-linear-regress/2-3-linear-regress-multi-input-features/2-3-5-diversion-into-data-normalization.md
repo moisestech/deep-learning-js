@@ -10,7 +10,6 @@
 
 ## **Vocabulary**
 
-- **slight diversion** -
 - **data normalization** -
 - **normalize** -
 - **standard transformation** - **z-score normalization**
