@@ -12,7 +12,7 @@
 
 ## **Vocabulary**
 
-- **neural network** -
+- **neural network** - A deep neural network (DNN) is an artificial neural network (ANN) with multiple layers between the input and output layers. ... Each mathematical manipulation as such is considered a layer, and complex DNN have many layers, hence the name "deep" networks.
 - **linear regression** -
 - **tensors** -
 - **prediction problem** -
