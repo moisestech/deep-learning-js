@@ -13,7 +13,7 @@
 ## **Vocabulary**
 
 - **directions** - which axis and direction does gradient descent move towards as the weights are being computed.
-- **backpropagation** -
+- **backpropagation** - The backpropagation algorithm works by computing the gradient of the loss function with respect to each weight by the chain rule, computing the gradient one layer at a time, iterating backward from the last layer to avoid redundant calculations of intermediate terms in the chain rule.
 - **`tf.Model.fit()`** -
 - **squared error** -
 - **labeled** -
