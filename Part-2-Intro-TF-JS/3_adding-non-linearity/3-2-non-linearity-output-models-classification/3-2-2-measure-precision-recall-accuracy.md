@@ -27,6 +27,8 @@
 - **trade-off** -
 - **ROC** -
 
+- [Machine Learning Metrics: The Confusion Matrix, Accuracy, Precision & Recall](https://www.youtube.com/watch?v=_y-peoToPj0)
+
 ---
 
 [[_3_adding-non-linearity]]
