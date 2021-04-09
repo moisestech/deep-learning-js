@@ -10,12 +10,10 @@
 
 ## **Vocabulary**
 
-- [Classification: True vs. False and Positive vs. Negative](https://developers.google.com/machine-learning/crash-course/classification/true-false-positive-negative)
-
 - **True positive (TPs)** — is an outcome where the model correctly predicts the positive class.
-- **True negatives (TNs)** —
-- **False positives (FPs)** —
-- **False negatives (FNs)** —
+- **True negatives (TNs)** — is an outcome where the model correctly predicts the negative class.
+- **False positives (FPs)** — is an outcome where the model incorrectly predicts the positive class.
+- **False negatives (FNs)** — is an outcome where the model incorrectly predicts the negative class.
 - **confusion matrix** —
 - **accuracy** —
 - **sounds** —
@@ -27,6 +25,9 @@
 - **trade-off** -
 - **ROC** -
 
+## **Blogs**
+
+- [Classification: True vs. False and Positive vs. Negative](https://developers.google.com/machine-learning/crash-course/classification/true-false-positive-negative)
 - [Machine Learning Metrics: The Confusion Matrix, Accuracy, Precision & Recall](https://www.youtube.com/watch?v=_y-peoToPj0)
 
 ---
