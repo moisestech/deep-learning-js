@@ -11,7 +11,7 @@
 ## **Vocabulary**
 
 - **[`tf.tensor2d`](https://js.tensorflow.org/api/0.6.1/#tensor2d)** - Creates rank-2 tf.Tensor with the provided values, shape and dtype. The same functionality can be achieved with tf.tensor(), but in general we recommend using tf.tensor2d() as it makes the code more readable.
-- **Google Cloud CSV** -
+- **Google Cloud CSV** - Many existing production systems provide machine-learning-trained prediction as a service, such as Google Cloud Vision AI (https://cloud.google.com/vision) or Microsoft Cognitive Services (https://azure.microsoft.com/en-us/services/cognitive-services). The end user of such a service makes HTTP requests containing the input values to the prediction, such as an image for an object-detection task, and the response encodes the output of the prediction, such as the labels and positions of objects in the image.
 
 ---
 
