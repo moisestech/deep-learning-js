@@ -7,7 +7,7 @@
 ## **Vocabulary**
 
 - **Google's Project Magenta** - uses TF.js to run RNNs and other kinds of deep neural networks to generate musical scores and novel instrument sounds in the browser.
-- **ML5.js** -
+- **ML5.js** - an easy-to-use, higher-level API for various out-of-the-box deep-learning models for the browser, such as object detection and image style transfer.
 - **Amazon Echo** -
 - **MetaCar** -
 
