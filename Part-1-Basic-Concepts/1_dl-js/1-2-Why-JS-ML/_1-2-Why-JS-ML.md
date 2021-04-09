@@ -13,7 +13,8 @@
 - **Deployment** - Optimizing the speed of downloading and inference is an important factor to the success of client-side deployment of TensorFlow.js.
 - **access** - Browser-based application of deep learning comes with five additional benefits: reduced server cost, lowered inference latency, data privacy, instant GPU acceleration, and instant access.
 - **deploying** - JavaScript and the web browser are a suitable environment for deploying and training deep neural networks. Client-side models lower computation on cloud GPUs.
-- **YOLO2** -
+- **YOLO** - YOLO algorithm gives a much better performance on all the parameters we discussed along with a high fps for real-time usage. YOLO algorithm is an algorithm based on regression, instead of selecting the interesting part of an Image, it predicts classes and bounding boxes for the whole image in one run of the Algorithm.
+
 - **CNN-LSTM network** -
 - **WebAudio API** -
 - **spoken-word recognition** -
