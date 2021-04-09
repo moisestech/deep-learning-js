@@ -6,7 +6,9 @@
 
 ## **Vocabulary**
 
-- **classification** - Classification is the process of predicting the class of given data points. Classes are sometimes called as targets/ labels or categories. ... Classification belongs to the category of supervised learning where the targets also provided with the input data.
+- **classification** - Classification is the process of predicting the class of given data points.
+  - Classes are sometimes called as targets/ labels or categories.
+  - Classification belongs to the category of supervised learning where the targets also provided with the input data.
 - **download time** -
 - **target** -
 - **images** -
