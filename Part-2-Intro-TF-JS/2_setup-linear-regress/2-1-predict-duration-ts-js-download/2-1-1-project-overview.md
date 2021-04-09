@@ -11,7 +11,7 @@
 ## **Vocabulary**
 
 - **training data** - The training data is an initial set of data used to help a program understand how to apply technologies like neural networks to learn and produce sophisticated results. ... Training data is also known as a training set, training dataset or learning set. In a dataset, a training set is implemented to build up a model, while a test (or validation) set is to validate the model built. Data points in the training set are excluded from the test (validation) set.
-- **machine learning** -
+- **machine learning** - Neural networks are a class of machine learning algorithms used to model complex patterns in datasets using multiple hidden layers and non-linear activation functions.Each neuron's coefficients (weights) are then adjusted relative to how much they contributed to the total error.
 - **trainable function** -
 - **accuracy** -
 
