@@ -6,13 +6,17 @@
 
 ## **Vocabulary**
 
-- **`evaluate()`** -
-- **`fit()`** -
+- **`evaluate()`** - method calculates the loss function as applied to the provided example features and targets. Does not update the model’s weights. We use evaluate() to estimate the quality of the model on the test data, so as to get an idea about how the model would perform in the future application.
+- **`fit()`** - Function fitting is the process of training a neural network on a set of inputs in order to produce an associated set of target outputs. After you construct the network with the desired hidden layers and the training algorithm, you must train it using a set of training data.
 - **mean absolute error (MAE)** -
 - **chaining API** -
 - **tf namespace** -
 - **underfitting** -
 - **overfitting** -
+
+## **Blog**
+
+- [Customize what happens in Model.fit](https://www.tensorflow.org/guide/keras/customizing_what_happens_in_fit)
 
 from [[_2-1-predict-duration-download-ts-js]]
 
