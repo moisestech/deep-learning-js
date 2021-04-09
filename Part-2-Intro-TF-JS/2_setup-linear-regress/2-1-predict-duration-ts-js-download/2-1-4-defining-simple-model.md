@@ -12,7 +12,7 @@
 
 - **simple model** - A linear regression model with one layer. For example a dense layers with tunable weights on the kernel and bias.
 - **deep learning** - Deep learning (also known as deep structured learning) is part of a broader family of machine learning methods based on artificial neural networks with representation learning. Learning can be supervised, semi-supervised or unsupervised.
-- **model** -
+- **model** - is represented by its architecture that shows how to transform two or more inputs into an output. The transformation is given in the form of a learning algorithm.
 - **network** -
 - **regression** -
 - **classification** -
