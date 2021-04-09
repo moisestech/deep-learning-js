@@ -21,7 +21,7 @@
 - **tensors** - A tensor is a generalization of vectors and matrices to potentially higher dimensions.
   - Internally, TensorFlow represents tensors as n-dimensional arrays of base datatypes.
   - When writing a TensorFlow program, the main object you manipulate and pass around is the tf$Tensor.
-- **graph** -
+- **graph** - Graph Neural Network is a type of Neural Network which directly operates on the Graph structure. A typical application of GNN is node classification. Essentially, every node in the graph is associated with a label, and we want to predict the label of the nodes without ground-truth .
 - **sequence tasks** -
 - **pooling** -
 - **possibilities** -
