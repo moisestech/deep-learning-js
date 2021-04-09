@@ -45,7 +45,7 @@
 - **TensorFlow.js** - TensorFlow.js, the focus of this book, is a comprehensive, versatile, and powerful open source library for deep learning in JavaScript.
 - **deep neural networks** - Deep learning is a class of machine learning algorithms that uses multiple layers to progressively extract higher-level features from the raw input. For example, in image processing, lower layers may identify edges, while higher layers may identify the concepts relevant to a human such as digits or letters or faces.
 - **range of problems** -
-- **improve solution accuracy** -
+- **improve solution accuracy** - Accuracy is one metric for evaluating classification models. Informally, accuracy is the fraction of predictions our model got right. Formally, accuracy has the following definition: Accuracy = Number of correct predictions Total number of predictions.
 - **deep learning technology** -
 - **MNIST** -
 - **MobileNet** -
