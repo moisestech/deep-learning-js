@@ -13,7 +13,7 @@
 - **[Artificial neural networks** - usually simply called **neural networks (NNs)](https://en.wikipedia.org/wiki/Artificial_neural_network)**, are computing systems vaguely inspired by the biological neural networks that constitute animal brains.
 - **Layers** - layers are usually stacked on top of each other with connections only between adjacent ones. A layer of neural networks is similar to a mathematical function in that it is a mapping from an input value to an output value.
 - **Weights** - are a set of numeral values that belong to the layer and govern the details of how each input representation is transformed by the layer into an output representation.
-- **matrix** -
+- **matrix** - A matrix is a collection of numbers arranged into a fixed number of rows and columns. Usually the numbers are real numbers.
 - **vector** -
 - **loss function** -
 - **gradient descent** -
