@@ -16,7 +16,7 @@
 - **target** - Target is the "correct" or desired value for the response associate to one input. Usually, this value will be compared with the output (the response of the neural network) to guide the learning process involving the weight changes.
 - **training** -Training a Neural Network means finding the appropriate Weights of the Neural Connections thanks to a feedback loop called Gradient Backward propagation. Fitting a neural network involves using a training dataset to update the model weights to create a good mapping of inputs to outputs. Training a neural network involves using an optimization algorithm to find a set of weights to best map inputs to outputs.
 - **algorithm** - Supervised machine learning builds a model that makes predictions based on evidence in the presence of uncertainty. A supervised learning algorithm takes a known set of input data and known responses to the data (output) and trains a model to generate reasonable predictions for the response to new data.
-- **input features** -
+- **input features** - A feature is one column of the data in your input set. For instance, if you're trying to predict the type of pet someone will choose, your input features might include age, home region, family income, etc. The label is the final choice, such as dog, fish, iguana, rock, etc.
 - **testing** -
 - **images** -
 - **vectors** -
