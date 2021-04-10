@@ -16,7 +16,9 @@
 
 ## **Vocabulary**
 
-- **gradient-descent optimization** - In optimization, a gradient method is an algorithm to solve problems of the form. with the search directions defined by the gradient of the function at the current point. Examples of gradient methods are the gradient descent and the conjugate gradient.
+- **gradient-descent optimization** - In optimization, a gradient method is an algorithm to solve problems of the form.
+  - With the search directions defined by the gradient of the function at the current point.
+  - Examples of gradient methods are the gradient descent and the conjugate gradient.
 - **random initialization** - This serves the process of symmetry-breaking and gives much better accuracy.
   - In this method, the weights are initialized very close to zero, but randomly.
   - This helps in breaking symmetry and every neuron is no longer performing the same computation.
