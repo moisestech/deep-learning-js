@@ -6,7 +6,9 @@
 
 ## **Vocabulary**
 
-- **`evaluate()`** - method calculates the loss function as applied to the provided example features and targets. Does not update the model’s weights. We use evaluate() to estimate the quality of the model on the test data, so as to get an idea about how the model would perform in the future application.
+- **`evaluate()`** - method calculates the loss function as applied to the provided example features and targets.
+  - Does not update the model’s weights.
+  - We use evaluate() to estimate the quality of the model on the test data, so as to get an idea about how the model would perform in the future application.
 - **`fit()`** - Function fitting is the process of training a neural network on a set of inputs in order to produce an associated set of target outputs. After you construct the network with the desired hidden layers and the training algorithm, you must train it using a set of training data.
 - **mean absolute error (MAE)** - The MAE measures the average magnitude of the errors in a set of forecasts, without considering their direction. It measures accuracy for continuous variables.
 - **chaining API** -
