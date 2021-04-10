@@ -10,7 +10,8 @@
 
 ## **Vocabulary**
 
-- **Boston-housing dataset** - The Boston Housing Dataset. A Dataset derived from information collected by the U.S. Census Service concerning housing in the area of Boston Mass. This dataset contains information collected by the U.S Census Service concerning housing in the area of Boston Mass.
+- **Boston-housing dataset** - A Dataset derived from information collected by the U.S. Census Service concerning housing in the area of Boston Mass.
+  - This dataset contains information collected by the U.S Census Service concerning housing in the area of Boston Mass.
 - **Graph Neural Networks** - Graph Neural Networks (GNNs) are a class of deep learning methods designed to perform inference on data described by graphs.
   - GNNs are neural networks that can be directly applied to graphs, and provide an easy way to do node-level, edge-level, and graph-level prediction tasks.
 
