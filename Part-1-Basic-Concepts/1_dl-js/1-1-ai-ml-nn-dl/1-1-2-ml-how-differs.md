@@ -18,7 +18,8 @@
 - **[features](<https://en.wikipedia.org/wiki/Feature_(machine_learning)>)** - a feature is an individual measurable property or characteristic of a phenomenon being observed.
   - Choosing informative, discriminating and independent features is a crucial step for effective algorithms in pattern recognition, classification and regression.
   - Useful features is what helps drive model predictions.
-- **output** - (phi) is the transfer function (commonly a threshold function). The output is analogous to the axon of a biological neuron, and its value propagates to the input of the next layer, through a synapse. It may also exit the system, possibly as part of an output vector.
+- **output** - (phi) is the transfer function (commonly a threshold function).
+  - The output is analogous to the axon of a biological neuron, and its value propagates to the input of the next layer, through a synapse. It may also exit the system, possibly as part of an output vector.
 - [**binary**](https://software.intel.com/content/www/us/en/develop/articles/binary-neural-networks.html#:~:text=Binary%20neural%20networks%20are%20networks,are%20stored%20in%20full%20precision.) - Binary neural networks are networks with binary weights and activations at run time. At training time these weights and activations are used for computing gradients; however, the gradients and true weights are stored in full precision.
 - **array** - The central unit of data in TensorFlow.js is the tf.Tensor: a set of values shaped into an array of one or more dimensions. tf.Tensors are very similar to multidimensional arrays.
 - **RGB (red-green-blue)** -
