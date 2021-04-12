@@ -16,7 +16,8 @@
 - **MongoDB / RethinkDB** - Most popular database systems today, such as MongoDB and RethinkDB, have first-class support for Node.js drivers.
 - **Vega.js** - is a visualization grammar, a declarative language for creating, saving, and sharing interactive visualization designs.
   - With Vega, you can describe the visual appearance and interactive behavior of a visualization in a JSON format, and generate web-based views using Canvas or SVG.
-- **Plotly.js** - Built on top of d3.js and stack.gl, Plotly.js is a high-level, declarative charting library. plotly.js ships with over 40 chart types, including 3D charts, statistical graphs, and SVG maps.
+- **Plotly.js** - Built on top of d3.js and stack.gl, Plotly.js is a high-level, declarative charting library.
+  - Plotly.js ships with over 40 chart types, including 3D charts, statistical graphs, and SVG maps.
 - **Ionic** -
 - **locality** -
 
