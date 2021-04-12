@@ -18,9 +18,11 @@
 ## **Vocabulary**
 
 - **Phishing Website dataset** -
-- **predicting** - What does Prediction mean in Machine Learning? “Prediction” refers to the output of an algorithm after it has been trained on a historical dataset and applied to new data when forecasting the likelihood of a particular outcome, such as whether or not a customer will churn in 30 days.
+- **predicting** - refers to the output of an algorithm after it has been trained on a historical dataset and applied to new data when forecasting the likelihood of a particular outcome, such as whether or not a customer will churn in 30 days.
 - **phishing detection** -
-- **binary cross entropy** - Also called Sigmoid Cross-Entropy loss. It is a Sigmoid activation plus a Cross-Entropy loss. Unlike Softmax loss it is independent for each vector component (class), meaning that the loss computed for every CNN output vector component is not affected by other component values.
+- **binary cross entropy** - Also called Sigmoid Cross-Entropy loss.
+  - It is a Sigmoid activation plus a Cross-Entropy loss.
+  - Unlike Softmax loss it is independent for each vector component (class), meaning that the loss computed for every CNN output vector component is not affected by other component values.
 - **`matMul`** -
 - **`biasAdd`** -
 - **`adam`** -
