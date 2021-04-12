@@ -6,7 +6,9 @@
 
 ## **Vocabulary**
 
-- **one-hot-encoding** - A one hot encoding allows the representation of categorical data to be more expressive. Many machine learning algorithms cannot work with categorical data directly. ... When a one hot encoding is used for the output variable, it may offer a more nuanced set of predictions than a single label.
+- **one-hot-encoding** - A one hot encoding allows the representation of categorical data to be more expressive.
+  - Many machine learning algorithms cannot work with categorical data directly.
+  - When a one hot encoding is used for the output variable, it may offer a more nuanced set of predictions than a single label.
 - **categorical data** -
 - **`shuffledTargets`** -
 - **1D Tensors** -
