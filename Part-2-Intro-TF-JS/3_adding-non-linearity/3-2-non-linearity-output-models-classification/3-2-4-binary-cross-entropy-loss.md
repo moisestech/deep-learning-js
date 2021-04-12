@@ -21,9 +21,9 @@
   - The higher the entropy, the harder it is to draw any conclusions from that information.
 - [**`binaryCrossentropy`**](https://js.tensorflow.org/api/latest/#metrics.binaryCrossentropy) - Binary cross-entropy metric function.
   - Parameters:
-    - yTrue (tf.Tensor) Binary Tensor of truth.
-    - yPred (tf.Tensor) Binary Tensor of prediction, probabilities for the 1 case.
-    - Returns: tf.Tensor
+    - `yTrue (tf.Tensor)` Binary Tensor of truth.
+    - `yPred (tf.Tensor)` Binary Tensor of prediction, probabilities for the 1 case.
+    - Returns: `tf.Tensor`
 - **thresholding function** -
 - **step function** -
 - **limitations** -
