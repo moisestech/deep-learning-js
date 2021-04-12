@@ -12,7 +12,8 @@
 
 ## **Vocabulary**
 
-- **dataset** - `tf.data.Dataset` provides a chainable API of methods to perform these sorts of operations. Each of these methods returns a new `Dataset` object.
+- **dataset** - `tf.data.Dataset` provides a chainable API of methods to perform these sorts of operations.
+  - Each of these methods returns a new `Dataset` object.
 - **target** - Target is the "correct" or desired value for the response associate to one input. Usually, this value will be compared with the output (the response of the neural network) to guide the learning process involving the weight changes.
 - **training** -Training a Neural Network means finding the appropriate Weights of the Neural Connections thanks to a feedback loop called Gradient Backward propagation. Fitting a neural network involves using a training dataset to update the model weights to create a good mapping of inputs to outputs. Training a neural network involves using an optimization algorithm to find a set of weights to best map inputs to outputs.
 - **algorithm** - Supervised machine learning builds a model that makes predictions based on evidence in the presence of uncertainty. A supervised learning algorithm takes a known set of input data and known responses to the data (output) and trains a model to generate reasonable predictions for the response to new data.
