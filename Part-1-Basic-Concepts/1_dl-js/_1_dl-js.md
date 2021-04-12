@@ -43,9 +43,11 @@
 - **Deep Learning** - refers to the rapid progress made in _speed_ and _techniques_ of **deep-neural networks** that started around 2012.
 - **AI** - AI is the study of automating cognitive tasks. Machine learning is a subfield of AI in which rules for performing a task such as image classification are discovered automatically by learning from examples in the training data.
 - **TensorFlow.js** - TensorFlow.js, the focus of this book, is a comprehensive, versatile, and powerful open source library for deep learning in JavaScript.
-- **deep neural networks** - Deep learning is a class of machine learning algorithms that uses multiple layers to progressively extract higher-level features from the raw input. For example, in image processing, lower layers may identify edges, while higher layers may identify the concepts relevant to a human such as digits or letters or faces.
+- **deep neural networks** - Deep learning is a class of machine learning algorithms that uses multiple layers to progressively extract higher-level features from the raw input.
+  - For example, in image processing, lower layers may identify edges, while higher layers may identify the concepts relevant to a human such as digits or letters or faces.
 - **range of problems** -
-- **improve solution accuracy** - Accuracy is one metric for evaluating classification models. Informally, accuracy is the fraction of predictions our model got right. Formally, accuracy has the following definition: Accuracy = Number of correct predictions Total number of predictions.
+- **improve solution accuracy** - Accuracy is one metric for evaluating classification models. Informally, accuracy is the fraction of predictions our model got right.
+  - Formally, accuracy has the following definition: Accuracy = Number of correct predictions Total number of predictions.
 - **MNIST** - You define a model by multiplying the feature matrix with the weight and add a bias to it, then running it through a softmax function. y = tf.
 - **MobileNet** -
 - **inference** -
