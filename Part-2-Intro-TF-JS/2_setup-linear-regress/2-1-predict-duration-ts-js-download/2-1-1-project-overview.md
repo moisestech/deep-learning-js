@@ -16,7 +16,8 @@
   - Data points in the training set are excluded from the test (validation) set.
 - **machine learning** - Neural networks are a class of machine learning algorithms used to model complex patterns in datasets using multiple hidden layers and non-linear activation functions.
   - Each neuron's coefficients (weights) are then adjusted relative to how much they contributed to the total error.
-- **trainable function** - In recent years there has been a renovated interest of the scientific community in investigating activation functions which can be trained during the learning process, usually referred to as "trainable", "learnable" or "adaptable" activation functions. They appear to lead to better network performance.
+- **trainable function** - In recent years there has been a renovated interest of the scientific community in investigating activation functions which can be trained during the learning process, usually referred to as "trainable", "learnable" or "adaptable" activation functions.
+  - They appear to lead to better network performance.
 - **accuracy** -
 
 ---
