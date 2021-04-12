@@ -21,7 +21,7 @@
 - **algorithm** - Supervised machine learning builds a model that makes predictions based on evidence in the presence of uncertainty. A supervised learning algorithm takes a known set of input data and known responses to the data (output) and trains a model to generate reasonable predictions for the response to new data.
 - **input features** - A feature is one column of the data in your input set. For instance, if you're trying to predict the type of pet someone will choose, your input features might include age, home region, family income, etc.
   - The label is the final choice, such as dog, fish, iguana, rock, etc.
-- **testing** -
+- **testing** - The neural network train-validate-test process is a technique used to reduce model overfitting. The technique is also called early stopping. ... The available data, which has known input and output values, is split into a training set (typically 80 percent of the data) and a test set (the remaining 20 percent).
 - **images** -
 - **vectors** -
 - **matrix** -
