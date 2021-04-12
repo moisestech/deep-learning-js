@@ -14,7 +14,8 @@
 - **access** - Browser-based application of deep learning comes with five additional benefits:
   - reduced server cost, lowered inference latency, data privacy, instant GPU acceleration, and instant access.
 - **deploying** - JavaScript and the web browser are a suitable environment for deploying and training deep neural networks. Client-side models lower computation on cloud GPUs.
-- **YOLO** - YOLO algorithm gives a much better performance on all the parameters we discussed along with a high fps for real-time usage. YOLO algorithm is an algorithm based on regression, instead of selecting the interesting part of an Image, it predicts classes and bounding boxes for the whole image in one run of the Algorithm.
+- **YOLO** - YOLO algorithm gives a much better performance on all the parameters we discussed along with a high fps for real-time usage.
+  - YOLO algorithm is an algorithm based on regression, instead of selecting the interesting part of an Image, it predicts classes and bounding boxes for the whole image in one run of the Algorithm.
 - **CNN-LSTM network** - The CNN Long Short-Term Memory Network or CNN LSTM for short is an LSTM architecture specifically designed for sequence prediction problems with spatial inputs, like images or videos.
 - **WebAudio API** - The Web Audio API provides a powerful and versatile system for controlling audio on the Web, allowing developers to choose audio sources, add effects to audio, create audio visualizations, apply spatial effects.
 - **spoken-word recognition** -
