@@ -14,8 +14,11 @@
 - **Layers** - layers are usually stacked on top of each other with connections only between adjacent ones.
   - A layer of neural networks is similar to a mathematical function in that it is a mapping from an input value to an output value.
 - **Weights** - are a set of numeral values that belong to the layer and govern the details of how each input representation is transformed by the layer into an output representation.
-- **matrix** - A matrix is a collection of numbers arranged into a fixed number of rows and columns. Usually the numbers are real numbers.
-- **vector** - In a computer, the layers of the neural network are represented as vectors. Consider the input layer as X and the hidden layer as H. The output layer is not concerned for now. ... Every single column of the network are vectors. Vectors are dynamic arrays that are a collection of data(or features).
+- **matrix** - A matrix is a collection of numbers arranged into a fixed number of rows and columns.
+  - Usually the numbers are real numbers.
+- **vector** - In a computer, the layers of the neural network are represented as vectors.
+  - Consider the input layer as X and the hidden layer as H. The output layer is not concerned for now.
+  - Every single column of the network are vectors. Vectors are dynamic arrays that are a collection of data(or features).
 - **loss function** -
 - **gradient descent** -
 - **naives bayes classifier** -
