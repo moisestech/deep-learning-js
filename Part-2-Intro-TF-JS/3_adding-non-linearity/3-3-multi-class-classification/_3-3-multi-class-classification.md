@@ -6,7 +6,8 @@
 
 ## **Vocabulary**
 
-- **nonbinary classification** - It is a type of supervised learning, a method of machine learning where the categories are predefined, and is used to categorize new probabilistic observations into said categories. When there are only two categories the problem is known as statistical binary classification.
+- **nonbinary classification** - It is a type of supervised learning, a method of machine learning where the categories are predefined, and is used to categorize new probabilistic observations into said categories.
+  - When there are only two categories the problem is known as statistical binary classification.
 - **iris flower dataset** -
 - **multiclass classification** -
 - **multi-label classification** -
