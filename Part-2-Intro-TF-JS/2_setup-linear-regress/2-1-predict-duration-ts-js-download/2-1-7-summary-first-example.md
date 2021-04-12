@@ -10,7 +10,7 @@
 
 ## **Vocabulary**
 
-- **TensorFlow.js model** - 3 different ways to reuse a pretrained model for transfer learning on new tasks and their relative advantages and shortcomings.
+- **TensorFlow.js model** - 3 different ways to reuse a pre-trained model for transfer learning on new tasks and their relative advantages and shortcomings.
 - [**`model.fit()`**](https://js.tensorflow.org/api/latest/#tf.LayersModel.fit) - Trains the model for a fixed number of epochs (iterations on a dataset).
   - In statistics, a fit refers to how well you approximate a target function. This is good terminology to use in machine learning, because supervised machine learning algorithms seek to approximate the unknown underlying mapping function for the output variables given the input variables.
 
