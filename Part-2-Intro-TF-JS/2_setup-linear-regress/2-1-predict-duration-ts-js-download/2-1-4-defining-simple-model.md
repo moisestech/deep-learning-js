@@ -17,7 +17,7 @@
   - The transformation is given in the form of a learning algorithm.
 - **regression** - Regression ANNs predict an output variable as a function of the inputs.
   - If the output variable is a categorical variable (or binary) the ANN will function as a classifier.
-- **classification** -
+- **classification** - Classification neural networks used for feature categorization are very similar to fault-diagnosis networks, except that they only allow one output response for any input pattern, instead of allowing multiple faults to occur for a given set of operating conditions.
 - **tunable** -
 - **building blocks** -
 - **layer** -
