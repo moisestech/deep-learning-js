@@ -11,10 +11,12 @@
 ## **Vocabulary**
 
 - **simple model** - A linear regression model with one layer. For example a dense layers with tunable weights on the kernel and bias.
-- **deep learning** - Deep learning (also known as deep structured learning) is part of a broader family of machine learning methods based on artificial neural networks with representation learning. Learning can be supervised, semi-supervised or unsupervised.
+- **deep learning** - Deep learning (also known as deep structured learning) is part of a broader family of machine learning methods based on artificial neural networks with representation learning.
+  - Learning can be supervised, semi-supervised or unsupervised.
 - **model** - is represented by its architecture that shows how to transform two or more inputs into an output.
   - The transformation is given in the form of a learning algorithm.
-- **regression** - Regression ANNs predict an output variable as a function of the inputs. If the output variable is a categorical variable (or binary) the ANN will function as a classifier.
+- **regression** - Regression ANNs predict an output variable as a function of the inputs.
+  - If the output variable is a categorical variable (or binary) the ANN will function as a classifier.
 - **classification** -
 - **tunable** -
 - **building blocks** -
