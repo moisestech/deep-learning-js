@@ -15,7 +15,7 @@
   - It measures accuracy for continuous variables.
 - **chaining API** -
 - **tf namespace** -
-- **underfitting** -
+- **underfitting** - A model is said to be underfitting when it's not even able to classify the data it was trained on, let alone data it hasn't seen before. A model is said to be underfitting when it's not able to classify the data it was trained on.
 - **overfitting** -
 
 ## **Blog**
