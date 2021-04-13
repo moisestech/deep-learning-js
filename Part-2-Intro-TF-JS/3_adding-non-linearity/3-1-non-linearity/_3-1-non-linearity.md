@@ -10,7 +10,8 @@
   - In other words, the dense layer is a fully connected layer, meaning all the neurons in a layer are connected to those in the next layer.
 - **trained models** - A training model is a dataset that is used to train an ML algorithm.
   - The training model is used to run the input data through the algorithm to correlate the processed output against the sample output.
-  - The result from this correlation is used to modify the model. This iterative process is called “model fitting”.
+  - The result from this correlation is used to modify the model.
+  - This iterative process is called “model fitting”.
 - **data** - data cleaning, data engineering, data analysis.
 - **yarn watch** -
 - **command** -
