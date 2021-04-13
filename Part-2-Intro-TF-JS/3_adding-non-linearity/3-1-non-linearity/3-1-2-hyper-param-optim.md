@@ -11,7 +11,8 @@
 - **`leCunNormal`** - these initializations produce weights that are **randomly selected numbers** multiplied with the **variance 1/fan-in**.
 - **`'glorotNormal'`** - in this approach, each randomly generated weight is multiplied by variance 2/(fan-in + fan-out).
   - For a theoretical justification of the Xavier initialization, you can refer to the deeplearning.ai post on Initialization.
-- **model quality** - Quality is comprised of consistency and accuracy. It is not just how correct a label is, but also how often it is correct. This section describes the industry standard methods for measuring consistency and accuracy.
+- **model quality** - Quality is comprised of consistency and accuracy. It is not just how correct a label is, but also how often it is correct.
+  - This section describes the industry standard methods for measuring consistency and accuracy.
 - **hyperparameters** -
 - **`Model.fit()`** -
 - **units** -
