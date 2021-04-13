@@ -46,10 +46,12 @@
 - **deep neural networks** - Deep learning is a class of machine learning algorithms that uses multiple layers to progressively extract higher-level features from the raw input.
   - For example, in image processing, lower layers may identify edges, while higher layers may identify the concepts relevant to a human such as digits or letters or faces.
 - **range of problems** -
-- **improve solution accuracy** - Accuracy is one metric for evaluating classification models. Informally, accuracy is the fraction of predictions our model got right.
+- **improve solution accuracy** - Accuracy is one metric for evaluating classification models.
+  - Informally, accuracy is the fraction of predictions our model got right.
   - Formally, accuracy has the following definition: Accuracy = Number of correct predictions Total number of predictions.
-- **MNIST** - You define a model by multiplying the feature matrix with the weight and add a bias to it, then running it through a softmax function. y = tf.
-- **MobileNet** - MobileNet is a streamlined architecture that uses depthwise separable convolutions to construct lightweight deep convolutional neural networks and provides an efficient model for mobile and embedded vision applications [15]. The structure of MobileNet is based on depthwise separable filters.
+- **MNIST** - You define a model by multiplying the feature matrix with the weight and add a bias to it, then running it through a softmax function. `y = tf`.
+- **MobileNet** - MobileNet is a streamlined architecture that uses depthwise separable convolutions to construct lightweight deep convolutional neural networks and provides an efficient model for mobile and embedded vision applications [15].
+  - The structure of MobileNet is based on depthwise separable filters.
 - **inference** -
 - **transfer learning** -
 - **neural networks** -
