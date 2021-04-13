@@ -12,11 +12,17 @@
 - **theory** - Deep learning is an engineering science guided by experimental findings rather than by theory.
 - **NVIDIA and AMD** - invested billions of dollars in developing fast, massively parallel chips (GPUs) to power the graphics of increasingly photorealistic video games.
   - Deep neural networks, consisting mostly of many matrix multiplications and additions, are also highly parallelizable.
-- **activation functions** - An activation function is a function used in artificial neural networks which outputs a small value for small inputs, and a larger value if its inputs exceed a threshold. ... Two commonly used activation functions: the rectified linear unit (ReLU) and the logistic sigmoid function.
+- **activation functions** - An activation function is a function used in artificial neural networks which outputs a small value for small inputs, and a larger value if its inputs exceed a threshold.
+  - Two commonly used activation functions: the rectified linear unit (ReLU) and the logistic sigmoid function.
 - **weight-initialization schemes** - The aim of weight initialization is to prevent layer activation outputs from exploding or vanishing during the course of a forward pass through a deep neural network.
-- **optimization schemes** -
+- **optimization schemes** - Optimizers are algorithms or methods used to change the attributes of your neural network such as weights and learning rate in order to reduce the losses.
+  - Optimization algorithms or strategies are responsible for reducing the losses and to provide the most accurate results possible.
 - **RMSProp** -
 - **training models** -
+
+## **Blog**
+
+- [Various Optimization Algorithms for Training Neural Network](https://towardsdatascience.com/optimizers-for-training-neural-network-59450d71caf6#:~:text=Optimizers%20are%20algorithms%20or%20methods,order%20to%20reduce%20the%20losses.&text=Optimization%20algorithms%20or%20strategies%20are,the%20most%20accurate%20results%20possible.)
 
 ---
 
