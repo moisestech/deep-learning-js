@@ -24,7 +24,8 @@
 - **graph** - Graph Neural Network is a type of Neural Network which directly operates on the Graph structure.
   - A typical application of GNN is node classification.
   - Essentially, every node in the graph is associated with a label, and we want to predict the label of the nodes without ground-truth .
-- **sequence tasks** - Neural Networks sequentially build high-level features through their successive layers. We propose here a new neural network model where each layer is associated with a set of candidate mappings.
+- **sequence tasks** - Neural Networks sequentially build high-level features through their successive layers.
+  - We propose here a new neural network model where each layer is associated with a set of candidate mappings.
 - **pooling** -
 - **possibilities** -
 - **introduction** -
