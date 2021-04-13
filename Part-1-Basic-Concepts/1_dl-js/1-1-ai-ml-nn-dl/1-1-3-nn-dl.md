@@ -19,7 +19,11 @@
 - **vector** - In a computer, the layers of the neural network are represented as vectors.
   - Consider the input layer as X and the hidden layer as H. The output layer is not concerned for now.
   - Every single column of the network are vectors. Vectors are dynamic arrays that are a collection of data(or features).
-- **loss function** -
+- **loss function** - The Loss Function is one of the important components of Neural Networks.
+  - Loss is nothing but a prediction error of Neural Net.
+  - And the method to calculate the loss is called Loss Function.
+  - In simple words, the Loss is used to calculate the gradients.
+  - And gradients are used to update the weights of the Neural Net.
 - **gradient descent** -
 - **naives bayes classifier** -
 - **logistic regression (logreg)** -
