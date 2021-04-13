@@ -18,7 +18,9 @@
   - Each neuron's coefficients (weights) are then adjusted relative to how much they contributed to the total error.
 - **trainable function** - In recent years there has been a renovated interest of the scientific community in investigating activation functions which can be trained during the learning process, usually referred to as "trainable", "learnable" or "adaptable" activation functions.
   - They appear to lead to better network performance.
-- **accuracy** - Accuracy is one metric for evaluating classification models. Informally, accuracy is the fraction of predictions our model got right. Formally, accuracy has the following definition: Accuracy = Number of correct predictions Total number of predictions.
+- **accuracy** - Accuracy is one metric for evaluating classification models.
+  - Informally, accuracy is the fraction of predictions our model got right.
+  - Formally, accuracy has the following definition: Accuracy = Number of correct predictions Total number of predictions.
 
 ---
 
