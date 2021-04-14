@@ -39,7 +39,7 @@
 
 ## **Vocabulary**
 
-- **Machine learning** - a subfield of AI in which rules for performing a task such as image classification are discovered automatically by learning from examples in the training data.
+- **Machine learning** - a subfield of AI in which rules for **performing a task** such as image classification are discovered **automatically by learning from examples** in the training data.
 - **Deep Learning** - refers to the rapid progress made in _speed_ and _techniques_ of **deep-neural networks** that started around 2012.
 - **AI** - AI is the study of automating cognitive tasks. Machine learning is a subfield of AI in which rules for performing a task such as image classification are discovered automatically by learning from examples in the training data.
 - **TensorFlow.js** - TensorFlow.js, the focus of this book, is a comprehensive, versatile, and powerful open source library for deep learning in JavaScript.
