@@ -17,7 +17,7 @@
 ## **Vocabulary**
 
 - **TensorFlow, Keras** - The LEGO equivalent is the high-level API called Keras.
-  - Keras provides a set of the most frequently used types of neural network layers, each with configurable parameters.
+  - Keras provides a set of the most **frequently used types of neural network layers**, each with **configurable parameters**.
 - **tensors** - A tensor is a generalization of vectors and matrices to potentially higher dimensions.
   - Internally, TensorFlow represents tensors as n-dimensional arrays of base datatypes.
   - When writing a TensorFlow program, the main object you manipulate and pass around is the tf$Tensor.
