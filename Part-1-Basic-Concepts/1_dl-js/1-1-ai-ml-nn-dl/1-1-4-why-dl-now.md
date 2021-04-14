@@ -6,7 +6,7 @@
 
 ## **Vocabulary**
 
-- **basic ideas** - Neural networks already existed as early as the 1980s, and 3 key technical forces in 30 years drove the 2012 AI revolution that we are experiencing today.
+- **basic ideas** - Neural networks already existed as **early as the 1980s**, and 3 key technical forces in 30 years drove the **2012 AI revolution** that we are experiencing today.
 - **benchmarks** - Catalyst for the rise of deep learning is the ImageNet dataset, which consists of 1.4 million images that have been hand annotated with 1,000 image categories.
   - Through Kaggle having common benchmarks that researchers compete to beat has greatly helped the recent rise of deep learning.
 - **theory** - Deep learning is an engineering science guided by experimental findings rather than by theory.
