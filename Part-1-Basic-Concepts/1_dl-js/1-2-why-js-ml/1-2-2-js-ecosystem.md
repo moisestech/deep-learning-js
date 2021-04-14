@@ -10,7 +10,7 @@
 
 ## **Vocabulary**
 
-- **Javascript Ecosystem** - for years has consistently ranked number one among programming languages by repository count such as NPM.
+- **Javascript Ecosystem** - for years has consistently ranked **number one among programming languages by repository count** such as NPM.
 - **GitHub** - JavaScript has been consistently ranked number one among a few dozen programming languages in terms of repository count and pull activities on GitHub.
 - **Amazon Web Services** -
 - **MongoDB / RethinkDB** - Most popular database systems today, such as MongoDB and RethinkDB, have first-class support for Node.js drivers.
