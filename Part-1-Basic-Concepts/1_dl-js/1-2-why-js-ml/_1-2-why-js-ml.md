@@ -10,9 +10,9 @@
 
 ## **Vocabulary**
 
-- **Deployment** - Optimizing the speed of downloading and inference is an important factor to the success of client-side deployment of TensorFlow.js.
+- **Deployment** - Optimizing **the speed of downloading and inference is an important factor** to the success of client-side deployment of TensorFlow.js.
 - **access** - Browser-based application of deep learning comes with five additional benefits:
-  - reduced server cost, lowered inference latency, data privacy, instant GPU acceleration, and instant access.
+  - r**educed server cost, lowered inference latency, data privacy, instant GPU acceleration, and instant access**.
 - **deploying** - JavaScript and the web browser are a suitable environment for deploying and training deep neural networks.
   - Client-side models lower computation on cloud GPUs.
 - **YOLO** - YOLO algorithm gives a much better performance on all the parameters we discussed along with a high fps for real-time usage.
