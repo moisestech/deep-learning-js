@@ -6,7 +6,7 @@
 
 ## **Vocabulary**
 
-- **Google's Project Magenta** - uses TF.js to run RNNs and other kinds of deep neural networks to generate musical scores and novel instrument sounds in the browser.
+- **Google's Project Magenta** - uses TF.js to **run RNNs** and other kinds of deep neural networks to **generate musical scores** and novel instrument sounds in the browser.
 - **ML5.js** - an easy-to-use, higher-level API for various out-of-the-box deep-learning models for the browser, such as object detection and image style transfer.
 - **Amazon Echo** - Data and machine learning is the foundation of Alexa's power, and it's only getting stronger as its popularity and the amount of data it gathers increase.
   - Every time Alexa makes a mistake in interpreting your request, that data is used to make the system smarter the next time around.
