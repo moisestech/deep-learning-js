@@ -6,7 +6,7 @@
 
 ## **Vocabulary**
 
-- **tfjs-node** - The CPU version TensorFlow.JS Node, directly uses the multithreaded math operations written in C++ and used by the main Python version of TensorFlow.
+- **tfjs-node** - The CPU version TensorFlow.JS Node, directly **uses the multithreaded math operations written in C++** and used by the main Python version of TensorFlow.
 
 ---
 
