@@ -15,8 +15,8 @@
 ## **Vocabulary**
 
 - [**traditional programming**](https://www.logianalytics.com/predictive-analytics/machine-learning-vs-traditional-programming/#:~:text=Traditional%20Programming%20refers%20to%20any,of%20intelligence%20and%20embedded%20analytics.) - refers to any manually created program that uses input data and runs on a computer to produce the output.
-- **[features](<https://en.wikipedia.org/wiki/Feature_(machine_learning)>)** - a feature is an individual measurable property or characteristic of a phenomenon being observed.
-  - Choosing informative, discriminating and independent features is a crucial step for effective algorithms in pattern recognition, classification and regression.
+- **[features](<https://en.wikipedia.org/wiki/Feature_(machine_learning)>)** - **is an individual measurable property** or characteristic of a phenomenon being observed.
+  - Choosing **informative, discriminating and independent features** is a crucial step for effective algorithms in pattern recognition, classification and regression.
   - Useful features is what helps drive model predictions.
 - **output** - (phi) is the transfer function (commonly a threshold function).
   - The output is analogous to the axon of a biological neuron, and its value propagates to the input of the next layer, through a synapse.
