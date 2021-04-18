@@ -16,22 +16,25 @@
 
 ## **Vocabulary**
 
-- **gradient-descent optimization** - In optimization, a gradient method is an algorithm to solve problems of the form.
+- **gradient-descent optimization**
+  - In optimization, a gradient method is an algorithm to solve problems of the form.
   - With the search directions defined by the gradient of the function at the current point.
   - Examples of gradient methods are the gradient descent and the conjugate gradient.
-- **random initialization** - This serves the process of symmetry-breaking and gives much better accuracy.
+- **random initialization**
+  - This serves the process of symmetry-breaking and gives much better accuracy.
   - In this method, the weights are initialized very close to zero, but randomly.
   - This helps in breaking symmetry and every neuron is no longer performing the same computation.
   - Random initialization refers to the practice of using random numbers to initialize the weights of a machine learning model.
   - Random initialization is one way of performing symmetry breaking, which is the act of preventing all of the weights in the machine learning model from being the same.
-- **loss surface** -
-- **deep learning models** - Deep learning is a class of machine learning algorithms that uses multiple layers to progressively extract higher-level features from the raw input. For example, in image processing, lower layers may identify edges, while higher layers may identify the concepts relevant to a human such as digits or letters or faces.
-- **training loop** -
-- **batch size** -
-- **forward pass** -
-- **differentiable** -
-- **gradient descent** -
-- **default learning rate** -
+- **loss surface**
+- **deep learning models**
+  - Deep learning is a class of machine learning algorithms that uses multiple layers to progressively extract higher-level features from the raw input. For example, in image processing, lower layers may identify edges, while higher layers may identify the concepts relevant to a human such as digits or letters or faces.
+- **training loop**
+- **batch size**
+- **forward pass**
+- **differentiable**
+- **gradient descent**
+- **default learning rate**
 
 ## **Blog**
 
