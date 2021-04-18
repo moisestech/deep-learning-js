@@ -12,17 +12,22 @@
 
 ## **Vocabulary**
 
-- **directions** - which axis and direction does gradient descent move towards as the weights are being computed.
-- **backpropagation** - The backpropagation algorithm works by **computing the gradient of the loss function with respect to each weight by the chain rule**,
+- **directions**
+  - which axis and direction does gradient descent move towards as the weights are being computed.
+- **backpropagation**
+  - The backpropagation algorithm works by **computing the gradient of the loss function with respect to each weight by the chain rule**,
   - computing the gradient one layer at a time, iterating backward from the last layer to avoid redundant calculations of intermediate terms in the chain rule.
-- [**`tf.model.fit()`**](https://js.tensorflow.org/api/latest/#tf.LayersModel.fit) - Trains the model for a fixed number of epochs (iterations on a dataset).
-- **squared error** - Mean square error function is the basic performance function which affects the network directly.
+- [**`tf.model.fit()`**](https://js.tensorflow.org/api/latest/#tf.LayersModel.fit)
+  - Trains the model for a fixed number of epochs (iterations on a dataset).
+- **squared error**
+  - Mean square error function is the basic performance function which affects the network directly.
   - Reducing of such error will result in an efficient system.
-- **gradient of loss with respect to V** - An error gradient is the direction and magnitude calculated during the training of a neural network that is used to update the network weights in the right direction and by the right amount.
-- **opposite** -
-- **chain rule** -
-- **multiple input features** -
-- **basics** -
+- **gradient of loss with respect to V**
+  - An error gradient is the direction and magnitude calculated during the training of a neural network that is used to update the network weights in the right direction and by the right amount.
+- **opposite**
+- **chain rule**
+- **multiple input features**
+- **basics**
 
 ---
 
