@@ -17,32 +17,34 @@
 ## **Vocabulary**
 
 - **key** -
-- **activation function** - specified by activation: 'sigmoid' in the code), which is represented by the square boxes in panel B of figure 3.1.
+- **activation function**
+  - specified by activation: 'sigmoid' in the code), which is represented by the square boxes in panel B of figure 3.1.
   - An activation function[1] is an element-by-element transform.
   - The sigmoid function is a “squashing” nonlinearity, in the sense that it “squashes” all real values from –infinity to +infinity into a much smaller range (0 to +1, in this case).
-- [**2D Tensor**](https://js.tensorflow.org/api/0.6.1/#tensor2d) - Creates a tf.Tensor with the provided values, shape and dtype.
-- **matrix** -
-- **array** -
-- **activation function** -
-- **action potentials** -
-- **synapses** -
-- **non-linear** -
-- **backpropagation** -
-- **deep-neural networks** -
-- **sigmoid function** -
-- **deep-learning** -
-- **capacity** -
-- **Boston-housing problem** -
-- **`multiLayerPerceptronRegressionModel2Hidden()`** -
-- **Repeating** -
-- **stacking layers** -
-- **model interpretability** -
-- **API for accessing weight values** -
-- **`getWeights()`** -
-- **`model.fit()`** -
-- **tensors** -
-- **space** -
-- **decision trees** -
+- [**2D Tensor**](https://js.tensorflow.org/api/0.6.1/#tensor2d)
+  - Creates a tf.Tensor with the provided values, shape and dtype.
+- **matrix**
+- **array**
+- **activation function**
+- **action potentials**
+- **synapses**
+- **non-linear**
+- **backpropagation**
+- **deep-neural networks**
+- **sigmoid function**
+- **deep-learning**
+- **capacity**
+- **Boston-housing problem**
+- **`multiLayerPerceptronRegressionModel2Hidden()`**
+- **Repeating**
+- **stacking layers**
+- **model interpretability**
+- **API for accessing weight values**
+- **`getWeights()`**
+- **`model.fit()`**
+- **tensors**
+- **space**
+- **decision trees**
 
 ---
 
