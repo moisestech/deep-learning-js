@@ -10,20 +10,25 @@
 
 ## **Vocabulary**
 
-- **True positive (TPs)** — is an outcome where the model **correctly predicts the positive class**.
-- **True negatives (TNs)** — is an outcome where the model **correctly predicts the negative class**.
-- **False positives (FPs)** — is an outcome where the model **incorrectly predicts the positive class**.
-- **False negatives (FNs)** — is an outcome where the model **incorrectly predicts the negative class**.
-- **confusion matrix** —
-- **accuracy** —
-- **sounds** —
-- **precision** —
-- **recall** — is the ratio of actual positive examples that are classified by the model as positive.
-- **review** —
-- **precision** —
-- **Precision at X% Recall** —
-- **trade-off** -
-- **ROC** -
+- **True positive (TPs)**
+  - is an outcome where the model **correctly predicts the positive class**.
+- **True negatives (TNs)**
+  - is an outcome where the model **correctly predicts the negative class**.
+- **False positives (FPs)**
+  - is an outcome where the model **incorrectly predicts the positive class**.
+- **False negatives (FNs)**
+  - is an outcome where the model **incorrectly predicts the negative class**.
+- **confusion matrix**
+- **accuracy**
+- **sounds**
+- **precision**
+- **recall**
+  - is the ratio of actual positive examples that are classified by the model as positive.
+- **review**
+- **precision**
+- **Precision at X% Recall**
+- **trade-off**
+- **ROC**
 
 ## **Blogs**
 
