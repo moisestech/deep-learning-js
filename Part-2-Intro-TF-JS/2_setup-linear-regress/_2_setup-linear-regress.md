@@ -12,19 +12,22 @@
 
 ## **Vocabulary**
 
-- **neural network** - A deep neural network (DNN) is an artificial neural network (ANN) with multiple layers between the input and output layers.
+- **neural network**
+  - A deep neural network (DNN) is an artificial neural network (ANN) with multiple layers between the input and output layers.
   - Each mathematical manipulation as such is considered a layer, and complex DNN have many layers, hence the name "deep" networks.
-- **linear regression** - A neural network can be a linear regressor too, if you remove all hidden layers, and all the activation functions, then it is fundamentally still a neural network, only that its the simplest possible NN.
+- **linear regression**
+  - A neural network can be a linear regressor too, if you remove all hidden layers, and all the activation functions, then it is fundamentally still a neural network, only that its the simplest possible NN.
   - In this case, it would be just a collection of perceptrons ( minus the activations).
-- **tensors** - A tensor is a generalization of vectors and matrices to potentially higher dimensions.
+- **tensors**
+  - A tensor is a generalization of vectors and matrices to potentially higher dimensions.
   - Internally, TensorFlow represents tensors as n-dimensional arrays of base datatypes.
   - When writing a TensorFlow program, the main object you manipulate and pass around is the tf$Tensor.
-- **prediction problem** -
-- **TensorFlow.js** -
-- **machine-learning model** -
-- **intuitions** -
-- **deep-learning** -
-- **this book** -
+- **prediction problem**
+- **TensorFlow.js**
+- **machine-learning model**
+- **intuitions**
+- **deep-learning**
+- **this book**
 
 ---
 
