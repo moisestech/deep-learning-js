@@ -6,13 +6,15 @@
 
 ## **Vocabulary**
 
-- **[`meanAbsoluteError`](https://medium.com/@ewuramaminka/mean-absolute-error-mae-machine-learning-ml-b9b4afc63077)** - refers to the **mean of the absolute values of each prediction error** on all instances of the test data-set.
+- **[`meanAbsoluteError`](https://medium.com/@ewuramaminka/mean-absolute-error-mae-machine-learning-ml-b9b4afc63077)**
+  - refers to the **mean of the absolute values of each prediction error** on all instances of the test data-set.
   - Prediction error is the difference between the actual value and the predicted value for that instance.
-- **outliers** - An outlier is a data point that is distant from other similar points.
+- **outliers**
+  - An outlier is a data point that is distant from other similar points.
   - They may be due to variability in the measurement or may indicate experimental errors.
   - If possible, outliers should be excluded from the data set.
   - However, detecting that anomalous instances might be very difficult, and is not always possible.
-- **dataSync** -
+- **dataSync**
 
 ---
 
