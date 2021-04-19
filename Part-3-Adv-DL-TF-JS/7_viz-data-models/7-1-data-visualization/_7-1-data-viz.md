@@ -1,6 +1,6 @@
 # 7.1 👁 Data Viz
 
-## [**7.1.** Data visualization]()
+## [**7.1.** Data visualization](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-7/9)
 
 ---
 
