@@ -4,6 +4,10 @@
 
 ---
 
+### [**Figure 7.8.** Internal activation from several convolutional layers of VGG16 performing inference on the cat.jpg image.](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-7/ch07fig08)
+
+---
+
 ## **Vocabulary**
 
 - **vector**
