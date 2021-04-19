@@ -4,6 +4,10 @@
 
 ---
 
+### [**Figure 7.11.** Class activation maps (CAMs) for three input images to the VGG16 deep convnet.](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-7/ch07fig11)
+
+---
+
 ## **Vocabulary**
 
 - **visual interpretation**
