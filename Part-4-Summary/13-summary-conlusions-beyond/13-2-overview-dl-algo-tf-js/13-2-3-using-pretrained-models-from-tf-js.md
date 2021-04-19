@@ -2,6 +2,8 @@
 
 ## [**13.2.3.** Using pretrained models from TensorFlow.js](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-13/100)
 
+## [**Figure 13.1 Several Pretrained TensorFlow NPM Models**](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-13/ch13fig01)
+
 ---
 
 ## **Vocabulary**
