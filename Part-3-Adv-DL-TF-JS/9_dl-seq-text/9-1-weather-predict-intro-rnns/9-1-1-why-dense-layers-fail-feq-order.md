@@ -4,6 +4,10 @@
 
 ---
 
+### [**Figure 9.1.** The internal architecture of a dense layer.](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-9/ch09fig01)
+
+---
+
 ## **Vocabulary**
 
 - **dense layers**
