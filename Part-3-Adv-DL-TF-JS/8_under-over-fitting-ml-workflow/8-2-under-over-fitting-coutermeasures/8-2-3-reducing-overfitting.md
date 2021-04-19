@@ -4,6 +4,12 @@
 
 ---
 
+## [**Figure 8.5.** Distribution of the values in the kernel with (panel A) and without (panel B) L2 regularization.](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-8/ch08fig05)
+
+## [**Figure 8.6.** A schematic diagram showing the loss curves from simplified cases of underfitting (panel A), overfitting (panel B), and just-right fitting (panel C) in model training.](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-8/ch08fig06)
+
+---
+
 ## **Vocabulary**
 
 - **weight regularization**
