@@ -4,6 +4,12 @@
 
 ---
 
+### [**Figure 7.9.** A schematic diagram showing the basic idea behind how the maximally activating image for a convolutional filter is found through gradient ascent in input space (panel B) and how that differs from the normal neural network training process based on gradient descent in weight space (panel A).](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-7/ch07fig09)
+
+### [**Figure 7.10.** Maximally activating input images for four layers of the VGG16 deep convnet.](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-7/ch07fig10)
+
+---
+
 ## **Vocabulary**
 
 - **maximally-y**
