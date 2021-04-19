@@ -4,6 +4,10 @@
 
 ---
 
+### [**Figure 6.7.** Generation of cat pictures via random data augmentation.](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-6/ch06fig07)
+
+---
+
 ## **Vocabulary**
 
 - **`tf.data.Dataset`**
