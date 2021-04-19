@@ -4,6 +4,12 @@
 
 ---
 
+## [**Figure 8.2.** Flattening the 2D feature tensor of shape [timeSteps, numFeatures] into a 1D tensor of shape [timeSteps × numFeatures]](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-8/ch08fig02)
+
+## [**Figure 8.3.** The tfjs-vis visor visualizing the training of a linear-regression model.](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-8/ch08fig03)
+
+---
+
 ## **Vocabulary**
 
 - **dense layer**
