@@ -4,6 +4,12 @@
 
 ---
 
+### [**Figure 6.5.** A screenshot of Facets showing per-feature value distributions for the training and test split of the UC Irvine Census Income datasets](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-6/ch06fig05)
+
+### [**Figure 6.6.** Another screenshot of Facets, this time exploring the State of New York, Campuses dataset](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-6/ch06fig06)
+
+---
+
 ## **Vocabulary**
 
 - **outliers**
