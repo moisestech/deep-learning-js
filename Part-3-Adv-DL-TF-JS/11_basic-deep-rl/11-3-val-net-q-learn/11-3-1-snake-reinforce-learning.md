@@ -4,6 +4,10 @@
 
 ---
 
+### [**Figure 11.9.** The snake game: a grid world in which the player controls a snake to eat fruit.](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-11/ch11fig09)
+
+---
+
 ## **Vocabulary**
 
 - **deep q-network**
