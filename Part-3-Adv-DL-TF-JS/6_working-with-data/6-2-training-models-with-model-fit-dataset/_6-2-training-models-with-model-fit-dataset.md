@@ -1,6 +1,12 @@
-# 🧮 Traning Models with Modet Fit Dataset
+# 🧮 Training Models with Model Fit Dataset
 
 ## [**6.2.** Training models with model.fitDataset](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-6/73)
+
+---
+
+### [**Figure 6.1.** The UI of the data-generator example.](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-6/ch06fig01)
+
+### [**Figure 6.2.** Web UI for our tfjs-data CSV example.](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-6/ch06fig02)
 
 ---
 
