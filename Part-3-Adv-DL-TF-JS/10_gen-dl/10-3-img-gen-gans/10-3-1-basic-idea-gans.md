@@ -4,6 +4,12 @@
 
 ---
 
+### [**Figure 10.10.** A schematic diagram illustrating the algorithm by which the discriminator part of a GAN is trained.](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-10/ch10fig10)
+
+### [**Figure 10.11.** A schematic diagram illustrating the algorithm by which the generator part of a GAN is trained.](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-10/ch10fig11)
+
+---
+
 ## **Vocabulary**
 
 - **generator**
