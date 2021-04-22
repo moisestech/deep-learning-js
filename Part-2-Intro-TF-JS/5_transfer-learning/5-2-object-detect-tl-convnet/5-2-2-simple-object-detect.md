@@ -4,6 +4,10 @@
 
 ---
 
+### [**Figure 5.14.** The object-detection model and the custom loss function that it is based on.](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-5/ch05fig14)
+
+---
+
 ## **Vocabulary**
 
 - **convolutional layers**
