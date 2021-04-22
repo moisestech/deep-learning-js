@@ -4,6 +4,10 @@
 
 ---
 
+### [**Figure 10.2.** How stacking multiple LSTM layers works in a model.](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-10/ch10fig02)
+
+---
+
 ## **Vocabulary**
 
 - **LSTM text generation**
