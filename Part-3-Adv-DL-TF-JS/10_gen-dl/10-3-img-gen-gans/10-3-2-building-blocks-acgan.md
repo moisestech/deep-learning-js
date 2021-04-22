@@ -4,6 +4,10 @@
 
 ---
 
+### [**Figure 10.12.** Schematic diagrams of the internal topology of the discriminator (panel A) and generator (panel B) parts of ACGAN.](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-10/ch10fig12)
+
+---
+
 ## **Vocabulary**
 
 - **building blocks**
