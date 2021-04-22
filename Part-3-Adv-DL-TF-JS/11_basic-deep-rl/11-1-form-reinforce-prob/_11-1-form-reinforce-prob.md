@@ -4,6 +4,10 @@
 
 ---
 
+### [**Figure 11.1.** Example real-world applications of reinforcement learning.](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-11/ch11fig01)
+
+---
+
 ## **Vocabulary**
 
 - **observation**
