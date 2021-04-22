@@ -4,6 +4,12 @@
 
 ---
 
+### [**Figure 6.3.** Plots of four dataset features vs. the sample index.](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-6/ch06fig03)
+
+### [**Figure 6.4.** Four plots of longitude vs. the sample index for four shuffled datasets.](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-6/ch06fig04)
+
+---
+
 ## **Vocabulary**
 
 - **bad data vs good data**
