@@ -4,6 +4,16 @@
 
 ---
 
+### [**Figure 5.5.** Transfer learning can be divided into three types according to whether the output shape and activation of the new model are the same as or different from those of the original model.](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-5/ch05fig05)
+
+### [**Figure 5.6.** The UI of the webcam-transfer-learning example](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-5/ch05fig06)
+
+### [**Figure 5.7.** A schematic drawing that explains how the new (“truncated”) model is created from MobileNet.](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-5/ch05fig07)
+
+### [**Figure 5.8.** A schematic of the transfer-learning algorithm that underlies the webcam-transfer-learning example](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-5/ch05fig08)
+
+---
+
 ## **Vocabulary**
 
 - **incompatible output shapes**
