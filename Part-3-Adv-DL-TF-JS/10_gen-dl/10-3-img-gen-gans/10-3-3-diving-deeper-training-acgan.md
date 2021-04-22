@@ -4,6 +4,12 @@
 
 ---
 
+### [**Figure 10.13.** A schematic diagram illustrating the algorithm by which the discriminator part of ACGAN is trained.](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-10/ch10fig13)
+
+### [**Figure 10.14.** A schematic diagram illustrating the algorithm by which the generator part of ACGAN is trained.](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-10/ch10fig14)
+
+---
+
 ## **Vocabulary**
 
 - **`categorical cross entropy`**
