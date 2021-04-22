@@ -4,6 +4,10 @@
 
 ---
 
+### [**Figure 10.1.** A schematic illustration of how an RNN-based next-character predictor can be used to generate a sequence of text from an initial input snippet of text as the seed.](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-10/ch10fig01)
+
+---
+
 ## **Vocabulary**
 
 - **next-character predictor**
