@@ -4,6 +4,10 @@
 
 ---
 
+### [**Figure 11.10.** A very simple concrete example of the Markov decision process (MDP).](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-11/ch11fig10)
+
+---
+
 ## **Vocabulary**
 
 - **markov decision process (MDP)**
