@@ -4,6 +4,10 @@
 
 ---
 
+### [**Figure 4.5.** An example of how a maxPooling2D layer works.](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-4/ch04fig05)
+
+---
+
 ## **Vocabulary**
 
 - **maxPooling2d layer**
