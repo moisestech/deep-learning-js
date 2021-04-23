@@ -15,6 +15,10 @@
   - Convolutional neural network.
   - That is, a network which has at least one convolutional layer.
   - A typical CNN also includes other types of layers, such as pooling layers and dense layers.
+  - Convolutional networks are a class of neural network that use convolutional layers instead of fully connected layers. On a fully connected layer, all the output units have weights connecting to all the input units. On a convolutional layer, we have some weights that are repeated over the input.
+  - The advantage of convolutional layers over fully connected layers is that the number of parameters is far smaller. This results in better generalization of the model. For example, if we want to learn a transformation from a 10x10 image to another 10x10 image, we will need 10,000 parameters if using a fully connected layer. If we use two convolutional layers, the first one having nine filters and the second one having one filter, with a kernel size of 3x3, we will have only 90 parameters.
+  - Convolutional networks are applied where data has a clear dimensionality structure. Time series analysis is an example where one-dimensional convolutions are used; for images, 2D convolutions are used; and for volumetric data, 3D convolutions are used.
+  - Computer vision has been dominated by convolutional networks since 2012 when AlexNet won the ImageNet challenge.
 - **Convolution**
   - The process of applying a kernel (filter) to an image
 - **Kernel / filter**
@@ -48,7 +52,15 @@
 - **dense layers**
 - **conv2d**
 - **Downsampling**
+
   - The act of reducing the size of an image
+
+- **Curse of Dimensionality** - The curse of dimensionality is when the training data has a high feature count, but the dataset does not have enough samples for a model to learn correctly from so many features. For example, a training dataset of 100 samples with 100 features will be very hard to learn from because the model will find random relations between the features and the target. However, if we had a dataset of 100k samples with 100 features, the model could probably learn the correct relationships between the features and the target.
+- There are different options to fight the curse of dimensionality:
+  - **Feature selection.** Instead of using all the features, we can train on a smaller subset of features.
+  - **Dimensionality reduction.** There are many techniques that allow to reduce the dimensionality of the features. Principal component analysis (PCA) and using autoencoders are examples of dimensionality reduction techniques.
+  - **L1 regularization.** Because it produces sparse parameters, L1 helps to deal with high-dimensionality input.
+  - **Feature engineering.** It’s possible to create new features that sum up multiple existing features. For example, we can get statistics such as the mean or median. It’s possible to create new features that sum up multiple existing features. For example, we can get statistics such as the mean or median.
 
 ---
 
