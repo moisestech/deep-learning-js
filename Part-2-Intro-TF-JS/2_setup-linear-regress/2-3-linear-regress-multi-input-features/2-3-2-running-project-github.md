@@ -4,7 +4,7 @@
 
 ---
 
-### [**Figure 2.11** The Boston-housing linear-regression example from tfjs-examples](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-2/ch02fig11)
+### [**Figure 2.11.** The Boston-housing linear-regression example from tfjs-examples](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-2/ch02fig11)
 
 ---
 
