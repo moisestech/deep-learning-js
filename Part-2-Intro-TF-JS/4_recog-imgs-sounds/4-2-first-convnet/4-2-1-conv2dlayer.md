@@ -4,6 +4,12 @@
 
 ---
 
+### [Figure 4.3. How a conv2D layer works](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-4/ch04fig03)
+
+### [Figure 4.4. An illustration of the dot-product (that is, multiply-and-add) operation in the 2D convolution operation](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-4/ch04fig04)
+
+---
+
 ## **Vocabulary**
 
 - **conv2d layer**
