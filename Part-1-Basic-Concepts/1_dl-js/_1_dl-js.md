@@ -37,6 +37,16 @@
 
 ---
 
+## Training in Browser steps
+
+1. We can use sequential models to add layers
+2. The first layer had to identify the input tensor shape
+3. The last layer gives us the shape of the tensor output
+4. We compile the model with direction on how it should learn
+5. To train we call `fit` with input and expected output examples + some configuration
+
+---
+
 ## **Vocabulary**
 
 - **Machine learning** - a subfield of AI in which rules for **performing a task** such as image classification are discovered **automatically by learning from examples** in the training data.
@@ -50,8 +60,8 @@
   - Informally, accuracy is the fraction of predictions our model got right.
   - Formally, accuracy has the following definition: Accuracy = Number of correct predictions Total number of predictions.
 - **MNIST** - You define a model by multiplying the feature matrix with the weight and add a bias to it, then running it through a softmax function. `y = tf`.
-- **MobileNet** - MobileNet is a streamlined architecture that uses depthwise separable convolutions to construct lightweight deep convolutional neural networks and provides an efficient model for mobile and embedded vision applications [15].
-  - The structure of MobileNet is based on depthwise separable filters.
+- **MobileNet** - MobileNet is a streamlined architecture that uses depth-wise separable convolutions to construct lightweight deep convolutional neural networks and provides an efficient model for mobile and embedded vision applications [15].
+  - The structure of MobileNet is based on depth-wise separable filters.
 - **inference** -
 - **transfer learning** -
 - **neural networks** -
@@ -70,10 +80,11 @@
 - **sounds** -
 - **generate text** -
 - **image recognition** -
-- **deep reinforcement** -
+- **deep reinforcement learning** - In reinforcement learning, the model has some input data and a reward depending on the output of the model. The model learns a policy that maximizes the reward. Reinforcement learning has been applied successfully to strategic games such as Go and even classic Atari video games.
 - **detection** -
 - **javascript** -
 - **Node.js** -
+- **ensembles** - An ensemble is the combination of multiple models to create a single prediction. The key idea for making better predictions is that the models should make different errors. That way the errors of one model will be compensated by the right guesses of the other models and thus the score of the ensemble will be higher.
 
 ---
 
