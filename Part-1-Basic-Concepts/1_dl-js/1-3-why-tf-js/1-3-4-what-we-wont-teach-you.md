@@ -6,7 +6,7 @@
 
 ## **Vocabulary**
 
-- **audio data** - collecting one second of audio data using the `tf.data.microphone()` API.
+- <span style="color: #0095ff">**audio data**</span> - collecting one second of audio data using the `tf.data.microphone()` API.
 
 ---
 
