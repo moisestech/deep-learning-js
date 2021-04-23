@@ -4,6 +4,10 @@
 
 ---
 
+### [Figure 4.11. An example of how a dropout layer works.](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-4/ch04fig11)
+
+---
+
 ## **Vocabulary**
 
 - **Dependencies and imports**
@@ -15,7 +19,7 @@
 - **CUDA toolkit**
 - **CuDNN**
 - **@-tensor-flow/tfjs-node-gpu**
-- **dropout layers**
+- **dropout layers** - is a technique applied to neural networks that randomly sets some of the neurons’ outputs to zero during training. This forces the network to learn better representations of the data by preventing complex interactions between the neurons: Each neuron needs to learn useful features.
 - **deep neural networks**
 - **training phase**
 - **inference phase**
