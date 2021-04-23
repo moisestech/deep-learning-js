@@ -4,9 +4,9 @@
 
 ---
 
-### [**Figure 3.7** The step function used to convert the probability output of a binary-classification model is differentiable almost everywhere]()
+### [**Figure 3.7.** The step function used to convert the probability output of a binary-classification model is differentiable almost everywhere.](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-3/ch03fig07)
 
-### [**Figure 3.8** The binary cross-entropy loss function]()
+### [**Figure 3.8.** The binary cross-entropy loss function.](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-3/ch03fig08)
 
 ### [**Table 3.4** Comparing values of binary cross entropy and MSE for hypothetical binary classification results]()
 
