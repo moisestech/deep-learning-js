@@ -4,6 +4,10 @@
 
 ---
 
+### [**Figure 4.9.** Same as figure 4.8, but for a non-convolutional model for the MNIST problem](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-4/ch04fig09)
+
+---
+
 ## **Vocabulary**
 
 - **loss**
@@ -18,10 +22,14 @@
 - **batch sizes**
 - **gradient**
 - **trade-off**
+- **test dataset** - is used to measure how well the model does on previously unseen examples. It should only be used once we have tuned the parameters using the validation set.
+- **validation dataset** - The validation dataset is used to measure how well the model does on examples that weren’t part of the training dataset. The metrics computed on the validation data can be used to tune the hyperparameters of the model. However, every time we evaluate the validation data and we make decisions based on those scores, we are leaking information from the validation data into our model. The more evaluations, the more information is leaked. So we can end up overfitting to the validation data, and once again the validation score won’t be reliable for predicting the behavior of the model in the real world.
 - **`validationSplit`**
+- **stratified cross-validation** - Cross-validation is a technique for dividing data between training and validation sets. On typical cross-validation this split is done randomly. But in stratified cross-validation, the split preserves the ratio of the categories on both the training and validation datasets.
 - **trainData.labels**
 - **overfitting**
-- **supervised machine learning**
+- **supervised machine learning** - In supervised learning, we train a model to learn the relationship between input data and output data. We need to have labeled data to be able to do supervised learning.
+- **unsupervised learning** - With unsupervised learning, we only have unlabeled data. The model learns a representation of the data. Unsupervised learning is frequently used to initialize the parameters of the model when we have a lot of unlabeled data and a small fraction of labeled data. We first train an unsupervised model and, after that, we use the weights of the model to train a supervised model.
 - **`await`**
 - **`model.evaluate`**
 - **`fit()`**
