@@ -22,8 +22,10 @@
 - **kernelInitializer**
 - **optimizer**
 - **`Model.compile()`**
-- **weight regularization**
-- **dropout layers**
+- **weight regularization** - is any technique that aims to improve the validation score, sometimes at the cost of reducing the training score.
+- **dropout layers** - is a technique applied to neural networks that randomly sets some of the neurons’ outputs to zero during training. This forces the network to learn better representations of the data by preventing complex interactions between the neurons: Each neuron needs to learn useful features.
+- **L1 regularization** - tries to minimize the absolute value of the parameters of the model. It produces sparse parameters.
+- **L2 regularization** - tries to minimize the square value of the parameters of the model. It produces parameters with small values.
 - **`'sgd'` vs `'adam'`**
 - **hyperparameter optimization**
 - **hyperparameter tuning**
