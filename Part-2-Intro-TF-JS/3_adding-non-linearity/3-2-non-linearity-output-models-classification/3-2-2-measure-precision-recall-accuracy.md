@@ -4,7 +4,7 @@
 
 ---
 
-### [**Figure 3.5** An example result from a round of training the model for phishing web page detection]()
+### [**Figure 3.5.** An example result from a round of training the model for phishing web page detection.](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-3/ch03fig05)
 
 ---
 
