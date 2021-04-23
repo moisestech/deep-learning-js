@@ -10,7 +10,7 @@
 - **dataset change & regularity**
 - **problems with lenient or strict thresholds**
 - **`Math.seedrandom()` function**
-- **dropout layers**
+- **dropout layers** - is a technique applied to neural networks that randomly sets some of the neurons’ outputs to zero during training. This forces the network to learn better representations of the data by preventing complex interactions between the neurons: Each neuron needs to learn useful features.
 - **loss or metric value assertions**
 - **`model.fit()`**
 - **output shapes**
