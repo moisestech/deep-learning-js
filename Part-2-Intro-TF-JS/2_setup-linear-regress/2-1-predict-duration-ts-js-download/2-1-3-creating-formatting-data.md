@@ -4,7 +4,7 @@
 
 ---
 
-### [**Figure 2.2** Measured download duration versus file size](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-2/ch02fig02)
+### [**Figure 2.2.** Measured download duration versus file size. If you are interested, at this point, in how to create plots like this, the code is listed in CodePen codepen.io/tfjs-book/pen/dgQVze.](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-2/ch02fig02)
 
 [Codepen](https://codepen.io/tfjs-book/pen/dgQVze)
 
@@ -12,24 +12,31 @@
 
 ## **Vocabulary**
 
-- **dataset** - `tf.data.Dataset` provides a chainable API of methods to perform these sorts of operations.
+- **dataset**
+  - `tf.data.Dataset` provides a chainable API of methods to perform these sorts of operations.
   - Each of these methods returns a new `Dataset` object.
-- **target** - Target is the "correct" or desired value for the response associate to one input.
+- **target**
+  - Target is the "correct" or desired value for the response associate to one input.
   - Usually, this value will be compared with the output (the response of the neural network) to guide the learning process involving the weight changes.
-- **training** - Training a Neural Network means finding the appropriate Weights of the Neural Connections thanks to a feedback loop called Gradient Backward propagation.
+- **training**
+  - Training a Neural Network means finding the appropriate Weights of the Neural Connections thanks to a feedback loop called Gradient Backward propagation.
   - Fitting a neural network involves using a training dataset to update the model weights to create a good mapping of inputs to outputs. Training a neural network involves using an optimization algorithm to find a set of weights to best map inputs to outputs.
-- **algorithm** - Supervised machine learning builds a model that makes predictions based on evidence in the presence of uncertainty.
+- **algorithm**
+  - Supervised machine learning builds a model that makes predictions based on evidence in the presence of uncertainty.
   - A supervised learning algorithm takes a known set of input data and known responses to the data (output) and trains a model to generate reasonable predictions for the response to new data.
-- **input features** - A feature is one column of the data in your input set. For instance, if you're trying to predict the type of pet someone will choose, your input features might include age, home region, family income, etc.
+- **input features**
+  - A feature is one column of the data in your input set. For instance, if you're trying to predict the type of pet someone will choose, your input features might include age, home region, family income, etc.
   - The label is the final choice, such as dog, fish, iguana, rock, etc.
-- **testing** - The neural network train-validate-test process is a technique used to reduce model overfitting.
+- **testing**
+  - The neural network train-validate-test process is a technique used to reduce model overfitting.
   - The technique is also called early stopping.
   - The available data, which has known input and output values, is split into a training set (typically 80 percent of the data) and a test set (the remaining 20 percent).
-- **images** -
-- **vectors** -
-- **matrix** -
-- **axis** -
-- **project** -
+- **images**
+- **vectors**
+- **matrix**
+- **axis**
+- **project**
+- **early stopping** - will stop training when the validation score stops improving, even when the training score may be improving. This prevents overfitting on the training dataset.
 
 ---
 

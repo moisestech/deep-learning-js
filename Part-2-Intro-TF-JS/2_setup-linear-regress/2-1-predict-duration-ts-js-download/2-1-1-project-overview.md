@@ -10,15 +10,19 @@
 
 ## **Vocabulary**
 
-- **training data** - The training data is an initial set of data used to help a program understand how to apply technologies like neural networks to learn and produce sophisticated results.
+- **training data**
+  - The training data is an initial set of data used to help a program understand how to apply technologies like neural networks to learn and produce sophisticated results.
   - Training data is also known as a training set, training dataset or learning set.
   - In a dataset, a training set is implemented to build up a model, while a test (or validation) set is to validate the model built.
   - Data points in the training set are excluded from the test (validation) set.
-- **machine learning** - Neural networks are a class of machine learning algorithms used to model complex patterns in datasets using multiple hidden layers and non-linear activation functions.
+- **machine learning**
+  - Neural networks are a class of machine learning algorithms used to model complex patterns in datasets using multiple hidden layers and non-linear activation functions.
   - Each neuron's coefficients (weights) are then adjusted relative to how much they contributed to the total error.
-- **trainable function** - In recent years there has been a renovated interest of the scientific community in investigating activation functions which can be trained during the learning process, usually referred to as "trainable", "learnable" or "adaptable" activation functions.
+- **trainable function**
+  - In recent years there has been a renovated interest of the scientific community in investigating activation functions which can be trained during the learning process, usually referred to as "trainable", "learnable" or "adaptable" activation functions.
   - They appear to lead to better network performance.
-- **accuracy** - Accuracy is one metric for evaluating classification models.
+- **accuracy**
+  - Accuracy is one metric for evaluating classification models.
   - Informally, accuracy is the fraction of predictions our model got right.
   - Formally, accuracy has the following definition: Accuracy = Number of correct predictions Total number of predictions.
 

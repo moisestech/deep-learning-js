@@ -6,7 +6,8 @@
 
 ## **Vocabulary**
 
-- **web browser** - it is often desirable or imperative that the "somewhere" is a web frontend.
+- **web browser**
+  - it is often desirable or imperative that the "somewhere" is a web frontend.
 
 ---
 

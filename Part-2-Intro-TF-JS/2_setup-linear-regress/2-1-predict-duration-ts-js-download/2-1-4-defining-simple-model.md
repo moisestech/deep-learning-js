@@ -4,32 +4,37 @@
 
 ---
 
-### [**Figure 2.3** An illustration of our simple linear-regression model](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-2/ch02fig03)
+### [**Figure 2.3.** An illustration of our simple linear-regression model. The model has exactly one layer. The model’s tunable parameters (or weights), the kernel and bias, are shown within the dense layer.](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-2/ch02fig03)
 
 ---
 
 ## **Vocabulary**
 
-- **simple model** - A linear regression model with one layer. For example a dense layers with tunable weights on the kernel and bias.
-- **deep learning** - Deep learning (also known as deep structured learning) is part of a broader family of machine learning methods based on artificial neural networks with representation learning.
+- **simple model**
+  - A linear regression model with one layer. For example a dense layers with tunable weights on the kernel and bias.
+- **deep learning**
+  - Deep learning (also known as deep structured learning) is part of a broader family of machine learning methods based on artificial neural networks with representation learning.
   - Learning can be supervised, semi-supervised or unsupervised.
-- **model** - is represented by its architecture that shows how to transform two or more inputs into an output.
+- **model**
+  - is represented by its architecture that shows how to transform two or more inputs into an output.
   - The transformation is given in the form of a learning algorithm.
-- **regression** - Regression ANNs predict an output variable as a function of the inputs.
+- **regression**
+  - Regression ANNs predict an output variable as a function of the inputs.
   - If the output variable is a categorical variable (or binary) the ANN will function as a classifier.
-- **classification** - Classification neural networks used for feature categorization are very similar to fault-diagnosis networks, except that they only allow one output response for any input pattern, instead of allowing multiple faults to occur for a given set of operating conditions.
-- **tunable** -
-- **building blocks** -
-- **layer** -
-- **dense layer** -
-- **kernel** -
-- **bias** -
-- **training process** -
-- **weights** -
-- **loss function** -
-- **learning** -
-- **optimizer** -
-- **stochastic gradient descent** -
+- **classification**
+  - Classification neural networks used for feature categorization are very similar to fault-diagnosis networks, except that they only allow one output response for any input pattern, instead of allowing multiple faults to occur for a given set of operating conditions.
+- **tunable**
+- **building blocks**
+- **layer**
+- **dense layer**
+- **kernel**
+- **bias**
+- **training process**
+- **weights**
+- **loss function**
+- **learning**
+- **optimizer**
+- **stochastic gradient descent**
 
 ---
 
