@@ -4,7 +4,7 @@
 
 ---
 
-### [**Figure 1.7** Tensors "flow through a number of layers, a common scenario in TensorFlow](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-1/ch01fig07)
+### [**Figure 1.7.** Tensors “flow” through a number of layers, a common scenario in TensorFlow and TensorFlow.js.](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-1/ch01fig07)
 
 ### [**Figure 1.8** The architecture of TensorFlow.js at a glance. Its relationship to TensorFlow and Keras is also shown](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-1/ch01fig08)
 
@@ -16,23 +16,27 @@
 
 ## **Vocabulary**
 
-- **TensorFlow, Keras** - The LEGO equivalent is the high-level API called Keras.
+- <span style="color: #0095ff">**TensorFlow, Keras**</span>
+  - The LEGO equivalent is the high-level API called Keras.
   - Keras provides a set of the most **frequently used types of neural network layers**, each with **configurable parameters**.
-- **tensors** - A tensor is a generalization of vectors and matrices to potentially higher dimensions.
+- **tensors**
+  - A tensor is a generalization of vectors and matrices to potentially higher dimensions.
   - Internally, TensorFlow represents tensors as n-dimensional arrays of base datatypes.
   - When writing a TensorFlow program, the main object you manipulate and pass around is the tf$Tensor.
-- **graph** - Graph Neural Network is a type of Neural Network which directly operates on the Graph structure.
+- **graph**
+  - Graph Neural Network is a type of Neural Network which directly operates on the Graph structure.
   - A typical application of GNN is node classification.
   - Essentially, every node in the graph is associated with a label, and we want to predict the label of the nodes without ground-truth .
-- **sequence tasks** - Neural Networks sequentially build high-level features through their successive layers.
+- **sequence tasks**
+  - Neural Networks sequentially build high-level features through their successive layers.
   - We propose here a new neural network model where each layer is associated with a set of candidate mappings.
-- **pooling** -
-- **possibilities** -
-- **introduction** -
-- **loss functions** -
-- **optimizers** -
-- **interaction** -
-- **TensorFlow Developer Summit** -
+- **pooling**
+- **possibilities**
+- **introduction**
+- **loss functions**
+- **optimizers**
+- **interaction**
+- **TensorFlow Developer Summit**
 
 ---
 
