@@ -6,10 +6,12 @@
 
 ## **Vocabulary**
 
-- **trained model** - Models trained on a high amount of data can **generalize themselves better**.
+- <span style="color: #0095ff">**trained model**</span>
+  - Models trained on a high amount of data can **generalize themselves better**.
   - Generalization is the ability of a model to give **generalized predictions across varied or diverse dat**a.
   - **It is not biased towards the data** on which it was originally trained.
-- **TensorFlow.js model** - In machine learning, a model is a function with learnable parameters that maps an input to an output.
+- **TensorFlow.js model**
+  - In machine learning, a model is a function with learnable parameters that maps an input to an output.
   - The optimal parameters are obtained by training the model on data.
   - A well-trained model will provide an accurate mapping from the input to the desired output. In TensorFlow.
 
