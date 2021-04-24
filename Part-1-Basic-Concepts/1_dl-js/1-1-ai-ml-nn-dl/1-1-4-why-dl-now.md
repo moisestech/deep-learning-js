@@ -6,19 +6,29 @@
 
 ## **Vocabulary**
 
-- **basic ideas** - Neural networks already existed as **early as the 1980s**, and 3 key technical forces in 30 years drove the **2012 AI revolution** that we are experiencing today.
-- **benchmarks** - Catalyst for the rise of deep learning is the ImageNet dataset, which consists of 1.4 million images that have been hand annotated with 1,000 image categories.
-  - Through Kaggle having common benchmarks that researchers compete to beat has greatly helped the recent rise of deep learning.
-- **theory** - Deep learning is an engineering science guided by experimental findings rather than by theory.
-- **NVIDIA and AMD** - invested billions of dollars in developing fast, massively parallel chips (GPUs) to power the graphics of increasingly photorealistic video games.
+- **basic ideas**
+  - Neural networks already existed as **early as the 1980s**, and 3 key technical forces in 30 years drove the **2012 AI revolution** that we are experiencing today.
+- **benchmarks**
+  - Catalyst for the rise of deep learning is the ImageNet dataset, which consists of 1.4 million images that have been hand annotated with 1,000 image categories.
+  - Through Kaggle having **common benchmarks that researchers compete to beat** has greatly helped the recent rise of deep learning.
+- **theory**
+  - Deep learning is an engineering science guided by experimental findings rather than by theory.
+- **NVIDIA and AMD**
+  - invested billions of dollars in developing fast, massively parallel chips (GPUs) to power the graphics of increasingly photorealistic video games.
   - Deep neural networks, consisting mostly of many matrix multiplications and additions, are also highly parallelizable.
-- **activation functions** - An activation function is a function used in artificial neural networks which outputs a small value for small inputs, and a larger value if its inputs exceed a threshold.
-  - Two commonly used activation functions: the rectified linear unit (ReLU) and the logistic sigmoid function.
-- **weight-initialization schemes** - The aim of weight initialization is to prevent layer activation outputs from exploding or vanishing during the course of a forward pass through a deep neural network.
-- **optimization schemes** - Optimizers are algorithms or methods used to change the attributes of your neural network such as weights and learning rate in order to reduce the losses.
+- **activation functions**
+  - An activation function is a function used in artificial neural networks which outputs a small value for small inputs, and a larger value if its inputs exceed a threshold.
+  - Two commonly used activation functions:
+    - **rectified linear unit (ReLU)**
+    - **logistic sigmoid function**
+    - **softmax**
+- **weight-initialization schemes**
+  - The aim of weight initialization is to prevent layer activation outputs from exploding or vanishing during the course of a forward pass through a deep neural network.
+- **optimization schemes**
+  - Optimizers are algorithms or methods used to change the attributes of your neural network such as weights and learning rate in order to reduce the losses.
   - Optimization algorithms or strategies are responsible for reducing the losses and to provide the most accurate results possible.
-- **RMSProp** -
-- **training models** -
+- **RMSProp**
+- **training models**
 
 ## **Blog**
 
