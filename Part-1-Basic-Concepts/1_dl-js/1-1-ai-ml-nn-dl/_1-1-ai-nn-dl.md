@@ -1,6 +1,6 @@
 # 🌱 AI ML NN DL
 
-## 1.1. Artificial intelligence, machine learning, neural networks, and deep learning
+## **1.1.** Artificial intelligence, machine learning, neural networks, and deep learning
 
 ---
 
