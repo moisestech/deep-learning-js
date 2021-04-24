@@ -32,3 +32,5 @@ nn
 Plotly
 chainable
 parallelizable
+tfvis
+tfjs
