@@ -6,6 +6,8 @@
 
 ### [**Figure 2.3.** An illustration of our simple linear-regression model. The model has exactly one layer. The model’s tunable parameters (or weights), the kernel and bias, are shown within the dense layer.](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-2/ch02fig03)
 
+<img src="../../../assets/figures/Figure_2-3.png"/>
+
 ---
 
 ## **Vocabulary**
