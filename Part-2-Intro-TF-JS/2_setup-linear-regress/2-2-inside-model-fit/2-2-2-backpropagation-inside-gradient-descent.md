@@ -6,7 +6,11 @@
 
 ### [**Figure 2.9** Illustrating the backpropagation algorithm through a simple linear model with only one updatable weight](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-2/ch02fig09)
 
+<img src="../../../assets/figures/Figure_2-9.png"/>
+
 ### [**Figure 2.10** Schematic drawing showing backpropagation from loss to two updatable weights (k and b)](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-2/ch02fig10)
+
+<img src="../../../assets/figures/Figure_2-10.png"/>
 
 ---
 
