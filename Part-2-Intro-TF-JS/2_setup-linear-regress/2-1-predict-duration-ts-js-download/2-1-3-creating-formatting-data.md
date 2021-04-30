@@ -6,6 +6,8 @@
 
 ### [**Figure 2.2.** Measured download duration versus file size. If you are interested, at this point, in how to create plots like this, the code is listed in CodePen codepen.io/tfjs-book/pen/dgQVze.](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-2/ch02fig02)
 
+<img src="../../../assets/figures/Figure_2-2.png"/>
+
 [Codepen](https://codepen.io/tfjs-book/pen/dgQVze)
 
 ---
