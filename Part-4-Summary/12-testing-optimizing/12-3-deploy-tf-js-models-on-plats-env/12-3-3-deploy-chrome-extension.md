@@ -6,7 +6,11 @@
 
 ## [**Figure 12.4.** Loading the TensorFlow.js MobileNet Chrome extension in developer mode](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-12/ch12fig04)
 
+<img src="">
+
 ## [**Figure 12.5.** The TensorFlow.js MobileNet Chrome extension helps classify images in a web page.](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-12/ch12fig05)
+
+<img src="">
 
 ---
 
