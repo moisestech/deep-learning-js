@@ -6,6 +6,8 @@
 
 ### [**Figure 9.11.** Deep dive into the attention-based encoder-decoder model.](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-9/ch09fig11)
 
+<img src="">
+
 ---
 
 ## **Vocabulary**
