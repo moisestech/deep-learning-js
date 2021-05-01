@@ -6,11 +6,19 @@
 
 ### [**Figure 9.2.** The “unrolled” (panel A) and “rolled” (panel B) representations of the internal structure of simpleRNN.](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-9/ch09fig02)
 
+<img src="">
+
 ### [**Figure 9.3.** MAE loss curves from the simpleRNN model built for the Jena-temperature-prediction problem.](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-9/ch09fig03)
+
+<img src="">
 
 ### [**Figure 9.4.** A rolled representation of the GRU cell, a more complex and powerful RNN layer type than simpleRNN.](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-9/ch09fig04)
 
+<img src="">
+
 ### [**Figure 9.5.** The loss curves from training a GRU model on the temperature-prediction problem.](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-9/ch09fig05)
+
+<img src="">
 
 ---
 
