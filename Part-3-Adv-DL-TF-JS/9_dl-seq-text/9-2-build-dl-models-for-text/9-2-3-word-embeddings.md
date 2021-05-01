@@ -6,7 +6,11 @@
 
 ### [**Figure 9.7.** A schematic illustration of how an embedding matrix works.](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-9/ch09fig07)
 
+<img src="">
+
 ### [**Figure 9.8.** Schematic illustration of how 1D convolution (tf.layers.conv1d()) works.](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-9/ch09fig08)
+
+<img src="">
 
 ---
 
