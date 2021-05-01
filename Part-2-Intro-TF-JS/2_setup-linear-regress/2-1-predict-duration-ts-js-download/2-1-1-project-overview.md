@@ -6,6 +6,8 @@
 
 ### [**Figure 2.1** Overview of the major steps involved in the download-time prediction system, our first example](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-2/ch02fig01)
 
+<img src="../../../assets/figures/Figure_2-1.png"/>
+
 ---
 
 ## **Vocabulary**
