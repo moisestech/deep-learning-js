@@ -6,6 +6,8 @@
 
 ## [**Figure 12.6.** A screenshot from a sample native Android app built with React Native. Here, we are running a TensorFlow.js MobileNet model within the native app.](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-12/ch12fig06)
 
+<img src="">
+
 ---
 
 from [[_12-3-deploy-tf-js-models-on-plats-env]]
