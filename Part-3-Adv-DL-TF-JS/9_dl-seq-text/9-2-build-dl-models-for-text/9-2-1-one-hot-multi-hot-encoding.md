@@ -6,6 +6,8 @@
 
 ### [**Figure 9.6.** One-hot encoding (vectorization) of a word (panel A) and of a sentence as a sequence of words (panel B).](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-9/ch09fig06)
 
+<img src="">
+
 ---
 
 ## **Vocabulary**
