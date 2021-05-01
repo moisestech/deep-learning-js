@@ -6,6 +6,8 @@
 
 ### [**Figure 1.5** The schematic diagram of a neural network, organized in layers](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-1/ch01fig05)
 
+<img src="../../../assets/figures/Figure_1-5.png"/>
+
 ---
 
 ## **Vocabulary**
@@ -44,6 +46,10 @@
 - **feature engineering**
 - **shallow learning**
 - **deep-learning model**
+
+## **Blogs**
+
+- [**Yes you should understand backprop**](https://karpathy.medium.com/yes-you-should-understand-backprop-e2f06eab496b#.vt3ax2kg9)
 
 ---
 
