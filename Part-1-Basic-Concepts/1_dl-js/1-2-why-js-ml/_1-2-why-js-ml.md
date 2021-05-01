@@ -6,6 +6,8 @@
 
 ### [**Figure 1.6.** A screenshot of TensorFlow Playground](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-1/ch01fig06)
 
+<img src="../../../assets/figures/Figure_1-6.png"/>
+
 ---
 
 ## **Vocabulary**
