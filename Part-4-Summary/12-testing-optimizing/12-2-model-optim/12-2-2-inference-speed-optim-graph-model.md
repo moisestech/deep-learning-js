@@ -6,6 +6,8 @@
 
 ## [**Figure 12.3.** Schematic illustration of the internal operations in a dense layer, with (panel A) and without (panel B) op fusion](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-12/ch12fig03)
 
+<img src="">
+
 ---
 
 ## **Vocabulary**
