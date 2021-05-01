@@ -6,7 +6,11 @@
 
 ## [**Figure 12.7.** A screenshot from the example Electron.js-based desktop application that utilizes a TensorFlow.js model, from tfjs-examples/electron](https://livebook.manning.com/book/deep-learning-with-javascript/list-of-figures/1)
 
+<img src="">
+
 ## [**Figure 12.8.** The architecture of an Electron.js-based desktop application that utilizes TensorFlow.js for accelerated deep learning.](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-12/ch12fig08)
+
+<img src="">
 
 ---
 
