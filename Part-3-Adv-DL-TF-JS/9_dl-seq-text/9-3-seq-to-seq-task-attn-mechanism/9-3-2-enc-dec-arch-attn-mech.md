@@ -6,6 +6,8 @@
 
 ### [**Figure 9.10.** How the encoder-decoder architecture converts an input date string into an output one.](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-9/ch09fig10)
 
+<img src="">
+
 ---
 
 ## **Vocabulary**
