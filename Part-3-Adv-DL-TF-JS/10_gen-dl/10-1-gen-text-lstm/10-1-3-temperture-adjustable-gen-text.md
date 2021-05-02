@@ -6,6 +6,8 @@
 
 ### [**Figure 10.3.** The probability scores after scaling by different values of temperature (T).](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-10/ch10fig03)
 
+<img src="">
+
 ---
 
 ## **Vocabulary**
