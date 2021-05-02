@@ -6,6 +6,8 @@
 
 ## [**Figure 8.4.** The loss curves from applying two different MLP models on the temperature-prediction problem.](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-8/ch08fig04)
 
+<img src="">
+
 ---
 
 ## **Vocabulary**
