@@ -6,13 +6,23 @@
 
 ### [**Figure 7.1.** Line charts created using tfvis.render.linechart().](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-7/ch07fig01)
 
+<img src="">
+
 ### [Figure 7.2. A scatter plot that contains two series, made with the code in listing 7.3.](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-7/ch07fig02)
+
+<img src="">
 
 ### [**Figure 7.3.** A bar chart consisting of both string- and numeric-named bars, made with the code in listing 7.4](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-7/ch07fig03)
 
+<img src="">
+
 ### [**Figure 7.4.** Histograms of the same data, plotted with the automatically](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-7/ch07fig04)
 
+<img src="">
+
 ### [**Figure 7.5.** The heatmap rendered by the code in listing 7.6.](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-7/ch07fig05)
+
+<img src="">
 
 ---
 
