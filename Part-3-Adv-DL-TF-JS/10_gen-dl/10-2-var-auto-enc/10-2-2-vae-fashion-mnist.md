@@ -6,7 +6,11 @@
 
 ### [**Figure 10.7.** Schematic illustration of the TensorFlow.js implementation of VAE, including the internal details of the encoder and decoder parts and the custom loss function and optimizer that support VAE training.](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-10/ch10fig07)
 
+<img src="">
+
 ### [**Figure 10.8.** Sampling the latent space of the VAE after training.](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-10/ch10fig08)
+
+<img src="">
 
 ---
 
