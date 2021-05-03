@@ -49,6 +49,10 @@
 - **hyperparameters**
 - **embedding**
 
+## Notes
+
+- [Udacity Deep Learning - PyTorch Github](https://github.com/udacity/deep-learning-v2-pytorch)
+
 ---
 
 from [[_1_dl-js]]
