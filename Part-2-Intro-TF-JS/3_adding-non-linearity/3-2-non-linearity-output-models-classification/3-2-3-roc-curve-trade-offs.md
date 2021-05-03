@@ -6,6 +6,8 @@
 
 ### [**Figure 3.6.** A set of sample ROCs plotted during the training of the phishing-detection model.](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-3/ch03fig06)
 
+<img src="">
+
 ### [**Table 3.3** Commonly seen metrics for a binary-classification problem]()
 
 ---
