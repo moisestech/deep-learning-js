@@ -6,6 +6,8 @@
 
 ### [**Figure 2.12.** The TensorFlow.js API documentation at js.tensorflow.org allows you to explore and interact with the TensorFlow API](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-2/ch02fig12)
 
+<img src="../../../assets/figures/Figure_2-12.png">
+
 ---
 
 ## **Vocabulary**
