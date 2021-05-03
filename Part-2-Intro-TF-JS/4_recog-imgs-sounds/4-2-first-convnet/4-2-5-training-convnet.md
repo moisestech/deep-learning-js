@@ -6,6 +6,8 @@
 
 ### [**Figure 4.9.** Same as figure 4.8, but for a non-convolutional model for the MNIST problem](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-4/ch04fig09)
 
+<img src="">
+
 ---
 
 ## **Vocabulary**
