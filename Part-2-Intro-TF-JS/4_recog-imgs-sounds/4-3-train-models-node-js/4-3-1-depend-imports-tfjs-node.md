@@ -6,6 +6,8 @@
 
 ### [Figure 4.11. An example of how a dropout layer works.](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-4/ch04fig11)
 
+<img src="">
+
 ---
 
 ## **Vocabulary**
