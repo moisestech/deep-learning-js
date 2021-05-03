@@ -6,7 +6,11 @@
 
 ### [**Figure 3.9.** A typical result from training the iris model for 40 epochs.](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-3/ch03fig09)
 
+<img src="">
+
 ### [**Figure 3.10.** An example of an “imperfect” confusion matrix, in which there are nonzero elements off the diagonal.](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-3/ch03fig10)
+
+<img src="">
 
 ---
 
