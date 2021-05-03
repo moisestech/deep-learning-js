@@ -6,6 +6,8 @@
 
 ### [Figure 4.10. A few examples of predictions made by the model after training, shown alongside the input MNIST images](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-4/ch04fig10)
 
+<img src="">
+
 ---
 
 ## **Vocabulary**
