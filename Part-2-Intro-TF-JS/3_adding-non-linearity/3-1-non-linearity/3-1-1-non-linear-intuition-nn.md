@@ -6,11 +6,19 @@
 
 ### [**Figure 3.1.** The linear-regression model (panel A) and two-layer neural network (panel B) created for the Boston-housing dataset.](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-3/ch03fig01)
 
+<img src="../../../assets/figures/Figure_3-1.png">
+
 ### [**Figure 3.2.** Two frequently used nonlinear activation functions for deep neural networks.](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-3/ch03fig02)
+
+<img src="../../../assets/figures/Figure_3-2.png">
 
 ### [**Figure 3.3.** Cascading linear functions (top) and nonlinear functions (bottom).](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-3/ch03fig04)
 
+<img src="../../../assets/figures/Figure_3-3.png">
+
 ### [**Figure 3.4.** Comparing the training results with (panel A) and without (panel B) the sigmoid activation.](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-3/ch03fig04)
+
+<img src="../../../assets/figures/Figure_3-4.png">
 
 ---
 
