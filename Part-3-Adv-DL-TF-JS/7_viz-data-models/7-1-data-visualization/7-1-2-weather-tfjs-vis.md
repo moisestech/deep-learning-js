@@ -6,11 +6,11 @@
 
 ### [**Figure 7.6.** Line charts of temperature (T (degC)) and air pressure (p (mbar)) from the Jena-weather-archive dataset, plotted at two different time scales.](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-7/ch07fig06)
 
-<img src="">
+<img src="../../../assets/figures/Figure_7-6.png">
 
 ### [**Figure 7.7.** An example scatter plot from the Jena-weather demo.](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-7/ch07fig07)
 
-<img src="">
+<img src="../../../assets/figures/Figure_7-7.png">
 
 ---
 
