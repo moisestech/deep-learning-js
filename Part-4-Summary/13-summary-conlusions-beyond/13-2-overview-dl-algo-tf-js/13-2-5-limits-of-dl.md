@@ -6,15 +6,15 @@
 
 ### [**Figure 13.2.** Failure of an image-captioning model trained with deep learning](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-13/ch13fig02)
 
-<img src="">
+<img src="../../../assets/figures/Figure_13-2.png">
 
 ### [**Figure 13.3.** Adversarial example: changes imperceptible to human eyes can throw off a deep convnet’s classification result.](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-13/ch13fig03)
 
-<img src="">
+<img src="../../../assets/figures/Figure_13-3.png">
 
 ### [**Figure 13.4.** Local generalization in deep-learning models vs. extreme generalization in human intelligence](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-13/ch13fig04)
 
-<img src="">
+<img src="../../../assets/figures/Figure_13-4.png">
 
 ---
 
