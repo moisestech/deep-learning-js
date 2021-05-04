@@ -6,7 +6,7 @@
 
 ## [**Figure 8.1.** Schematic diagram showing how a single training example is generated from the tabular data.](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-8/ch08fig01)
 
-<img src="">
+<img src="../../../assets/figures/Figure_8-1.png">
 
 ---
 
