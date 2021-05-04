@@ -6,11 +6,11 @@
 
 ### [**Figure 11.11.** How the snake game’s board state is represented as a 3D tensor of shape [9, 9, 2]](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-11/ch11fig11)
 
-<img src="">
+<img src="../../../assets/figures/Figure_11-11.png">
 
 ### [**Figure 11.12.** A schematic illustration of the DQN that we use as an approximation to the function Q(s, a) for the snake problem. In the “Online DQN” box, “BN” stands for BatchNormalization.](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-11/ch11fig12)
 
-<img src="">
+<img src="../../../assets/figures/Figure_11-12.png">
 
 ---
 
