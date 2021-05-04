@@ -6,7 +6,7 @@
 
 ### [**Figure 9.9.** The attention-based encoder-decoder for date conversion at work, with the attention matrix for the particular input-output pair displayed at the bottom-right](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-9/ch09fig09)
 
-<img src="">
+<img src="../../../assets/figures/Figure_9-9b.png">
 
 ---
 
