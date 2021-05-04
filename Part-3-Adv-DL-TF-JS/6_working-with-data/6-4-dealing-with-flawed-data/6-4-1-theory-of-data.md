@@ -6,11 +6,11 @@
 
 ### [**Figure 6.3.** Plots of four dataset features vs. the sample index.](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-6/ch06fig03)
 
-<img src="">
+<img src="../../../assets/figures/Figure_6-3.png">
 
 ### [**Figure 6.4.** Four plots of longitude vs. the sample index for four shuffled datasets.](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-6/ch06fig04)
 
-<img src="">
+<img src="../../../assets/figures/Figure_6-4.png">
 
 ---
 
