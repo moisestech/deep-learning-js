@@ -12,7 +12,7 @@
 
 ### [**Figure 12.1.** The coverage of a production-ready machine-learning system by testing and monitoring.](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-12/ch12fig01)
 
-<img src="">
+<img src="../../../assets/figures/Figure_12-1.png">
 
 ---
 
