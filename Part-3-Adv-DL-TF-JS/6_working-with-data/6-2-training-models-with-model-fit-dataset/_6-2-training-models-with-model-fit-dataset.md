@@ -6,11 +6,11 @@
 
 ### [**Figure 6.1.** The UI of the data-generator example.](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-6/ch06fig01)
 
-<img src="">
+<img src="../../../assets/figures/Figure_6-1.png">
 
 ### [**Figure 6.2.** Web UI for our tfjs-data CSV example.](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-6/ch06fig02)
 
-<img src="">
+<img src="../../../assets/figures/Figure_6-2.png">
 
 ---
 
