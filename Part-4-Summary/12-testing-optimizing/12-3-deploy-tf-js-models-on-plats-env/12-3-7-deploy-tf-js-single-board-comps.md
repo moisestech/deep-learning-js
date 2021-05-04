@@ -6,7 +6,7 @@
 
 ## [**Figure 12.9.** TensorFLow.js executing MobileNet using headless WebGL on a Raspberry Pi 4](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-12/ch12fig09)
 
-<img src="">
+<img src="../../../assets/figures/Figure_12-9.png">
 
 ---
 
