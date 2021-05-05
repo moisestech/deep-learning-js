@@ -6,15 +6,15 @@
 
 ### [**Figure 10.4.** The architecture of a classical autoencoder](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-10/ch10fig04)
 
-<img src="">
+<img src="../../../assets/figures/Figure_10-4.png">
 
 ### [**Figure 10.5.** The “smile dimension.” An example of desired structure in latent spaces learned by autoencoders.](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-10/ch10fig05)
 
-<img src="">
+<img src="../../../assets/figures/Figure_10-5.png">
 
 ### [**Figure 10.6.** Comparing how a classical autoencoder (panel A) and a VAE (panel B) work.](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-10/ch10fig06)
 
-<img src="">
+<img src="../../../assets/figures/Figure_10-6.png">
 
 ---
 
