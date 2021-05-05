@@ -6,7 +6,7 @@
 
 ### [**Figure 5.1.** The general workflow of transfer learning. A large dataset goes into the training of the base model.](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-5/ch05fig01)
 
-<img src="">
+<img src="../../../assets/figures/Figure_5-1.png">
 
 ---
 
