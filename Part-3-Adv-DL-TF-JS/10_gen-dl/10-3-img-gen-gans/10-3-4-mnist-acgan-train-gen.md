@@ -6,11 +6,11 @@
 
 ### [**Figure 10.15.** Sample loss curves from the ACGAN training job. dLoss is the loss from the discriminator training step.](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-10/ch10fig15)
 
-<img src="">
+<img src="../../../assets/figures/Figure_10-15.png">
 
 ### [**Figure 10.16.** Sample generated images (the 10 x 1 top panel) from the generator part of a trained ACGAN.](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-10/ch10fig16)
 
-<img src="">
+<img src="../../../assets/figures/Figure_10-16.png">
 
 ---
 
