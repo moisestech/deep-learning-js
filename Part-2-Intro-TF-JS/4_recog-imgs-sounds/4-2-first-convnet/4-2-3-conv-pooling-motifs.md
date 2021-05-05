@@ -6,7 +6,7 @@
 
 ### [**Figure 4.6.** Hierarchical extraction of features from an input image by a convnet](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-4/ch04fig06)
 
-<img src="">
+<img src="../../../assets/figures/Figure_4-6.png">
 
 ---
 
