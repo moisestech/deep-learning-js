@@ -6,23 +6,23 @@
 
 ### [**Figure 11.4.** How the policy network fits into our solution to the cart-pole problem.](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-11/ch11fig04)
 
-<img src="">
+<img src="../../../assets/figures/Figure_11-4.png">
 
 ### [**Figure 11.5.** Panel A: applying reward discounting (equation 11.1) on rewards from an episode with four steps.](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-11/ch11fig05)
 
-<img src="">
+<img src="../../../assets/figures/Figure_11-5.png">
 
 ### [Figure 11.6. Normalizing the discounted rewards from the two episodes with lengths 4 (panel A) and 20 (panel B).](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-11/ch11fig06)
 
-<img src="">
+<img src="../../../assets/figures/Figure_11-6.png">
 
 ### [**Figure 11.7.** A curve showing the average number of steps the agent survives in the cart-pole episodes as a function of the number of training iterations.](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-11/ch11fig07)
 
-<img src="">
+<img src="../../../assets/figures/Figure_11-7.png">
 
 ### [**Figure 11.8.** A schematic diagram illustrating the REINFORCE algorithm-based solution to the cart-pole problem.](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-11/ch11fig08)
 
-<img src="">
+<img src="../../../assets/figures/Figure_11-8.png">
 
 ---
 
