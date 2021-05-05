@@ -6,7 +6,7 @@
 
 ### [**Figure 4.7.** How a flatten layer works. A 3D tensor input is assumed.](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-4/ch04fig07)
 
-<img src="">
+<img src="../../../assets/figures/Figure_4-7.png">
 
 ---
 
