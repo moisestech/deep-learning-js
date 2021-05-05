@@ -6,7 +6,7 @@
 
 ### [**Figure 11.2.** A schematic diagram of the basic formulation of RL problems.](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-11/ch11fig02)
 
-<img src="">
+<img src="../../../assets/figures/Figure_11-2.png">
 
 ---
 
