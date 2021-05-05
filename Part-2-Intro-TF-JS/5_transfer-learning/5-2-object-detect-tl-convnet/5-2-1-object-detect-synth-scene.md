@@ -6,7 +6,7 @@
 
 ### [**Figure 5.13.** An example of the synthesized scenes used by simple object detection.](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-5/ch05fig13)
 
-<img src="">
+<img src="../../../assets/figures/Figure_5-13.png">
 
 ---
 
