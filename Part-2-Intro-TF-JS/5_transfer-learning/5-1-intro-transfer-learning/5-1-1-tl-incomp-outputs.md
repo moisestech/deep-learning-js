@@ -6,15 +6,15 @@
 
 ### [**Figure 5.2.** A printed summary of the convnet for recognition of MNIST images and transfer learning](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-5/ch05fig02)
 
-<img src="">
+<img src="../../../assets/figures/Figure_5-2.png">
 
 ### [**Figure 5.3.** The loss and validation curves for transfer learning on the MNIST convnet.](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-5/ch05fig03)
 
-<img src="">
+<img src="../../../assets/figures/Figure_5-3.png">
 
 ### [**Figure 5.4.** A schematic explanation for why freezing some layers of a model speeds up training.](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-5/ch05fig04)
 
-<img src="">
+<img src="../../../assets/figures/Figure_5-4.png">
 
 ---
 
