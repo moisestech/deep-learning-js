@@ -6,6 +6,8 @@
 
 ### [Figure 4.12. Example spectrograms of the isolated spoken words “zero” and “yes.”](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-4/ch04fig12)
 
+<img src=""/>
+
 ---
 
 ## **Vocabulary**
