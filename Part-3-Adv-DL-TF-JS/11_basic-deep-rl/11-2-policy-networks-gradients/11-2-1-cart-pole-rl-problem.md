@@ -6,7 +6,7 @@
 
 ### [**Figure 11.3.** Visual rendering of the cart-pole problem.](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-11/ch11fig03)
 
-<img src="">
+<img src="../../../assets/figures/Figure_11-3.png">
 
 ---
 
