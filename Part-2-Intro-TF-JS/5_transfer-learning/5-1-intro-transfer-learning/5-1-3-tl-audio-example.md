@@ -6,19 +6,19 @@
 
 ### [**Figure 5.9.** An example screenshot of the transfer-learning feature of the speech-command example.](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-5/ch05fig09)
 
-<img src="">
+<img src="../../../assets/figures/Figure_5-9.png">
 
 ### [**Figure 5.10.** A schematic illustration of the way in which the new, end-to-end model is created for transfer learning.](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-5/ch05fig10)
 
-<img src="">
+<img src="../../../assets/figures/Figure_5-10.png">
 
 ### [**Figure 5.11.** Illustrating frozen and unfrozen (that is, trainable) layers during the initial (panel A) and fine-tuning (panel B) phases of the transfer learning](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-5/ch05fig11)
 
-<img src="">
+<img src="../../../assets/figures/Figure_5-11.png">
 
 ### [**Figure 5.12.** Panel A: example loss and accuracy curves from transfer learning and the subsequent fine-tuning (FT in the plot legends).](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-5/ch05fig12)
 
-<img src="">
+<img src="../../../assets/figures/Figure_5-12.png">
 
 ---
 
