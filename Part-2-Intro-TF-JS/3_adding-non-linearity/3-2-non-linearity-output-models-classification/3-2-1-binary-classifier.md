@@ -33,6 +33,10 @@
 - **TensorFlow.js**
 - **`rmsprop`**
 
+## Blogs
+
+- [Why Momentum Really Works, _Gabriel Goh_](https://distill.pub/2017/momentum/)
+
 ---
 
 form [[_3_adding-non-linearity]]
