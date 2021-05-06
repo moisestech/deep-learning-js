@@ -27,6 +27,8 @@
 - **Input space**
 - **Local Generalization**
 
+<link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
+
 ---
 
 from [[_13-2-overview-dl-algo-tf-js]]
