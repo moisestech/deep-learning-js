@@ -3,6 +3,10 @@
 
 @import "{{ site.theme }}";
 
+.vocab {
+  color: #0095ff;
+}
+
 .markdown-body {
   max-width: 800px;
   font-size: 16px;
