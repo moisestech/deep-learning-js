@@ -14,6 +14,8 @@
 - **chat bots**
 - **attention mechanism**
 
+<link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
+
 ---
 
 from [[_9_dl-seq-text]]
