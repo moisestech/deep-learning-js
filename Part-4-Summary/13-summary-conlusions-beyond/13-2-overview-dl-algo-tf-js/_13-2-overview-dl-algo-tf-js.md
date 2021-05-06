@@ -14,9 +14,11 @@
 
 ## **Vocabulary**
 
-- **considerations** -
-- **Tensorflow.js ecosystem** -
+- **considerations**
+- **Tensorflow.js ecosystem**
+
+<link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
 
 ---
-from [[_13-summary-conlusions-beyond]]
 
+from [[_13-summary-conlusions-beyond]]
