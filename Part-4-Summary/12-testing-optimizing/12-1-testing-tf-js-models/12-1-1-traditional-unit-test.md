@@ -20,6 +20,8 @@
 - **classification**
 - **random initialization**
 
+<link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
+
 ---
 
 from [[_12-1-testing-tf-models]]
