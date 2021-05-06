@@ -19,8 +19,10 @@
 
 ## **Vocabulary**
 
-- **limitations**
-- **Javascript ecosystem**
+- limitations
+- Javascript ecosystem
+
+<link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
 
 ---
 
