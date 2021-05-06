@@ -18,6 +18,8 @@
 - **Mapping image and vector to image**
 - **Mapping time-series data and vector to time-series data**
 
+<link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
+
 ---
 
 from [[_13-2-overview-dl-algo-tf-js]]
