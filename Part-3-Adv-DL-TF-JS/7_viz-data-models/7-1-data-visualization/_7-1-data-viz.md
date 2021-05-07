@@ -10,6 +10,8 @@
 - **browser**
 - **real dataset**
 
+<link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
+
 ---
 
 from [[_7_visualizing-data-models]]
