@@ -49,6 +49,8 @@
 - **heatmaps**
 - **confusion matrix**
 
+<link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
+
 ---
 
 from [[_7-1-data-viz]]
