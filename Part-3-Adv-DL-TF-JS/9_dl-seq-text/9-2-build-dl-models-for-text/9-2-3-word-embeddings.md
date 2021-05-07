@@ -12,6 +12,8 @@
 
 <img src="../../../assets/figures/Figure_9-8.png">
 
+<link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
+
 ---
 
 ## **Vocabulary**
