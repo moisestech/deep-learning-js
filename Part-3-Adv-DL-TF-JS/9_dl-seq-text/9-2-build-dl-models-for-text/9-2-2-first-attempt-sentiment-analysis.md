@@ -11,6 +11,8 @@
 - **`buildModel()`**
 - **word embeddings and 1D convnets**
 
+<link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
+
 ---
 
 from [[_9-2-build-deep-learn-models-for-text]]
