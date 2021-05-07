@@ -16,6 +16,8 @@
 - **trained model**
 - **heatmap**
 
+<link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
+
 ---
 
 from [[_9-3-seq-to-seq-task-attn-mechanism]]
