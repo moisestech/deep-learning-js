@@ -9,6 +9,8 @@
 - **value networks**
 - **snake game example**
 
+<link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
+
 ---
 
 from [[_11_basics-deep-rl]]
