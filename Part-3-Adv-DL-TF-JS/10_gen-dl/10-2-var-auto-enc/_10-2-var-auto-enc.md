@@ -10,6 +10,8 @@
 - **GAN**
 - **image generation**
 
+<link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
+
 ---
 
 from [[_10_gen-dl]]
