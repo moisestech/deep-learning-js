@@ -17,6 +17,8 @@
 - **conclusion**
 - **bellman equation**
 
+<link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
+
 ---
 
 from [[_11-3-val-net-q-learn]]
