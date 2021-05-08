@@ -14,6 +14,8 @@
 - **`csvConfig.columnConfigs`**
 - **`tf.data.csv()`**
 
+<link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
+
 ---
 
 from [[_6-3-common-patterns-for-accessing-data]]
