@@ -21,8 +21,6 @@
 
 ---
 
-from [[_part-2-intro-ts-js]]
-
 ## **Vocabulary**
 
 - **images**
@@ -31,4 +29,8 @@ from [[_part-2-intro-ts-js]]
 - **classification**
 - **labeled pictures**
 
+<link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
 
+---
+
+from [[_part-2-intro-ts-js]]
