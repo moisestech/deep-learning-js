@@ -26,6 +26,8 @@
 - **hyperparameters**
 - **temperature values**
 
+<link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
+
 ---
 
 from [[_10-1-gen-text-lstm]]
