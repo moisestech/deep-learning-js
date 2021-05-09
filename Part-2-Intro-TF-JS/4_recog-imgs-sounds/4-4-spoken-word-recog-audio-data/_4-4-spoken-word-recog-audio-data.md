@@ -9,6 +9,8 @@
 - **applying convnets**
 - **amazon echo, google home**
 
+<link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
+
 ---
 
 from [[_4_recog-imgs-sounds]]
