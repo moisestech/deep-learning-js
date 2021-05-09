@@ -37,6 +37,8 @@
 - **`balancedTrainValSplit`**
 - **training subset**
 
+<link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
+
 ---
 
 from [[_5-1-intro-tl]]
