@@ -62,6 +62,8 @@
   - **L1 regularization.** Because it produces sparse parameters, L1 helps to deal with high-dimensionality input.
   - **Feature engineering.** It’s possible to create new features that sum up multiple existing features. For example, we can get statistics such as the mean or median. It’s possible to create new features that sum up multiple existing features. For example, we can get statistics such as the mean or median.
 
+<link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
+
 ---
 
 from [[_4_recog-imgs-sounds]]
