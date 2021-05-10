@@ -27,10 +27,11 @@
 - **key** -
 - **activation function**
   - specified by activation: 'sigmoid' in the code), which is represented by the square boxes in panel B of figure 3.1.
-  - An activation function[1] is an element-by-element transform.
-  - The sigmoid function is a “squashing” nonlinearity, in the sense that it “squashes” all real values from –infinity to +infinity into a much smaller range (0 to +1, in this case).
+  - An activation function[1] **is an element-by-element transform**.
+- **sigmoid activation function**
+  - is a “squashing” nonlinearity, in the sense that it **“squashes” all real values from –infinity to +infinity into a much smaller range** (0 to +1, in this case).
 - [**2D Tensor**](https://js.tensorflow.org/api/0.6.1/#tensor2d)
-  - Creates a tf.Tensor with the provided values, shape and dtype.
+  - Creates a `tf.Tensor` with the **provided values, shape** and **dtype**.
 - **matrix**
 - **array**
 - **activation function**
@@ -53,6 +54,8 @@
 - **tensors**
 - **space**
 - **decision trees**
+
+<link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
 
 ---
 
