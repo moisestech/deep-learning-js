@@ -19,6 +19,8 @@
   - Callback class, and override a set of methods called at various stages of training, testing, and predicting.
   - Callbacks are useful to get a view on internal states and statistics of the model during training.
 
+<link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
+
 ---
 
 from [[_2_setup-linear-regress]]
