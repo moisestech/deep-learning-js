@@ -37,6 +37,8 @@
 - [Classification: True vs. False and Positive vs. Negative](https://developers.google.com/machine-learning/crash-course/classification/true-false-positive-negative)
 - [Machine Learning Metrics: The Confusion Matrix, Accuracy, Precision & Recall](https://www.youtube.com/watch?v=_y-peoToPj0)
 
+<link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
+
 ---
 
 [[_3_adding-non-linearity]]
