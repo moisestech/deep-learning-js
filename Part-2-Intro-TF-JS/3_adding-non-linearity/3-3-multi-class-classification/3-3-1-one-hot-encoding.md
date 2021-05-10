@@ -15,6 +15,8 @@
 - **1D Tensors**
 - **vector**
 
+<link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
+
 ---
 
 form [[_3_adding-non-linearity]]
