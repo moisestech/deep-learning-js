@@ -33,6 +33,8 @@
 - **multiple input features**
 - **basics**
 
+<link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
+
 ---
 
 from [[_2-2-inside-model-fit]]
