@@ -19,6 +19,8 @@
   - Graph Neural Networks (GNNs) are a class of deep learning methods designed to perform inference on data described by graphs.
   - GNNs are neural networks that can be directly applied to graphs, and provide an easy way to do node-level, edge-level, and graph-level prediction tasks.
 
+<link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
+
 ---
 
 from [[_2-3-linear-regress-multi-input-features]]
