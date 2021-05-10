@@ -48,6 +48,8 @@
 
 - [What do neural loss surfaces look like](https://www.youtube.com/watch?v=78vq6kgsTa8)
 
+<link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
+
 ---
 
 from [[_2-2-inside-model-fit]]
