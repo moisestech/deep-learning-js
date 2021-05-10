@@ -17,6 +17,8 @@
 - **duration**
   - measured download duration versus file size.
 
+<link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
+
 ---
 
 from [[_2_setup-linear-regress]]
