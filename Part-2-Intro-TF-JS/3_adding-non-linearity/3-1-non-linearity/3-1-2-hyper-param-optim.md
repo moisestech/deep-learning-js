@@ -38,6 +38,8 @@
 
 - [How to Measure Quality when Training Machine Learning Model](https://hackernoon.com/how-to-measure-quality-when-training-machine-learning-models-cc9196dd377a)
 
+<link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
+
 ---
 
 from [[_3_adding-non-linearity]]
