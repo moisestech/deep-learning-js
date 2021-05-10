@@ -11,6 +11,8 @@
 - **simple model**
 - **softmax function**
 
+<link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
+
 ---
 
 from [[_3_adding-non-linearity]]
