@@ -37,6 +37,8 @@
 
 - [Why Momentum Really Works, _Gabriel Goh_](https://distill.pub/2017/momentum/)
 
+<link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
+
 ---
 
 form [[_3_adding-non-linearity]]
