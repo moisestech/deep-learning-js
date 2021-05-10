@@ -16,6 +16,8 @@
   - However, detecting that anomalous instances might be very difficult, and is not always possible.
 - **dataSync**
 
+<link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
+
 ---
 
 from [[_2-3-linear-regress-multi-input-features]]
