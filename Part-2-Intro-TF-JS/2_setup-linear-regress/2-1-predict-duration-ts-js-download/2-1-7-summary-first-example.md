@@ -19,6 +19,8 @@
   - In statistics, a fit refers to how well you approximate a target function.
   - This is good terminology to use in machine learning, because supervised machine learning algorithms seek to approximate the unknown underlying mapping function for the output variables given the input variables.
 
+<link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
+
 ---
 
 from [[_2-1-predict-duration-download-ts-js]]
