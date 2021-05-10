@@ -29,6 +29,8 @@
 - **deep-learning**
 - **this book**
 
+<link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
+
 ---
 
 from [[_part-2-intro-tf-js]]
