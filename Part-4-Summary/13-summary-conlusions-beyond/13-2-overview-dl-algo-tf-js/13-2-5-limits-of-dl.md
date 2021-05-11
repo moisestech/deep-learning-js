@@ -20,12 +20,12 @@
 
 ## **Vocabulary**
 
-- **Anthropomorphization**
-- **Adversarial examples**
-- **Convnet Filters**
-- **Gradient Ascent**
-- **Input space**
-- **Local Generalization**
+- <b>Anthropomorphization</b>
+- <b>Adversarial examples</b>
+- <b>Convnet Filters</b>
+- <b>Gradient Ascent</b>
+- <b>Input space</b>
+- <b>Local Generalization</b>
 
 <link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
 
