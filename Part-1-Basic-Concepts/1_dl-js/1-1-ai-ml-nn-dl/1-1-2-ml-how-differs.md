@@ -20,33 +20,35 @@
 
 ## **Vocabulary**
 
-- [**traditional programming**](https://www.logianalytics.com/predictive-analytics/machine-learning-vs-traditional-programming/#:~:text=Traditional%20Programming%20refers%20to%20any,of%20intelligence%20and%20embedded%20analytics.)
+- <b><a href="https://www.logianalytics.com/predictive-analytics/machine-learning-vs-traditional-programming/#:~:text=Traditional%20Programming%20refers%20to%20any,of%20intelligence%20and%20embedded%20analytics.">traditional programming</a></b>
   - refers to any manually created program that uses input data and runs on a computer to produce the output.
 - **[features](<https://en.wikipedia.org/wiki/Feature_(machine_learning)>)**
   - **is an individual measurable property** or characteristic of a phenomenon being observed.
   - Choosing **informative, discriminating and independent features** is a crucial step for effective algorithms in pattern recognition, classification and regression.
   - Useful features is what helps drive model predictions.
-- **output**
+- <b>output</b>
   - (phi) is the transfer function (commonly a **threshold function**).
   - The output is **analogous to the axon of a biological neuron**, and its **value propagates to the input of the next layer**, through a synapse.
   - It may also **exit the system, possibly as part of an output vector**.
-- [**binary**](https://software.intel.com/content/www/us/en/develop/articles/binary-neural-networks.html#:~:text=Binary%20neural%20networks%20are%20networks,are%20stored%20in%20full%20precision.)
+- <a href="https://software.intel.com/content/www/us/en/develop/articles/binary-neural-networks.html#:~:text=Binary%20neural%20networks%20are%20networks,are%20stored%20in%20full%20precision"><b>binary</b></a>
   - Binary neural networks are networks with binary weights and activations at run time.
   - At training time these weights and activations are used for computing gradients; however, the gradients and true weights are stored in full precision.
-- **array**
+- <b>array</b>
   - The central unit of data in TensorFlow.js is the tf.Tensor: a set of values shaped into an array of one or more dimensions.
   - tf.Tensors are very similar to multidimensional arrays.
-- **RGB (red-green-blue)**
-- **labels**
+- <b>RGB (red-green-blue)</b>
+- <b>labels</b>
   - They interpret sensory data through a kind of machine perception, labeling or clustering raw input.
   - They help to group unlabeled data according to similarities among the example inputs, and they classify data when they have a labeled dataset to train on.
-- **predictions**
-- **training**
-- **hypothesis space**
-- **training phase**
-- **dataset**
-- **HSV (hue-saturation-value)**
-- **kernel methods**
+- <b>predictions
+- <b>training</b>
+- <b>hypothesis space</b>
+- <b>training phase</b>
+- <b>dataset</b>
+- <b>HSV (hue-saturation-value)</b>
+- <b>kernel methods</b>
+
+<link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
 
 ---
 
