@@ -51,6 +51,8 @@
 
 - [**Yes you should understand backprop**](https://karpathy.medium.com/yes-you-should-understand-backprop-e2f06eab496b#.vt3ax2kg9)
 
+<link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
+
 ---
 
 from [[_1-1-ai-nn-dl]]
