@@ -28,6 +28,8 @@
   - Informally, accuracy is the fraction of predictions our model got right.
   - Formally, accuracy has the following definition: Accuracy = Number of correct predictions Total number of predictions.
 
+<link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
+
 ---
 
 from [[_2-1-predict-duration-download-ts-js]]
