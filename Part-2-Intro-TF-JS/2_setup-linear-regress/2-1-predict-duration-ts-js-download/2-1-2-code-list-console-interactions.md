@@ -9,6 +9,8 @@
 - **web browser**
   - it is often desirable or imperative that the "somewhere" is a web frontend.
 
+<link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
+
 ---
 
 from [[_2-1-predict-duration-download-ts-js]]
