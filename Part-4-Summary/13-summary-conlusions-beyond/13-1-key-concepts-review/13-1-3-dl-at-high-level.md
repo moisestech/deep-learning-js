@@ -6,13 +6,13 @@
 
 ## **Vocabulary**
 
-- **high-level**
-- **labeled**
-- **vector**
-- **geometric space**
-- **text**
-- **targets**
-- **gradient**
+- <b>high-level</b>
+- <b>labeled</b>
+- <b>vector</b>
+- <b>geometric space</b>
+- <b>text</b>
+- <b>targets</b>
+- <b>gradient</b>
 
 <link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
 
