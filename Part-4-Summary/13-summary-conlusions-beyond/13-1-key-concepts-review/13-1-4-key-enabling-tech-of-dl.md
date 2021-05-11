@@ -6,14 +6,14 @@
 
 ## **Vocabulary**
 
-- **backpropagation**
-- **convolutional layers recurrent networks**
-- **activation functions**
-- **browser's WebGL**
-- **building blocks**
-- **loss functions**
-- **optimizers**
-- **possibilities**
+- <b>backpropagation</b>
+- <b>convolutional layers recurrent networks</b>
+- <b>activation functions</b>
+- <b>browser's WebGL</b>
+- <b>building blocks</b>
+- <b>loss functions</b>
+- <b>optimizers</b>
+- <b>possibilities</b>
 
 <link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
 
