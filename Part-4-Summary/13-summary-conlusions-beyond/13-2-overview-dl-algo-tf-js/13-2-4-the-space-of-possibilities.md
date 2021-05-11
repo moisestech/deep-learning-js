@@ -6,17 +6,17 @@
 
 ## **Vocabulary**
 
-- **Mapping vector to vector**
-- **Mapping image to vector**
-- **Mapping time-series data to vector**
-- **Mapping text to vector**
-- **Mapping text to text**
-- **Mapping images to text**
-- **Mapping images to images**
-- **Mapping image and time-series data to vector**
-- **Mapping image and text to text**
-- **Mapping image and vector to image**
-- **Mapping time-series data and vector to time-series data**
+- <b>Mapping vector to vector</b>
+- <b>Mapping image to vector</b>
+- <b>Mapping time-series data to vector</b>
+- <b>Mapping text to vector</b>
+- <b>Mapping text to text</b>
+- <b>Mapping images to text</b>
+- <b>Mapping images to images</b>
+- <b>Mapping image and time-series data to vector</b>
+- <b>Mapping image and text to text</b>
+- <b>Mapping image and vector to image</b>
+- <b>Mapping time-series data and vector to time-series data</b>
 
 <link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
 
