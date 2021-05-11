@@ -6,16 +6,16 @@
 
 ## **Vocabulary**
 
-- **deep learning**
-- **images**
-- **data**
-- **accuracy**
-- **technology**
-- **classification**
-- **object detection**
-- **machine translation**
-- **problem**
-- **deploying**
+- <b>deep learning</b>
+- <b>images</b>
+- <b>data</b>
+- <b>accuracy</b>
+- <b>technology</b>
+- <b>classification</b>
+- <b>object detection</b>
+- <b>machine translation</b>
+- <b>problem</b>
+- <b>deploying</b>
 
 <link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
 
