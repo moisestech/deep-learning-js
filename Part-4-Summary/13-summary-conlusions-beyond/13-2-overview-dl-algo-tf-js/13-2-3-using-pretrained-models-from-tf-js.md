@@ -10,16 +10,16 @@
 
 ## **Vocabulary**
 
-- **Node.js projects**
-- **ImageNet**
-- **Object detection**
-- **Human Interactions**
-- **WebAudio API**
-- **encoder**
-- **vocabulary (user-specific voice adaptation)**
-- **PoseNet**
-- **ML5.js**
-- **MusicRNN**
+- <b>Node.js projects</b>
+- <b>ImageNet</b>
+- <b>Object detection</b>
+- <b>Human Interactions</b>
+- <b>WebAudio API</b>
+- <b>encoder</b>
+- <b>vocabulary (user-specific voice adaptation)</b>
+- <b>PoseNet</b>
+- <b>ML5.js</b>
+- <b>MusicRNN</b>
 
 <link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
 
