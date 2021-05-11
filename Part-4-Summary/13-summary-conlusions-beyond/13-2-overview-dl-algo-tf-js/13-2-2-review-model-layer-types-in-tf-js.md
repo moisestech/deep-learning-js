@@ -6,38 +6,38 @@
 
 ## **Vocabulary**
 
-- **multilayer perceptrons**
-- **convnets**
-- **hypothesis space**
-- **Vector data**
-- **dense layers**
-- **Image data**
-- **Audio data as spectrograms**
-- **RNNs**
-- **1D convnets**
-- **3D convnets**
-- **Video data**
-- **sequence of images**
-- **feature extraction**
-- **densely connected networks**
-- **caveat**
-- **matrix multiplication**
-- **kernel**
-- **bias**
-- **functions**
-- **densely connected**
-- **categorical data**
-- **input features**
-- **loss function**
-- **multiclass classification**
-- **temperature**
-- **pooling layers**
-- **flatten layer (global pooling layer)**
-- **Repeating patterns of convolution-pooling layer groups**
-- **Vector space**
-- **SimpleRNN**
-- **Binary classification**
-- **Regularizers**
+- <b>multilayer perceptrons</b>
+- <b>convnets</b>
+- <b>hypothesis space</b>
+- <b>Vector data</b>
+- <b>dense layers</b>
+- <b>Image data</b>
+- <b>Audio data as spectrograms</b>
+- <b>RNNs</b>
+- <b>1D convnets</b>
+- <b>3D convnets</b>
+- <b>Video data</b>
+- <b>sequence of images</b>
+- <b>feature extraction</b>
+- <b>densely connected networks</b>
+- <b>caveat</b>
+- <b>matrix multiplication</b>
+- <b>kernel</b>
+- <b>bias</b>
+- <b>functions</b>
+- <b>densely connected</b>
+- <b>categorical data</b>
+- <b>input features</b>
+- <b>loss function</b>
+- <b>multiclass classification</b>
+- <b>temperature</b>
+- <b>pooling layers</b>
+- <b>flatten layer (global pooling layer)</b>
+- <b>Repeating patterns of convolution-pooling layer groups</b>
+- <b>Vector space</b>
+- <b>SimpleRNN</b>
+- <b>Binary classification</b>
+- <b>Regularizers</b>
 
 <link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
 
