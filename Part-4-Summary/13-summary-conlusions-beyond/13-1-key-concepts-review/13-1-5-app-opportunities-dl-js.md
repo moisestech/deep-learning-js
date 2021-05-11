@@ -6,18 +6,18 @@
 
 ## **Vocabulary**
 
-- **webcam**
-- **sounds**
-- **deployment**
-- **deep-learning models**
-- **inference**
-- **transfer learning**
-- **two-way data transfer**
-- **data privacy**
-- **fine-tuning**
-- **access**
-- **Node.js**
-- **tfjs-node**
+- <b>webcam</b>
+- <b>sounds</b>
+- <b>deployment</b>
+- <b>deep-learning models</b>
+- <b>inference</b>
+- <b>transfer learning</b>
+- <b>two-way data transfer</b>
+- <b>data privacy</b>
+- <b>fine-tuning</b>
+- <b>access</b>
+- <b>Node.js</b>
+- <b>tfjs-node</b>
 
 <link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
 
