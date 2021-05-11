@@ -6,15 +6,15 @@
 
 ## **Vocabulary**
 
-- **machine learning**
-- **artificial intelligence**
-- **subfields**
-- **models**
-- **training data**
-- **layers**
-- **graphs**
-- **weights**
-- **output**
+- <b>machine learning</b>
+- <b>artificial intelligence</b>
+- <b>subfields</b>
+- <b>models</b>
+- <b>training data</b>
+- <b>layers</b>
+- <b>graphs</b>
+- <b>weights</b>
+- <b>output</b>
 
 <link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
 
