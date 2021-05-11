@@ -9,6 +9,8 @@
 - <span style="color: #0095ff">**tfjs-node**</span>
   - The CPU version TensorFlow.JS Node, directly **uses the multithreaded math operations written in C++** and used by the main Python version of TensorFlow.
 
+<link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
+
 ---
 
 from [[_1-2-why-js-ml]]
