@@ -6,10 +6,10 @@
 
 ## **Vocabulary**
 
-- **AutoML**
-- **Google Vizier**
-- **reuse**
-- **momentum**
+- <b>AutoML</b>
+- <b>Google Vizier</b>
+- <b>reuse</b>
+- <b>momentum</b>
 
 <link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
 
