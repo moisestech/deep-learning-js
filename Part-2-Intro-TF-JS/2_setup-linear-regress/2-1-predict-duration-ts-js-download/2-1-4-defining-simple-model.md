@@ -38,6 +38,8 @@
 - **optimizer**
 - **stochastic gradient descent**
 
+<link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
+
 ---
 
 from [[_2-1-predict-duration-download-ts-js]]
