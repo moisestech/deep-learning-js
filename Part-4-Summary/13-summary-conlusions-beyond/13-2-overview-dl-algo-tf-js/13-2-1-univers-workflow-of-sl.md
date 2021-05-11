@@ -6,22 +6,22 @@
 
 ## **Vocabulary**
 
-- **summary**
-- **dataset**
-- **trained model**
-- **tensors**
-- **n-dimensional arrays**
-- **predicting**
-- **regression**
-- **hyperparameters**
-- **regularization**
-- **overfitting**
-- **model's quality on data subsets**
-- **model optimization**
-- **supervised learning**
-- **VAE**
-- **formulation**
-- **reward**
+- <b>summary</b>
+- <b>dataset</b>
+- <b>trained model</b>
+- <b>tensors</b>
+- <b>n-dimensional arrays</b>
+- <b>predicting</b>
+- <b>regression</b>
+- <b>hyperparameters</b>
+- <b>regularization</b>
+- <b>overfitting</b>
+- <b>model's quality on data subsets</b>
+- <b>model optimization</b>
+- <b>supervised learning</b>
+- <b>VAE</b>
+- <b>formulation</b>
+- <b>reward</b>
 
 <link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
 
