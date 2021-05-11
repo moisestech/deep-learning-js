@@ -12,46 +12,48 @@
 
 ## **Vocabulary**
 
-- <span style="color: #0095ff">**Deployment**</span>
+- <b>Deployment</b>
   - Optimizing **the speed of downloading and inference is an important factor** to the success of client-side deployment of TensorFlow.js.
-- <span style="color: #0095ff">**access**</span>
+- <b>access</b>
   - Browser-based application of deep learning comes with five additional benefits:
     - **reduced server cost**
     - **lowered inference latency**
     - **data privacy**
     - **instant GPU acceleration**
     - **instant access**.
-- <span style="color: #0095ff">**deploying**</span>
+- <b>deploying</b>
   - **JavaScript** and the web browser are a **suitable environment for deploying and training** deep neural networks.
   - Client-side models **lower computation on cloud GPUs**.
-- <span style="color: #0095ff">**YOLO**</span>
+- <b>YOLO</b>
   - YOLO algorithm gives a much better performance on all the parameters we discussed along with a high fps for real-time usage.
   - YOLO algorithm is an algorithm based on regression, instead of selecting the interesting part of an Image, it predicts classes and bounding boxes for the whole image in one run of the Algorithm.
-- <span style="color: #0095ff">**CNN-LSTM network**</span>
+- <b>CNN-LSTM network</b>
   - The CNN Long Short-Term Memory Network or CNN LSTM for short is an LSTM architecture specifically designed for sequence prediction problems with spatial inputs, like images or videos.
-- <span style="color: #0095ff">**WebAudio API**</span>
+- <b>**WebAudio API**</b>
   - The Web Audio API provides a powerful and versatile system for controlling audio on the Web, allowing developers to choose audio sources, add effects to audio, create audio visualizations, apply spatial effects.
-- <span style="color: #0095ff">**spoken-word recognition**</span>
+- <b>**spoken-word recognition**</b>
   - Spoken word recognition is the study of how lexical representations are accessed from phonological patterns in the speech signal.
-- **server cost**
-- **data privacy**
-- **instant access**
-- **consideration**
-- **Google Cloud**
-- **video data**
-- **Instant WebGL acceleration**
-- **PyTorch**
-- **PoseNet**
-- **transfer learning**
-- **zero install**
-- **parallelization**
-- **TensorFlow Playground**
-- **hyperparameters**
-- **embedding**
+- <b>server cost</b>
+- <b>data privacy</b>
+- <b>instant access</b>
+- <b>consideration</b>
+- <b>Google Cloud</b>
+- <b>video data</b>
+- <b>Instant WebGL acceleration</b>
+- <b>PyTorch</b>
+- <b>PoseNet</b>
+- <b>transfer learning</b>
+- <b>zero install</b>
+- <b>parallelization</b>
+- <b>TensorFlow Playground</b>
+- <b>hyperparameters</b>
+- <b>embedding</b>
 
 ## Notes
 
 - [Udacity Deep Learning - PyTorch Github](https://github.com/udacity/deep-learning-v2-pytorch)
+
+<link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
 
 ---
 
