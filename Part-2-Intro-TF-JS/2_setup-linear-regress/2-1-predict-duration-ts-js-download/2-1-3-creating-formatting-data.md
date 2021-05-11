@@ -40,6 +40,8 @@
 - **project**
 - **early stopping** - will stop training when the validation score stops improving, even when the training score may be improving. This prevents overfitting on the training dataset.
 
+<link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
+
 ---
 
 from [[_2-1-predict-duration-download-ts-js]]
