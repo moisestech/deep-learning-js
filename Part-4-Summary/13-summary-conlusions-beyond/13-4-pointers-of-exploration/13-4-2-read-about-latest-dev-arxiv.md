@@ -6,8 +6,8 @@
 
 ## **Vocabulary**
 
-- latest developments
-- arXiv
+- <b>latest developments</b>
+- <b>arXiv</b>
 
 <link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
 
