@@ -12,7 +12,7 @@
 
 ## **Vocabulary**
 
-- **Feature Engineering** -
+- <b>Feature Engineering</b>
 
 <link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
 
