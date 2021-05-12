@@ -12,25 +12,25 @@
 
 ## **Vocabulary**
 
-- **GraphModel**
-- **`tf.GraphModel`**
-- **`tf.loadGraphModel()`**
-- **relu activation**
-- **graph**
-- **fine granularity**
-- **ahead-of-time analysis**
-- **fine granularity**
-- **Batch Normalization layer**
-- **`tf.layers.batchNormalization()`**
-- **`predict()`**
-- **Layers API**
-- **op fusion**
-- **`tf.layers.dense()`**
-- **matrix multiplication**
-- **kernel**
-- **`Fused malMul+relu`**
-- **`tensorflowjs_ converter`**
-- **`console.timeEnd()`**
+- <b>GraphModel</b>
+- <b>`tf.GraphModel`</b>
+- <b>`tf.loadGraphModel()`\*\*
+- <b>relu activation</b>
+- <b>graph</b>
+- <b>fine granularity</b>
+- <b>ahead-of-time analysis</b>
+- <b>fine granularity</b>
+- <b>Batch Normalization layer</b>
+- <b>`tf.layers.batchNormalization()`</b>
+- <b>`predict()`</b>
+- <b>Layers API</b>
+- <b>op fusion</b>
+- <b>`tf.layers.dense()`</b>
+- <b>matrix multiplication</b>
+- <b>kernel</b>
+- <b>`Fused malMul+relu`</b>
+- <b>`tensorflowjs_ converter`</b>
+- <b>`console.timeEnd()`</b>
 
 <link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
 
