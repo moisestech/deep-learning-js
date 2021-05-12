@@ -10,22 +10,22 @@
 
 ## **Vocabulary**
 
-- <span style="color: #0095ff">**Javascript Ecosystem**</span> - for years has consistently ranked **number one among programming languages by repository count** such as NPM.
-- **GitHub**
+- <b>Javascript Ecosystem</b> for years has consistently ranked **number one among programming languages by repository count** such as NPM.
+- <b>GitHub</b>
   - JavaScript has been consistently ranked number one among a few dozen programming languages in terms of repository count and pull activities on GitHub.
-- **Amazon Web Services**
-- **MongoDB / RethinkDB**
+- <b>Amazon Web Services</b>
+- <b>MongoDB / RethinkDB</b>
   - Most popular database systems today, such as MongoDB and RethinkDB, have first-class support for Node.js drivers.
-- **Vega.js**
+- <b>Vega.js</b>
   - is a visualization grammar, a declarative language for creating, saving, and sharing interactive visualization designs.
   - With Vega, you can describe the visual appearance and interactive behavior of a visualization in a JSON format, and generate web-based views using Canvas or SVG.
-- **Plotly.js**
+- <b>Plotly.js</b>
   - Built on top of d3.js and stack.gl, Plotly.js is a high-level, declarative charting library.
   - Plotly.js ships with over 40 chart types, including 3D charts, statistical graphs, and SVG maps.
-- **Ionic**
+- <b>Ionic</b>
   - Ionic is a powerful HTML5 SDK that helps you build native-feeling mobile apps using web technologies like HTML, CSS, and Javascript.
   - Ionic is focused mainly on the look and feel, and UI interaction of your app. That means we aren't a replacement for PhoneGap or your favorite Javascript framework.
-- **locality**
+- <b>locality</b>
 
 <link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
 
