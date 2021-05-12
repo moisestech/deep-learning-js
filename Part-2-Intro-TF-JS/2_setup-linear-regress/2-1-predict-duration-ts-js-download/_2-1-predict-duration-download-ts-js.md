@@ -12,9 +12,9 @@
 
 ## **Vocabulary**
 
-- **predicting**
+- <b>predicting</b>
   - predicting controller direction using image embeddings.
-- **duration**
+- <b>duration</b>
   - measured download duration versus file size.
 
 <link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
