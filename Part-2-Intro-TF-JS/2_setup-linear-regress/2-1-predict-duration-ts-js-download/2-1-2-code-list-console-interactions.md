@@ -6,7 +6,7 @@
 
 ## **Vocabulary**
 
-- **web browser**
+- <b>web browser</b>
   - it is often desirable or imperative that the "somewhere" is a web frontend.
 
 <link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
