@@ -12,31 +12,31 @@
 
 ## **Vocabulary**
 
-- **simple model**
+- <b>simple model</b>
   - A linear regression model with one layer. For example a dense layers with tunable weights on the kernel and bias.
-- **deep learning**
+- <b>deep learning</b>
   - Deep learning (also known as deep structured learning) is part of a broader family of machine learning methods based on artificial neural networks with representation learning.
   - Learning can be supervised, semi-supervised or unsupervised.
-- **model**
+- <b>model</b>
   - is represented by its architecture that shows how to transform two or more inputs into an output.
   - The transformation is given in the form of a learning algorithm.
-- **regression**
+- <b>regression</b>
   - Regression ANNs predict an output variable as a function of the inputs.
   - If the output variable is a categorical variable (or binary) the ANN will function as a classifier.
-- **classification**
+- <b>classification</b>
   - Classification neural networks used for feature categorization are very similar to fault-diagnosis networks, except that they only allow one output response for any input pattern, instead of allowing multiple faults to occur for a given set of operating conditions.
-- **tunable**
-- **building blocks**
-- **layer**
-- **dense layer**
-- **kernel**
-- **bias**
-- **training process**
-- **weights**
-- **loss function**
-- **learning**
-- **optimizer**
-- **stochastic gradient descent**
+- <b>tunable</b>
+- <b>building blocks</b>
+- <b>layer</b>
+- <b>dense layer</b>
+- <b>kernel</b>
+- <b>bias</b>
+- <b>training process</b>
+- <b>weights</b>
+- <b>loss function</b>
+- <b>learning</b>
+- <b>optimizer</b>
+- <b>stochastic gradient descent</b>
 
 <link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
 
