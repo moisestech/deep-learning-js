@@ -6,8 +6,8 @@
 
 ## **Vocabulary**
 
-- **Real-world machine-learning problems**
-- **array**
+- <b>Real-world machine-learning problems</b>
+- <b>array</b>
 
 <link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
 
