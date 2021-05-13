@@ -12,21 +12,21 @@
 
 ## **Vocabulary**
 
-- **dense layers**
-- **sequential order**
-- **dataset**
-- **temperature**
-- **training time**
-- **`tf.layers.flatten`**
-- **inference**
-- **output**
-- **regularization**
-- **accuracy**
-- **algorithms**
-- **`getBaselineMeanAbsoluteError()`**
-- **observations**
-- **machine learning**
-- **hyperparameter**
+- <b>dense layers</b>
+- <b>sequential order</b>
+- <b>dataset</b>
+- <b>temperature</b>
+- <b>training time</b>
+- <b>`tf.layers.flatten`</b>
+- <b>inference</b>
+- <b>output</b>
+- <b>regularization</b>
+- <b>accuracy</b>
+- <b>algorithms</b>
+- <b>`getBaselineMeanAbsoluteError()`</b>
+- <b>observations</b>
+- <b>machine learning</b>
+- <b>hyperparameter</b>
 
 <link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
 
