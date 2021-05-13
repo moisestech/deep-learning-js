@@ -12,11 +12,11 @@
 
 ## **Vocabulary**
 
-- **`buildLinearRegressionModel()`**
-- **`kernelRegularizer`**
-- **accuracy**
-- **`dropoutRate`**
-- **weight**
+- <b>`buildLinearRegressionModel()`</b>
+- <b>`kernelRegularizer`</b>
+- <b>accuracy</b>
+- <b>`dropoutRate`</b>
+- <b>weight</b>
 
 <link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
 
