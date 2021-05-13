@@ -24,27 +24,27 @@
 
 ## **Vocabulary**
 
-- **`tf.layers.simpleRNN()`**
-- **feedforward layers**
-- **conv2d**
-- **rolled**
-- **flattening**
-- **weight parameters**
-- **parameter sharing**
-- **time dimension**
-- **gradient**
-- **recurrent network**
-- **graph**
-- **backpropagation through time (bptt)**
-- **activation**
-- **batch dimension**
-- **sequence data**
-- **parallelization**
-- **LSTM**
-- **vanishing gradient problem**
-- **reset gate**
-- **image input**
-- **hypothesis space**
+- <b>`tf.layers.simpleRNN()`</b>
+- <b>feedforward layers</b>
+- <b>conv2d</b>
+- <b>rolled</b>
+- <b>flattening</b>
+- <b>weight parameters</b>
+- <b>parameter sharing</b>
+- <b>time dimension</b>
+- <b>gradient</b>
+- <b>recurrent network</b>
+- <b>graph</b>
+- <b>backpropagation through time (bptt)</b>
+- <b>activation</b>
+- <b>batch dimension</b>
+- <b>sequence data</b>
+- <b>parallelization</b>
+- <b>LSTM</b>
+- <b>vanishing gradient problem</b>
+- <b>reset gate</b>
+- <b>image input</b>
+- <b>hypothesis space</b>
 
 <link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
 
