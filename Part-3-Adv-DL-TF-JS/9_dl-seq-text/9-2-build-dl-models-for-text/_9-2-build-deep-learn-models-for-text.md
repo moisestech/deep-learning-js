@@ -6,8 +6,8 @@
 
 ## **Vocabulary**
 
-- **deep-learning models**
-- **target space**
+- <b>deep-learning models</b>
+- <b>target space</b>
 
 <link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
 
