@@ -28,26 +28,26 @@
 
 ## **Vocabulary**
 
-- **features**
-- **`tfvis.render.*`**
-- **`@tensorflow/tfjs-vis`**
-- **`@tensorflow/tfjs`**
-- **`y-axis`**
-- **temperature**
-- **ROC**
-- **binary classifier**
-- **`linechart()`**
-- **scatter plots**
-- **`scatterplot()`**
-- **bar charts**
-- **`barchart()`**
-- **histograms**
-- **distributions**
-- **bins**
-- **`tfvis.render.histogram()`**
-- **`histograms()`**
-- **heatmaps**
-- **confusion matrix**
+- <b>features</b>
+- <b>`tfvis.render.*`</b>
+- <b>`@tensorflow/tfjs-vis`</b>
+- <b>`@tensorflow/tfjs`</b>
+- <b>`y-axis`</b>
+- <b>temperature</b>
+- <b>ROC</b>
+- <b>binary classifier</b>
+- <b>`linechart()`</b>
+- <b>scatter plots</b>
+- <b>`scatterplot()`</b>
+- <b>bar charts</b>
+- <b>`barchart()`</b>
+- <b>histograms</b>
+- <b>distributions</b>
+- <b>bins</b>
+- <b>`tfvis.render.histogram()`</b>
+- <b>`histograms()`</b>
+- <b>heatmaps</b>
+- <b>confusion matrix</b>
 
 <link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
 
