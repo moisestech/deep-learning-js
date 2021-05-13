@@ -16,17 +16,17 @@
 
 ## **Vocabulary**
 
-- **dense layer**
-- **activation to generate the prediction**
-- **linear regression**
-- **loss function**
-- **`meanAbsoluteError`**
-- **normalized**
-- **Regression**
-- **text-output**
-- **`tfvis.show.modelSummary()`**
-- **`fitCallbacks()`**
-- **recall**
+- <b>dense layer</b>
+- <b>activation to generate the prediction</b>
+- <b>linear regression</b>
+- <b>loss function</b>
+- <b>`meanAbsoluteError`</b>
+- <b>normalized</b>
+- <b>Regression</b>
+- <b>text-output</b>
+- <b>`tfvis.show.modelSummary()`</b>
+- <b>`fitCallbacks()`</b>
+- <b>recall</b>
 
 <link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
 
