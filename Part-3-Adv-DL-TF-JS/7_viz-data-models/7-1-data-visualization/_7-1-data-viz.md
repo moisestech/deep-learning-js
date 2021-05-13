@@ -6,9 +6,9 @@
 
 ## **Vocabulary**
 
-- **histograms**
-- **browser**
-- **real dataset**
+- <b>histograms</b>
+- <b>browser</b>
+- <b>real dataset</b>
 
 <link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
 
