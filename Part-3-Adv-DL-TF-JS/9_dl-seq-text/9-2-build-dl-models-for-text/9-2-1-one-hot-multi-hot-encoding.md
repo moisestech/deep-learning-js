@@ -12,14 +12,14 @@
 
 ## **Vocabulary**
 
-- **multiclass classification**
-- **MobileNet**
-- **text vectorization**
-- **one-hot encoding**
-- **out-of vocabulary (OOV)**
-- **embedding vector**
-- **one-hot vectors**
-- **multi-hot encoding**
+- <b>multiclass classification</b>
+- <b>MobileNet</b>
+- <b>text vectorization</b>
+- <b>one-hot encoding</b>
+- <b>out-of vocabulary (OOV)</b>
+- <b>embedding vector</b>
+- <b>one-hot vectors</b>
+- <b>multi-hot encoding</b>
 
 <link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
 
