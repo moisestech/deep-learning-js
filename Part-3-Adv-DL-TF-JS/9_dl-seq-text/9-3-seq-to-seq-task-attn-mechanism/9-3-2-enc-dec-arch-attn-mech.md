@@ -12,16 +12,16 @@
 
 ## **Vocabulary**
 
-- **regression**
-- **classification**
-- **encoder**
-- **decoder**
-- **training phase**
-- **`Model.predict()`**
-- **`runSeq2SeqInference()`**
-- **introduction**
-- **access**
-- **sounds**
+- <b>regression</b>
+- <b>classification</b>
+- <b>encoder</b>
+- <b>decoder</b>
+- <b>training phase</b>
+- <b>`Model.predict()`</b>
+- <b>`runSeq2SeqInference()`</b>
+- <b>introduction</b>
+- <b>access</b>
+- <b>sounds</b>
 
 <link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
 
