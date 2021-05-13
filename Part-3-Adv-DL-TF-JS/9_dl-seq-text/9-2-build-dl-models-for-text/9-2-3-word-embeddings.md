@@ -18,13 +18,13 @@
 
 ## **Vocabulary**
 
-- **word embedding**
-- **matrix shape**
-- **`vocabularySize`**
-- **`embeddingDims`**
-- **`sequenceLength`**
-- **`tf.gather()`**
-- **classification result**
+- <b>word embedding</b>
+- <b>matrix shape</b>
+- <b>`vocabularySize`</b>
+- <b>`embeddingDims`</b>
+- <b>`sequenceLength`</b>
+- <b>`tf.gather()`</b>
+- <b>classification result</b>
 
 ---
 
