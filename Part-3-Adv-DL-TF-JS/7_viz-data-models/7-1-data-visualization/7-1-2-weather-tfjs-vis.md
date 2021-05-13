@@ -16,8 +16,8 @@
 
 ## **Vocabulary**
 
-- **integrative case study**
-- **visualizing weather data**
+- <b>integrative case study</b>
+- <b>visualizing weather data</b>
 
 <link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
 
