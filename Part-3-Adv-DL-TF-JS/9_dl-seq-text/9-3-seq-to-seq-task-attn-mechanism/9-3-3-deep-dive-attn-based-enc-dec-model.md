@@ -12,20 +12,20 @@
 
 ## **Vocabulary**
 
-- **deep-dive**
-- **attention-based encode-decoder model**
-- **`createModel()`**
-- **`maskZero: true`**
-- **`returnSequences: true`**
-- **`GetLastTimestepLayer`**
-- **symbolic tensor**
-- \*_`encoderLast`_
-- **softmax**
-- **`decoderCombinedContext`**
-- **`timeDistributed layer`**
-- **`categorical cross-entropy`**
-- **`argMax()`**
-- **`dateTupleToMMMSpaceDDSpaceYY()`**
+- <b>deep-dive<b>
+- <b>attention-based encode-decoder model</b>
+- <b>`createModel()`</b>
+- <b>`maskZero: true`</b>
+- <b>`returnSequences: true`</b>
+- <b>`GetLastTimestepLayer`</b>
+- <b>symbolic tensor</b>
+- <b>`encoderLast`</b>
+- <b>softmax</b>
+- <b>`decoderCombinedContext`</b>
+- <b>`timeDistributed layer`</b>
+- <b>`categorical cross-entropy`</b>
+- <b>`argMax()`</b>
+- <b>`dateTupleToMMMSpaceDDSpaceYY()`</b>
 
 <link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
 
