@@ -6,13 +6,13 @@
 
 ## **Vocabulary**
 
-- **output sequence**
-- **sequence-to-sequence**
-- **text-summarization**
-- **word prediction for autocompletion**
-- **music composition**
-- **chat bots**
-- **attention mechanism**
+- <b>output sequence</b>
+- <b>sequence-to-sequence</b>
+- <b>text-summarization</b>
+- <b>word prediction for autocompletion</b>
+- <b>music composition</b>
+- <b>chat bots</b>
+- <b>attention mechanism</b>
 
 <link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
 
