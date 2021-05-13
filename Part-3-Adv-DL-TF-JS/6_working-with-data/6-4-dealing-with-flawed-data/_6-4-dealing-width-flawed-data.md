@@ -6,8 +6,8 @@
 
 ## **Vocabulary**
 
-- **hyperparameter**
-- **Data Wrangling with JavaScript**
+- <b>hyperparameter</b>
+- <b>Data Wrangling with JavaScript</b>
 
 <link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
 
