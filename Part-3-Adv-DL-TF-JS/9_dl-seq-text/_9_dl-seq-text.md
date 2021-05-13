@@ -24,11 +24,11 @@
 
 ## **Vocabulary**
 
-- **arrays**
-- **trend**
-- **sequences**
-- **features**
-- **output sequence**
+- <b>arrays</b>
+- <b>trend</b>
+- <b>sequences</b>
+- <b>features</b>
+- <b>output sequence</b>
 
 <link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
 
