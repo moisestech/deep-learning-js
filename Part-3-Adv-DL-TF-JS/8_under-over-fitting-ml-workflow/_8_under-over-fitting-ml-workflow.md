@@ -11,12 +11,14 @@
 
 ## Summary
 
-- `tfjs-vis` can aid the visualization of a machine-learning model’s training process in the browser. Specifically, we showed how `tfjs-vis` can be used to
-- Visualize the topology of TensorFlow.js models.
-- Plot loss and metrics curves during training.
-- Summarize weight distributions after training. We showed concrete examples of these visualization workflows.
-- **Underfitting** and **overfitting** are fundamental behaviors of machine-learning models and should be monitored and understood in every machine-learning problem. They can both be seen by comparing the loss curves from the training and validation sets during training. The built-in `tfvis.show.fitCallbacks()` method helps you visualize these curves in the browser with ease.
-- The universal workflow of machine learning is a list of common steps and best practices of different types of supervised learning tasks. It goes from deciding the nature of the problem and the requirements on the data to finding a model that sits nicely on the border between underfitting and overfitting.
+- <b>`tfjs-vis`</b>
+  - can aid the visualization of a machine-learning model’s training process in the browser. Specifically, we showed how `tfjs-vis` can be used to
+  - Visualize the topology of TensorFlow.js models.
+  - Plot loss and metrics curves during training.
+  - Summarize weight distributions after training. We showed concrete examples of these visualization workflows.
+- <b>Underfitting</b> and <b>overfitting</b>
+  - are fundamental behaviors of machine-learning models and should be monitored and understood in every machine-learning problem. They can both be seen by comparing the loss curves from the training and validation sets during training. The built-in `tfvis.show.fitCallbacks()` method helps you visualize these curves in the browser with ease.
+  - The universal workflow of machine learning is a list of common steps and best practices of different types of supervised learning tasks. It goes from deciding the nature of the problem and the requirements on the data to finding a model that sits nicely on the border between underfitting and overfitting.
 
 ---
 
