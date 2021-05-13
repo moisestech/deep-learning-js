@@ -6,10 +6,10 @@
 
 ## **Vocabulary**
 
-- **sentiment analysis problem**
-- **binary classification**
-- **`buildModel()`**
-- **word embeddings and 1D convnets**
+- <b>sentiment analysis problem</b>
+- <b>binary classification</b>
+- <b>`buildModel()`</b>
+- <b>word embeddings and 1D convnets</b>
 
 <link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
 
