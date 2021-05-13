@@ -12,9 +12,9 @@
 
 ## **Vocabulary**
 
-- **encode-decoder architecture**
-- **trained model**
-- **heatmap**
+- <b>encode-decoder architecture</b>
+- <b>trained model</b>
+- <b>heatmap</b>
 
 <link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
 
