@@ -12,9 +12,9 @@
 
 ## **Vocabulary**
 
-- **underfit**
+- <b>underfit</b>
   - a models that doesn't capture the patterns in the training data very well.
-- **overfit**
+- <b>overfit</b>
   - a model that captures the patterns too well, to the extent that what it learns generalizes poorly to new data.
 
 <link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
