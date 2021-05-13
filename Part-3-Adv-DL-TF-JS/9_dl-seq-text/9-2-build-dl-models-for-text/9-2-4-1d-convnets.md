@@ -6,24 +6,24 @@
 
 ## **Vocabulary**
 
-- **2D convolutional layers**
-- **`tf.layers.conv1d()`**
-- **`kernelSize`**
-- **`font()`**
-- **recall**
-- **considerations**
-- **trade-off**
-- **`padSequences()`**
-- **`tf.Model`**
-- **output shape**
-- **globalMaxPool1d**
-- **pooling**
-- **dot product**
-- **interaction**
-- **lstm**
-- **commands**
-- **`embeddingFilesPrefix`**
-- **`padSequences()`**
+- <b>2D convolutional layers</b>
+- <b>`tf.layers.conv1d()`</b>
+- <b>`kernelSize`</b>
+- <b>`font()`</b>
+- <b>recall</b>
+- <b>considerations</b>
+- <b>trade-off<b>
+- <b>`padSequences()`</b>
+- <b>`tf.Model`</b>
+- <b>output shape</b>
+- <b>globalMaxPool1d</b>
+- <b>pooling</b>
+- <b>dot product</b>
+- <b>interaction</b>
+- <b>lstm</b>
+- <b>commands</b>
+- <b>`embeddingFilesPrefix`</b>
+- <b>`padSequences()`</b>
 
 <link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
 
