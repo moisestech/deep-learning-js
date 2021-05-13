@@ -22,11 +22,11 @@
 
 ## **Vocabulary**
 
-- **Data before ML** -
-- **Facets** -
-- **internal activations** -
-- **layers** -
-- **convnet** -
+- <b>Data before ML</b>
+- <b>Facets</b>
+- <b>internal activations</b>
+- <b>layers</b>
+- <b>convnet</b>
 
 <link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
 
