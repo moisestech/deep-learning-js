@@ -16,16 +16,17 @@
 
 ## **Vocabulary**
 
-- **weight regularization**
-- **convnet**
-- **dropout layers** - is a technique applied to neural networks that randomly sets some of the neurons’ outputs to zero during training. This forces the network to learn better representations of the data by preventing complex interactions between the neurons: Each neuron needs to learn useful features.
-- **`buildMLPModel()`**
-- **tf.regularizers.l2()**
-- **`l2Rate * l2(kernel)`**
-- **hyperparameter**
-- **tfvis.show.layer()**
-- **quality**
-- **tunable parameters**
+- <b>weight regularization</b>
+- <b>convnet</b>
+- <b>dropout layers<b>
+  - is a technique applied to neural networks that randomly sets some of the neurons’ outputs to zero during training. This forces the network to learn better representations of the data by preventing complex interactions between the neurons: Each neuron needs to learn useful features.
+- <b>`buildMLPModel()`</b>
+- <b>tf.regularizers.l2()</b>
+- <b>`l2Rate * l2(kernel)`</b>
+- <b>hyperparameter</b>
+- <b>tfvis.show.layer()</b>
+- <b>quality</b>
+- <b>tunable parameters</b>
 
 <link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
 
