@@ -12,22 +12,22 @@
 
 ## **Vocabulary**
 
-- **temperature-prediction**
-- **intuition**
-- **training data**
-- **`timeSteps`**
-- **`numFeatures`**
-- **`batchSteps`**
-- **sequence**
-- **spectrogram**
-- **sequential input data**
-- **RNNs**
-- **`getNextBatchFunction()`**
-- **`next()`**
-- **`tf.data.generator`**
-- **`customCallback`**
-- **visitor surface**
-- **`fitCallbacks()`**
+- <b>temperature-prediction</b>
+- <b>intuition</b>
+- <b>training data</b>
+- <b>`timeSteps`</b>
+- <b>`numFeatures`</b>
+- <b>`batchSteps`</b>
+- <b>sequence</b>
+- <b>spectrogram</b>
+- <b>sequential input data</b>
+- <b>RNNs</b>
+- <b>`getNextBatchFunction()`</b>
+- <b>`next()`</b>
+- <b>`tf.data.generator`</b>
+- <b>`customCallback`</b>
+- <b>visitor surface</b>
+- <b>`fitCallbacks()`</b>
 
 <link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
 
