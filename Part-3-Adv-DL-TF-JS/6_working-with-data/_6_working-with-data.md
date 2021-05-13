@@ -12,19 +12,19 @@
 
 ## **Vocabulary**
 
-- **`tf.data`**
-- **train models**
-- **datasets**
-- **model quality**
-- **access**
-- **Kaggle**
-- **benchmarks**
-- **space race**
-- **transfer learning**
-- **vectors**
-- **tensor**
-- **training**
-- **`tf.data.Dataset`**
+- <b>`tf.data`</b>
+- <b>train models</b>
+- <b>datasets</b>
+- <b>model quality</b>
+- <b>access</b>
+- <b>Kaggle</b>
+- <b>benchmarks</b>
+- <b>space race</b>
+- <b>transfer learning</b>
+- <b>vectors</b>
+- <b>tensor</b>
+- <b>training</b>
+- <b>`tf.data.Dataset`</b>
 
 <link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
 
