@@ -24,31 +24,31 @@
 
 ## **Vocabulary**
 
-- **incompatible output shapes**
-- **new m-model**
-- **output**
-- **activation**
-- **multiclass classification**
-- **transfer-learning quality**
-- **type**
-- **predicting**
-- **machine**
-- **quality**
-- **inference**
-- **algorithm**
-- **image data**
-- **deep dive**
-- **webcam transfer learning**
-- **`SymbolicTensor`**
-- **sequential**
-- **graphs**
-- **head**
-- **truncating**
-- **embeddings**
-- **`controllerDataset`**
-- **image tensors**
-- **k-nearest neighbors**
-- **artifacts**
+- <b>incompatible output shapes</b>
+- <b>new m-model</b>
+- <b>output</b>
+- <b>activation</b>
+- <b>multiclass classification</b>
+- <b>transfer-learning quality</b>
+- <b>type</b>
+- <b>predicting</b>
+- <b>machine</b>
+- <b>quality</b>
+- <b>inference</b>
+- <b>algorithm</b>
+- <b>image data</b>
+- <b>deep dive</b>
+- <b>webcam transfer learning</b>
+- <b>`SymbolicTensor`</b>
+- <b>sequential</b>
+- <b>graphs</b>
+- <b>head</b>
+- <b>truncating</b>
+- <b>embeddings</b>
+- <b>`controllerDataset`</b>
+- <b>image tensors</b>
+- <b>k-nearest neighbors</b>
+- <b>artifacts</b>
 
 <link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
 
