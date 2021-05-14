@@ -6,12 +6,12 @@
 
 ## **Vocabulary**
 
-- **video data**
-- **`tf.data.webcam()`**
-- **transfer learning**
-- **`capture()`**
-- **`tf.nextFrame()`**
-- **weights**
+- <b>video data</b>
+- <b>`tf.data.webcam()`</b>
+- <b>transfer learning</b>
+- <b>`capture()`</b>
+- <b>`tf.nextFrame()`</b>
+- <b>weights</b>
 
 <link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
 
