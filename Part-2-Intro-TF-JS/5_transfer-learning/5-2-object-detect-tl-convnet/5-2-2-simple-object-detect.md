@@ -12,19 +12,19 @@
 
 ## **Vocabulary**
 
-- **convolutional layers**
-- **`loadTruncatedBase()`**
-- **`buildNewHead()`**
-- **`meanSquaredError`**
-- **2D Tensor**
-- **batch size**
-- **scalar tensor**
-- **`customLossFunction`**
-- **matrix**
-- **binary cross entropy**
-- **hyperparameter**
-- **single-shot detection (ssd)**
-- **`meanAbsoluteError`**
+- <b>convolutional layers</b>
+- <b>`loadTruncatedBase()`</b>
+- <b>`buildNewHead()`</b>
+- <b>`meanSquaredError`</b>
+- <b>2D Tensor</b>
+- <b>batch size</b>
+- <b>scalar tensor</b>
+- <b>`customLossFunction`</b>
+- <b>matrix</b>
+- <b>binary cross entropy</b>
+- <b>hyperparameter</b>
+- <b>single-shot detection (ssd)<b>
+- <b>`meanAbsoluteError`<b>
 
 <link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
 
