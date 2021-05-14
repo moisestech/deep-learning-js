@@ -6,18 +6,18 @@
 
 ## **Vocabulary**
 
-- **tfjs-data datasets**
-- **almost never**
-- **`tf.data.Dataset`**
-- **considerations**
-- **training data**
-- **`map()`**
-- **`preprocessFn`**
-- **`dataset.map()`**
-- **`streaming normalization`**
-- **limitations**
-- **possibility**
-- **`samplesSoFar`**
+- <b>tfjs-data datasets</b>
+- <b>almost never</b>
+- <b>`tf.data.Dataset`</b>
+- <b>considerations</b>
+- <b>training data</b>
+- <b>`map()`</b>
+- <b>`preprocessFn`</b>
+- <b>`dataset.map()`</b>
+- <b>`streaming normalization`</b>
+- <b>limitations</b>
+- <b>possibility</b>
+- <b>`samplesSoFar`</b>
 
 <link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
 
