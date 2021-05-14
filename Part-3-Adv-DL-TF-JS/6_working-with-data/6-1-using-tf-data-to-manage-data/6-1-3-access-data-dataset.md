@@ -6,8 +6,8 @@
 
 ## **Vocabulary**
 
-- **`Dataset.toArray()`**
-- **`dataset.forEachAsync(f)`**
+- <b>`Dataset.toArray()`</b>
+- <b>`dataset.forEachAsync(f)`</b>
 
 <link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
 
