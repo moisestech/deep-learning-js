@@ -6,7 +6,7 @@
 
 ## **Vocabulary**
 
-- **common patterns**
+- <b>common patterns</b>
 
 <link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
 
