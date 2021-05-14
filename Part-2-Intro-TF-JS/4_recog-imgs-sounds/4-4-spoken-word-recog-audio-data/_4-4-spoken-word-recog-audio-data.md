@@ -6,8 +6,8 @@
 
 ## **Vocabulary**
 
-- **applying convnets**
-- **amazon echo, google home**
+- <b>applying convnets</b>
+- <b>amazon echo, google home</b>
 
 <link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
 
