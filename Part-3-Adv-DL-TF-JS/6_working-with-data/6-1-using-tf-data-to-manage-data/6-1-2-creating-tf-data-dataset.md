@@ -6,20 +6,20 @@
 
 ## **Vocabulary**
 
-- **`tf.data.Dataset`**
-- **`tf.data.array()`**
-- **`model.fitDataset()`**
-- **`model.evaluateDataset()`**
-- **`forEachAsync()`**
-- **`Dataset.forEachAsync`**
-- **representing**
-- **`tf.data.csv`**
-- **`tf.data.generator()`**
-- **generator function**
-- **sequence**
-- **myGeneratorDataset**
-- **numPlaySoFar**
-- **`tf.data.generator()`**
+- <b>`tf.data.Dataset`</b>
+- <b>`tf.data.array()`</b>
+- <b>`model.fitDataset()`</b>
+- <b>`model.evaluateDataset()`</b>
+- <b>`forEachAsync()`</b>
+- <b>`Dataset.forEachAsync`</b>
+- <b>representing</b>
+- <b>`tf.data.csv`</b>
+- <b>`tf.data.generator()`</b>
+- <b>generator function</b>
+- <b>sequence</b>
+- <b>myGeneratorDataset</b>
+- <b>numPlaySoFar</b>
+- <b>`tf.data.generator()`</b>
 
 <link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
 
