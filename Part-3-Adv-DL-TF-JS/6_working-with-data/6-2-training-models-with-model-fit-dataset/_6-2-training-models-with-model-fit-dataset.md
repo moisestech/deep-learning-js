@@ -16,17 +16,17 @@
 
 ## **Vocabulary**
 
-- **`tf.data`**
-- **`model.fit()`**
-- **output**
-- **batch size**
-- **optimizer**
-- **`model.fitDataset()`**
-- **features**
-- **accuracy**
-- **`batchesPerEpoch`**
-- **validationData**
-- **validationBatches**
+- <b>`tf.data`</b>
+- <b>`model.fit()`</b>
+- <b>output</b>
+- <b>batch size</b>
+- <b>optimizer</b>
+- <b>`model.fitDataset()`</b>
+- <b>features</b>
+- <b>accuracy</b>
+- <b>`batchesPerEpoch`</b>
+- <b>validationData</b>
+- <b>validationBatches</b>
 
 <link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
 
