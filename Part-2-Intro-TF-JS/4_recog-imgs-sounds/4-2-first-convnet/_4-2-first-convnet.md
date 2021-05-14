@@ -11,7 +11,7 @@
 
 ## **Vocabulary**
 
-- **CNNs**
+- <b>CNNs</b>
   - Convolutional neural network.
   - That is, a network which has at least one convolutional layer.
   - A typical CNN also includes other types of layers, such as pooling layers and dense layers.
@@ -19,48 +19,53 @@
   - The advantage of convolutional layers over fully connected layers is that the number of parameters is far smaller. This results in better generalization of the model. For example, if we want to learn a transformation from a 10x10 image to another 10x10 image, we will need 10,000 parameters if using a fully connected layer. If we use two convolutional layers, the first one having nine filters and the second one having one filter, with a kernel size of 3x3, we will have only 90 parameters.
   - Convolutional networks are applied where data has a clear dimensionality structure. Time series analysis is an example where one-dimensional convolutions are used; for images, 2D convolutions are used; and for volumetric data, 3D convolutions are used.
   - Computer vision has been dominated by convolutional networks since 2012 when AlexNet won the ImageNet challenge.
-- **Convolution**
+- <b>Convolution</b>
   - The process of applying a kernel (filter) to an image
-- **Kernel / filter**
+- <b>Kernel / filter</b>
   - A matrix which is smaller than the input, used to transform the input into chunks
-- **image data**
-- **neural network**
-- **MNIST**
-- **output**
-- **one-hot encoding**
-- **sound**
-- **function**
-- **layers**
-- **sequential**
-- **`add()`**
-- **method**
-- **repeating**
-- **feature**
-- **Padding**
+- <b>image data</b>
+- <b>neural network</b>
+- <b>MNIST</b>
+- <b>output</b>
+- <b>one-hot encoding</b>
+- <b>sound</b>
+- <b>function</b>
+- <b>layers</b>
+- <b>sequential</b>
+- <b>`add()`</b>
+- <b>method</b>
+- <b>repeating</b>
+- <b>feature</b>
+- <b>Padding</b>
   - Adding pixels of some value, usually 0, around the input image
-- **convolutional kernel**
-- **nonlinearity**
-- **Pooling**
+- <b>convolutional kernel</b>
+- <b>nonlinearity</b>
+- <b>Pooling</b>
   - The process of reducing the size of an image through downsampling.
   - There are several types of pooling layers. For example, average pooling converts many values into a single value by taking the average.
   - However, max-pooling is the most common.
-- **Max-pooling**
+- <b>Max-pooling</b>
   - A pooling process in which many values are converted into a single value by taking the maximum value from among them.
-- **Stride**
+- <b>Stride</b>
   - the number of pixels to slide the kernel (filter) across the image.
-- **space**
-- **dense layers**
-- **conv2d**
-- **Downsampling**
+- <b>space</b>
+- <b>dense layers</b>
+- <b>conv2d</b>
+- <b>Downsampling</b>
 
   - The act of reducing the size of an image
 
-- **Curse of Dimensionality** - The curse of dimensionality is when the training data has a high feature count, but the dataset does not have enough samples for a model to learn correctly from so many features. For example, a training dataset of 100 samples with 100 features will be very hard to learn from because the model will find random relations between the features and the target. However, if we had a dataset of 100k samples with 100 features, the model could probably learn the correct relationships between the features and the target.
-- There are different options to fight the curse of dimensionality:
-  - **Feature selection.** Instead of using all the features, we can train on a smaller subset of features.
-  - **Dimensionality reduction.** There are many techniques that allow to reduce the dimensionality of the features. Principal component analysis (PCA) and using autoencoders are examples of dimensionality reduction techniques.
-  - **L1 regularization.** Because it produces sparse parameters, L1 helps to deal with high-dimensionality input.
-  - **Feature engineering.** It’s possible to create new features that sum up multiple existing features. For example, we can get statistics such as the mean or median. It’s possible to create new features that sum up multiple existing features. For example, we can get statistics such as the mean or median.
+- <b>Curse of Dimensionality</b>
+  - The curse of dimensionality is when the training data has a high feature count, but the dataset does not have enough samples for a model to learn correctly from so many features. For example, a training dataset of 100 samples with 100 features will be very hard to learn from because the model will find random relations between the features and the target. However, if we had a dataset of 100k samples with 100 features, the model could probably learn the correct relationships between the features and the target.
+  - There are different options to fight the curse of dimensionality:
+- <b>Feature selection</b>
+  - Instead of using all the features, we can train on a smaller subset of features.
+- <b>Dimensionality reduction</b>
+  - There are many techniques that allow to reduce the dimensionality of the features. Principal component analysis (PCA) and using autoencoders are examples of dimensionality reduction techniques.
+- <b>L1 regularization</b>
+  - Because it produces sparse parameters, L1 helps to deal with high-dimensionality input.
+- <b>Feature engineering</b>
+  - It’s possible to create new features that sum up multiple existing features. For example, we can get statistics such as the mean or median. It’s possible to create new features that sum up multiple existing features. For example, we can get statistics such as the mean or median.
 
 <link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
 
