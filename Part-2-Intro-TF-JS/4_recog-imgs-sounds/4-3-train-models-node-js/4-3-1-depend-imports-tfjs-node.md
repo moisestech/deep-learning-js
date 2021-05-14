@@ -12,20 +12,21 @@
 
 ## **Vocabulary**
 
-- **Dependencies and imports**
-- **tfjs-node**
-- **package.json**
-- **`@tensorflow/tfjs-node`**
-- **enhanced convnet**
-- **NVIDIA driver**
-- **CUDA toolkit**
-- **CuDNN**
-- **@-tensor-flow/tfjs-node-gpu**
-- **dropout layers** - is a technique applied to neural networks that randomly sets some of the neurons’ outputs to zero during training. This forces the network to learn better representations of the data by preventing complex interactions between the neurons: Each neuron needs to learn useful features.
-- **deep neural networks**
-- **training phase**
-- **inference phase**
-- **testing time**
+- <b>Dependencies and imports</b>
+- <b>tfjs-node</b>
+- <b>package.json</b>
+- <b>`@tensorflow/tfjs-node`</b>
+- <b>enhanced convnet</b>
+- <b>NVIDIA driver</b>
+- <b>CUDA toolkit</b>
+- <b>CuDNN</b>
+- <b>@-tensor-flow/tfjs-node-gpu</b>
+- <b>dropout layers</b>
+  - is a technique applied to neural networks that randomly sets some of the neurons’ outputs to zero during training. This forces the network to learn better representations of the data by preventing complex interactions between the neurons: Each neuron needs to learn useful features.
+- <b>deep neural networks</b>
+- <b>training phase</b>
+- <b>inference phase</b>
+- <b>testing time</b>
 
 <link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
 
