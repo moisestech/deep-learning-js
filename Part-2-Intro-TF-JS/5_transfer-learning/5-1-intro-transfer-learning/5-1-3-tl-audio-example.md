@@ -24,18 +24,18 @@
 
 ## **Vocabulary**
 
-- **spectrogram**
-- **trained model**
-- **underfitting**
-- **overfitting**
-- **fine-tuning in transfer learning**
-- **`trancatedBaseOutput`**
-- **TypeScript**
-- **`tf.SymbolicTensor`**
-- **`trainable`**
-- **attribute**
-- **`balancedTrainValSplit`**
-- **training subset**
+- <b>spectrogram</b>
+- <b>trained model</b>
+- <b>underfitting</b>
+- <b>overfitting</b>
+- <b>fine-tuning in transfer learning</b>
+- <b>`trancatedBaseOutput`</b>
+- <b>TypeScript</b>
+- <b>`tf.SymbolicTensor`</b>
+- <b>`trainable`</b>
+- <b>attribute</b>
+- <b>`balancedTrainValSplit`</b>
+- <b>training subset</b>
 
 <link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
 
