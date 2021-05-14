@@ -12,25 +12,25 @@
 
 ## **Vocabulary**
 
-- **dataset**
-- **different but related**
-- **base model**
-- **retraining**
-- **transfer model**
-- **browser**
-- **data**
-- **model adaptation**
-- **regression**
-- **weights**
-- **accuracy**
-- **neural network**
-- **features**
-- **ImageNet**
-- **deep**
-- **ResNet**
-- **word embeddings**
-- **vector**
-- **text**
+- <b>dataset</b>
+- <b>different but related</b>
+- <b>base model</b>
+- <b>retraining</b>
+- <b>transfer model</b>
+- <b>browser</b>
+- <b>data</b>
+- <b>model adaptation</b>
+- <b>regression</b>
+- <b>weights</b>
+- <b>accuracy</b>
+- <b>neural network</b>
+- <b>features</b>
+- <b>ImageNet</b>
+- <b>deep</b>
+- <b>ResNet</b>
+- <b>word embeddings</b>
+- <b>vector</b>
+- <b>text</b>
 
 <link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
 
