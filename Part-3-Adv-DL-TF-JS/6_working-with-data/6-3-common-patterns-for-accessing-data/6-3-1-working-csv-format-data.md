@@ -6,13 +6,13 @@
 
 ## **Vocabulary**
 
-- **CSV format**
-- **lingua franca**
-- **RequestInfo**
-- **`Dataset.skip()`**
-- **empty array**
-- **`csvConfig.columnConfigs`**
-- **`tf.data.csv()`**
+- <b>CSV format</b>
+- <b>lingua franca</b>
+- <b>RequestInfo</b>
+- <b>`Dataset.skip()`</b>
+- <b>empty array</b>
+- <b>`csvConfig.columnConfigs`</b>
+- <b>`tf.data.csv()`</b>
 
 <link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
 
