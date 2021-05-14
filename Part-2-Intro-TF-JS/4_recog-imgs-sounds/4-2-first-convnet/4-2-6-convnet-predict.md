@@ -12,22 +12,22 @@
 
 ## **Vocabulary**
 
-- **Tensorflow.js models**
-- **data.js**
-- **`Float32Array`**
-- **`tf.tensor4d()`**
-- **inference**
-- **video elements**
-- **`tf.browser.fromPixels`**
-- **`tf.image.resizeBilinear();`**
-- **`tf.image.resizeNearestNeighbot()`**
-- **algorithms**
-- **PoseNet**
-- **GitHub**
-- **skew**
-- **`example.xs`**
-- **`argMax()`**
-- **`axis`**
+- <b>Tensorflow.js models</b>
+- <b>data.js</b>
+- <b>`Float32Array`</b>
+- <b>`tf.tensor4d()`</b>
+- <b>inference</b>
+- <b>video elements</b>
+- <b>`tf.browser.fromPixels`</b>
+- <b>`tf.image.resizeBilinear();`</b>
+- <b>`tf.image.resizeNearestNeighbot()`</b>
+- <b>algorithms</b>
+- <b>PoseNet</b>
+- <b>GitHub</b>
+- <b>skew</b>
+- <b>`example.xs`</b>
+- <b>`argMax()`</b>
+- <b>`axis`</b>
 
 <link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
 
