@@ -16,26 +16,26 @@
 
 ## **Vocabulary**
 
-- **outliers**
-- **bias**
-- **imputation**
-- **categorical features**
-- **sentinel value**
-- **before clamping**
-- **sentinel value**
-- **`weight_missing`**
-- **deploying**
-- **simple way**
-- **Facets**
-- **algorithm**
-- **categorical data**
-- **deep-learning model**
-- **word embeddings**
-- **unbalanced data**
-- **numeric/categorical distinction**
-- **means encoding**
-- **one-hot embedding**
-- **scale differences**
+- <b>outliers</b>
+- <b>bias</b>
+- <b>imputation</b>
+- <b>categorical features</b>
+- <b>sentinel value</b>
+- <b>before clamping</b>
+- <b>sentinel value</b>
+- <b>`weight_missing`</b>
+- <b>deploying</b>
+- <b>simple way</b>
+- <b>Facets</b>
+- <b>algorithm</b>
+- <b>categorical data</b>
+- <b>deep-learning model</b>
+- <b>word embeddings</b>
+- <b>unbalanced data</b>
+- <b>numeric/categorical distinction</b>
+- <b>means encoding</b>
+- <b>one-hot embedding</b>
+- <b>scale differences</b>
 
 <link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
 
