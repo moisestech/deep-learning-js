@@ -12,10 +12,10 @@
 
 ## **Vocabulary**
 
-- **simple object-detection problem**
-- **target object**
-- **input features**
-- **deep-learning models**
+- <b>simple object-detection problem</b>
+- <b>target object</b>
+- <b>input features</b>
+- <b>deep-learning models</b>
 
 <link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
 
