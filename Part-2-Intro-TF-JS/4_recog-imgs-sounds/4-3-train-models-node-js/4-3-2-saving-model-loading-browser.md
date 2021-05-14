@@ -6,17 +6,17 @@
 
 ## **Vocabulary**
 
-- **checkpoint or an artifact**
-- **`model.save()`**
-- **modelSavePath**
-- **`model.json`**
-- **`filters`**
-- **`rates`**
-- **`tf.loadLayersModel()`**
-- **transfer learning**
-- **caveat**
-- **`tf.loadLayersModel()`**
-- **`tf.io.browserHTTPRequest()`**
+- <b>checkpoint or an artifact</b>
+- <b>`model.save()`</b>
+- <b>modelSavePath</b>
+- <b>`model.json`</b>
+- <b>`filters`</b>
+- <b>`rates`</b>
+- <b>`tf.loadLayersModel()`</b>
+- <b>transfer learning</b>
+- <b>caveat</b>
+- <b>`tf.loadLayersModel()`</b>
+- <b>`tf.io.browserHTTPRequest()`</b>
 
 <link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
 
