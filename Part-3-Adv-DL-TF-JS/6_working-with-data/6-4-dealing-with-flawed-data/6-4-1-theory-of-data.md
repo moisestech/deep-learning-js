@@ -16,17 +16,17 @@
 
 ## **Vocabulary**
 
-- **bad data vs good data**
-- **probability distribution**
-- **formulation**
-- **inference**
-- **different distributions**
-- **dataset skew**
-- **independent and identically distributed**
-- **`Plotly.js`**
-- **train-test split**
-- **streaming window**
-- **`windowSize`**
+- <b>bad data vs good data</b>
+- <b>probability distribution</b>
+- <b>formulation</b>
+- <b>inference</b>
+- <b>different distributions</b>
+- <b>dataset skew</b>
+- <b>independent and identically distributed</b>
+- <b>`Plotly.js`</b>
+- <b>train-test split</b>
+- <b>streaming window</b>
+- <b>`windowSize`</b>
 
 <link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
 
