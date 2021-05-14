@@ -12,14 +12,14 @@
 
 ## **Vocabulary**
 
-- **representing sounds**
-- **Web Audio API**
-- **access**
-- **spectrograms**
-- **Fourier transform**
-- **trained model**
-- **vocabulary**
-- **building blocks**
+- <b>representing sounds</b>
+- <b>Web Audio API</b>
+- <b>access</b>
+- <b>spectrograms</b>
+- <b>Fourier transform</b>
+- <b>trained model</b>
+- <b>vocabulary</b>
+- <b>building blocks</b>
 
 <link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
 
