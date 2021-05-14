@@ -6,11 +6,11 @@
 
 ## **Vocabulary**
 
-- **audio data**
-- **`tf.data.microphone()`**
-- **image data**
-- **fast Fourier transform (FFT)**
-- **spectrogram**
+- <b>audio data</b>
+- <b>`tf.data.microphone()`</b>
+- <b>image data</b>
+- <b>fast Fourier transform (FFT)</b>
+- <b>spectrogram</b>
 
 <link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
 
