@@ -8,10 +8,10 @@ from [[_5_transfer-learning]]
 
 ## **Vocabulary**
 
-- **object detection**
-- **tfjs-node-gpu**
-- **sequence**
-- **command**
+- <b>object detection</b>
+- <b>tfjs-node-gpu</b>
+- <b>sequence</b>
+- <b>command</b>
 
 <link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
 
