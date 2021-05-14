@@ -20,21 +20,21 @@
 
 ## **Vocabulary**
 
-- **compatible output shapes**
-- **freezing layers**
-- **activation function**
-- **softmax**
-- **`retrainModel()`**
-- **trainable**
-- **optimizer**
-- **untrainable**
-- **flatten layer**
-- **`trainable`**
-- **`fit()`**
-- **predictions**
-- **gradients**
-- **backpropagation**
-- **layer-freezing approach**
+- <b>compatible output shapes</b>
+- <b>freezing layers</b>
+- <b>activation function</b>
+- <b>softmax</b>
+- <b>`retrainModel()`</b>
+- <b>trainable</b>
+- <b>optimizer</b>
+- <b>untrainable</b>
+- <b>flatten layer</b>
+- <b>`trainable`</b>
+- <b>`fit()`</b>
+- <b>predictions</b>
+- <b>gradients</b>
+- <b>backpropagation</b>
+- <b>layer-freezing approach</b>
 
 <link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
 
