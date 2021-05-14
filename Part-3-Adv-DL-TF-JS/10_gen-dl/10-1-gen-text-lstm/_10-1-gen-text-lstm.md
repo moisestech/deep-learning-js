@@ -6,9 +6,10 @@
 
 ## **Vocabulary**
 
-- **output**
-- **sequences**
-- **training datasets** - is used for fitting the model’s parameters. However, the accuracy that we achieve on the training set is not reliable for predicting if the model will be accurate on new samples.
+- <b>output</b>
+- <b>sequences</b>
+- <b>training datasets</b>
+  - is used for fitting the model’s parameters. However, the accuracy that we achieve on the training set is not reliable for predicting if the model will be accurate on new samples.
 
 <link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
 
