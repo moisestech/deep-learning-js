@@ -6,10 +6,10 @@
 
 ## **Vocabulary**
 
-- **interaction**
-- **`tf.data.Dataset`**
-- **`Strean`**
-- **elements**
+- <b>interaction</b>
+- <b>`tf.data.Dataset`</b>
+- <b>`Strean`</b>
+- <b>elements</b>
 
 <link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
 
