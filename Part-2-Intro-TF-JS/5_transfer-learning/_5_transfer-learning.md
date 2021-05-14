@@ -23,11 +23,11 @@
 
 ## **Vocabulary**
 
-- **images**
-- **training data**
-- **MobileNet**
-- **classification**
-- **labeled pictures**
+- <b>images</b>
+- <b>training data</b>
+- <b>MobileNet</b>
+- <b>classification</b>
+- <b>labeled pictures</b>
 
 <link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
 
