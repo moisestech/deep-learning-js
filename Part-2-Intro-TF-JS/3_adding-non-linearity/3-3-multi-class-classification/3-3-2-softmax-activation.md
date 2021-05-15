@@ -6,10 +6,10 @@
 
 ## **Vocabulary**
 
-- **softmax activation**
+- <b>softmax activation</b>
   - Softmax is a mathematical function that converts a vector of numbers into a vector of probabilities, where the probabilities of each value are proportional to the relative scale of each value in the vector.
-- **simple model**
-- **softmax function**
+- <b>simple model</b>
+- <b>softmax function</b>
 
 <link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
 
