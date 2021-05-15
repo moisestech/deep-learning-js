@@ -14,10 +14,10 @@
 
 ## **Vocabulary**
 
-- **`tf.Model.fit() callbacks`**
-  - All callbacks subclass the keras.callbacks.
-  - Callback class, and override a set of methods called at various stages of training, testing, and predicting.
-  - Callbacks are useful to get a view on internal states and statistics of the model during training.
+- <b>`tf.Model.fit() callbacks`</b>
+  - All callbacks subclass the `keras.callbacks`.
+  - override **a set of methods called at various stages of training**, testing, and predicting.
+  - **are useful to get a view on internal states and statistics** of the model **during training**.
 
 <link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
 
