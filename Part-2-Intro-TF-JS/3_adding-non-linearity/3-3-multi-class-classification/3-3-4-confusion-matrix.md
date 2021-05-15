@@ -16,14 +16,14 @@
 
 ## **Vocabulary**
 
-- **Fine-grained analysis**
-- **confusion matrix**
-- **`onTrainEnd()`**
-- **sequences**
-- **cascading nonlinear functions**
-- **conclusion**
-- **`onEpochBegin`**
-- **`drawPrecisionRecallCurve()`**
+- <b>Fine-grained analysis</b>
+- <b>confusion matrix</b>
+- <b>`onTrainEnd()`</b>
+- <b>sequences</b>
+- <b>cascading nonlinear functions</b>
+- <b>conclusion</b>
+- <b>`onEpochBegin`</b>
+- <b>`drawPrecisionRecallCurve()`</b>
 
 <link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
 
