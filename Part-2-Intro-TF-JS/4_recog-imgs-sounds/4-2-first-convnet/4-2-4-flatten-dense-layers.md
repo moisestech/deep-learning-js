@@ -12,8 +12,8 @@
 
 ## **Vocabulary**
 
-- **flatten layers**
-- **activation**
+- <b>flatten layers</b>
+- <b>activation</b>
 
 <link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
 
