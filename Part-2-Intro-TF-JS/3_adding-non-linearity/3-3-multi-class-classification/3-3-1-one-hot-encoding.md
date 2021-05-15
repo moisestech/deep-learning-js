@@ -6,14 +6,14 @@
 
 ## **Vocabulary**
 
-- **one-hot-encoding**
+- <b>one-hot-encoding</b>
   - A one hot encoding allows the representation of categorical data to be more expressive.
   - Many machine learning algorithms cannot work with categorical data directly.
   - When a one hot encoding is used for the output variable, it may offer a more nuanced set of predictions than a single label.
-- **categorical data**
-- **`shuffledTargets`**
-- **1D Tensors**
-- **vector**
+- <b>categorical data</b>
+- <b>`shuffledTargets`</b>
+- <b>1D Tensors</b>
+- <b>vector</b>
 
 <link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
 
