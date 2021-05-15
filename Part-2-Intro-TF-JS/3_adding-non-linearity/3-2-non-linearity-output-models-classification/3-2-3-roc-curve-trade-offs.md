@@ -14,19 +14,20 @@
 
 ## **Vocabulary**
 
-- **receiver operating characteristic**
+- <b>receiver operating characteristic</b>
   - is a graphical plot that illustrates the diagnostic ability of a binary classifier system as its discrimination threshold is varied. [Video, Serrano.Academy](https://www.youtube.com/watch?v=z5qA9qZMyw0)
-- **axis**
-- [**false positive rate (FPR)**](https://en.wikipedia.org/wiki/False_positive_rate)
+- <b>axis</b>
+- <b>false positive rate (FPR)</b>
+  - [**false positive rate (FPR)**](https://en.wikipedia.org/wiki/False_positive_rate)
   - In statistics, when performing multiple comparisons, a false positive ratio (also known as fall-out or false alarm ratio) is the probability of falsely rejecting the null hypothesis for a particular test.
   - The false positive rate is calculated as the ratio between the number of negative events wrongly categorized as positive (false positives) and the total number of actual negative events (regardless of classification).
   - The false positive rate (or "false alarm rate") usually refers to the expectancy of the false positive ratio.
-- **true positive rate (TRP)**
-- **false alarm**
-- **`onEpochBegin`**
-- **`Model.fit()`**
-- **`drawROC()`**
-- **under the curve (AUC)**
+- <b>true positive rate (TRP)</b>
+- <b>false alarm</b>
+- <b>`onEpochBegin`</b>
+- <b>`Model.fit()`</b>
+- <b>`drawROC()`</b>
+- <b>under the curve (AUC)</b>
 
 <link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
 
