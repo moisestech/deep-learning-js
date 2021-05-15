@@ -38,15 +38,15 @@
 
 ## **Vocabulary**
 
-- **features**
-- **labels**
-- **weighted sum**
-- **accuracy**
-- **problems**
-- **Boston-housing dataset**
-- **models**
-- **training data**
-- **quality**
+- <b>features</b>
+- <b>labels</b>
+- <b>weighted sum</b>
+- <b>accuracy</b>
+- <b>problems</b>
+- <b>Boston-housing dataset</b>
+- <b>models</b>
+- <b>training data</b>
+- <b>quality</b>
 
 <link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
 
