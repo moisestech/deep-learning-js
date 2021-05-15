@@ -18,23 +18,24 @@
 
 ## **Vocabulary**
 
-- **entropy**
+- <b>entropy</b>
   - Entropy is a measure of disorder or uncertainty and the goal of machine learning models and Data Scientists in general is to reduce uncertainty.
   - This is called Information Gain.
   - The greater the reduction in this uncertainty, the more information is gained about Y from X.
   - Entropy, as it relates to machine learning, is a measure of the randomness in the information being processed.
   - The higher the entropy, the harder it is to draw any conclusions from that information.
-- [**`binaryCrossentropy`**](https://js.tensorflow.org/api/latest/#metrics.binaryCrossentropy) - Binary cross-entropy metric function.
+- <b>binaryCrossentropy</b>
+  - [**`binaryCrossentropy`**](https://js.tensorflow.org/api/latest/#metrics.binaryCrossentropy) - Binary cross-entropy metric function.
   - Parameters:
     - `yTrue (tf.Tensor)` Binary Tensor of truth.
     - `yPred (tf.Tensor)` Binary Tensor of prediction, probabilities for the 1 case.
     - Returns: `tf.Tensor`
-- **thresholding function**
-- **step function**
-- **limitations**
-- **epsilon, fudge factor**
-- **`truthLabel`**
-- **`measSquaredError`**
+- <b>thresholding function</b>
+- <b>step function</b>
+- <b>limitations</b>
+- <b>epsilon, fudge factor</b>
+- <b>`truthLabel`</b>
+- <b>`measSquaredError`</b>
 
 <link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
 
