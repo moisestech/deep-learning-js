@@ -16,18 +16,18 @@
 
 ## **Vocabulary**
 
-- **conv2d layer**
-- **2D convolution**
-- **image tensor**
-- **`kernelSize`**
-- **`filters`**
-- **training data**
-- **bias**
-- **activation function**
-- **image-to-image transformation**
-- **locality**
-- **parameter sharing**
-- **batch dimension**
+- <b>conv2d layer</b>
+- <b>2D convolution</b>
+- <b>image tensor</b>
+- <b>`kernelSize`</b>
+- <b>`filters`</b>
+- <b>training data</b>
+- <b>bias</b>
+- <b>activation function</b>
+- <b>image-to-image transformation</b>
+- <b>locality</b>
+- <b>parameter sharing</b>
+- <b>batch dimension</b>
 
 <link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
 
