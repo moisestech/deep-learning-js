@@ -6,38 +6,38 @@
 
 ## **Vocabulary**
 
-- **dense layer**
+- <b>dense layer</b>
   - What is a dense neural network? Each neuron in a layer receives an input from all the neurons present in the previous layer—thus, they're densely connected.
   - In other words, the dense layer is a fully connected layer, meaning all the neurons in a layer are connected to those in the next layer.
-- **trained models**
+- <b>trained models/b>
   - A training model is a dataset that is used to train an ML algorithm.
   - The training model is used to run the input data through the algorithm to correlate the processed output against the sample output.
   - The result from this correlation is used to modify the model.
   - This iterative process is called “model fitting”.
-- **data**
+- <b>data</b>
   - data cleaning, data engineering, data analysis.
-- **yarn watch**
-- **command**
-- **web**
-- **training**
-- **activation**
-- **kernel**
-- **function**
-- **multilayer perceptron (MLP)**
-- **TensorFlor.js models**
-- **browsers**
-- **Node.js**
-- **output shape**
-- **representing**
-- **batch size**
-- **weights**
-- **bias**
-- **`tf.Model.fit()`**
-- **transfer learning**
-- **fine-tuning**
-- **`model.summary()`**
-- **inference**
-- **loss**
+- <b>yarn watch</b>
+- <b>command</b>
+- <b>web</b>
+- <b>training</b>
+- <b>activation</b>
+- <b>kernel</b>
+- <b>function</b>
+- <b>multilayer perceptron (MLP)</b>
+- <b>TensorFlor.js models</b>
+- <b>browsers</b>
+- <b>Node.js</b>
+- <b>output shape</b>
+- <b>representing</b>
+- <b>batch size</b>
+- <b>weights</b>
+- <b>bias</b>
+- <b>`tf.Model.fit()`</b>
+- <b>transfer learning</b>
+- <b>fine-tuning</b>
+- <b>`model.summary()`</b>
+- <b>inference</b>
+- <b>loss</b>
 
 <link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
 
