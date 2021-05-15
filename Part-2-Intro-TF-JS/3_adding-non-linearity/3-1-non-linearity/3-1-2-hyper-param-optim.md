@@ -8,31 +8,31 @@
 
 ## **Vocabulary**
 
-- **`leCunNormal`**
+- <b>`leCunNormal`</b>
   - these initializations produce weights that are **randomly selected numbers** multiplied with the **variance 1/fan-in**.
-- **`'glorotNormal'`**
+- <b>`'glorotNormal'`</b>
   - in this approach, each randomly generated weight is multiplied by variance 2/(fan-in + fan-out).
   - For a theoretical justification of the Xavier initialization, you can refer to the deeplearning.ai post on Initialization.
-- **model quality**
+- <b>model quality</b>
   - Quality is comprised of consistency and accuracy. It is not just how correct a label is, but also how often it is correct.
   - This section describes the industry standard methods for measuring consistency and accuracy.
-- **hyperparameters**
-- **`Model.fit()`**
-- **units**
-- **kernelInitializer**
-- **optimizer**
-- **`Model.compile()`**
-- **weight regularization** - is any technique that aims to improve the validation score, sometimes at the cost of reducing the training score.
-- **dropout layers** - is a technique applied to neural networks that randomly sets some of the neurons’ outputs to zero during training. This forces the network to learn better representations of the data by preventing complex interactions between the neurons: Each neuron needs to learn useful features.
-- **L1 regularization** - tries to minimize the absolute value of the parameters of the model. It produces sparse parameters.
-- **L2 regularization** - tries to minimize the square value of the parameters of the model. It produces parameters with small values.
-- **`'sgd'` vs `'adam'`**
-- **hyperparameter optimization**
-- **hyperparameter tuning**
-- **algorithm**
-- **categorical parameter**
-- **regularization factors**
-- **gradient descent**
+- <b>hyperparameters</b>
+- <b>`Model.fit()`</b>
+- <b>units</b>
+- <b>kernelInitializer</b>
+- <b>optimizer</b>
+- <b>`Model.compile()`</b>
+- <b>weight regularization</b> - is any technique that aims to improve the validation score, sometimes at the cost of reducing the training score.
+- <b>dropout layers</b> - is a technique applied to neural networks that randomly sets some of the neurons’ outputs to zero during training. This forces the network to learn better representations of the data by preventing complex interactions between the neurons: Each neuron needs to learn useful features.
+- <b>L1 regularization</b> - tries to minimize the absolute value of the parameters of the model. It produces sparse parameters.
+- <b>L2 regularization</b> - tries to minimize the square value of the parameters of the model. It produces parameters with small values.
+- <b>`'sgd'` vs `'adam'`</b>
+- <b>hyperparameter optimization</b>
+- <b>hyperparameter tuning</b>
+- <b>algorithm</b>
+- <b>categorical parameter</b>
+- <b>regularization factors</b>
+- <b>gradient descent</b>
 
 ## **Blog**
 
