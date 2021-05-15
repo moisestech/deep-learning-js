@@ -12,18 +12,18 @@
 
 ## **Vocabulary**
 
-- **data normalization**
+- <b>data normalization</b>
   - Batch normalization is a technique for training very deep neural networks that standardizes the inputs to a layer for each mini-batch.
   - This has the effect of stabilizing the learning process and dramatically reducing the number of training epochs required to train deep networks.
-- **normalize**
-- **standard transformation**
-  - **z-score normalization**
-- **rank-2 tensor**
-- **`determineMeansAndStddev`**
-- **samples**
-- **feature**
-- **repeating**
-- **broadcast axes**
+- <b>normalize</b>
+- <b>standard transformation</b>
+  - <b>z-score normalization</b>
+- <b>rank-2 tensor</b>
+- <b>`determineMeansAndStddev`</b>
+- <b>samples</b>
+- <b>feature</b>
+- <b>repeating</b>
+- <b>broadcast axes</b>
 
 <link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
 
