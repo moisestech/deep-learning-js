@@ -12,16 +12,16 @@
 
 ## **Vocabulary**
 
-- **vectors**
-- **representing images**
-- **prediction**
-- **array**
-- **1D Tensor**
-- **3D Tensor**
-- **flatten**
-- **encoding**
-- **HWC (height-width-channel)**
-- **NCHW (number, height, width, color channel)**
+- <b>vectors</b>
+- <b>representing images</b>
+- <b>prediction</b>
+- <b>array</b>
+- <b>1D Tensor</b>
+- <b>3D Tensor</b>
+- <b>flatten</b>
+- <b>encoding</b>
+- <b>HWC (height-width-channel)</b>
+- <b>NCHW (number, height, width, color channel)</b>
 
 <link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
 
