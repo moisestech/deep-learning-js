@@ -10,10 +10,10 @@
 
 ## **Vocabulary**
 
-- **`categoricalCrossentropy`**
-- **`oneHotTruth`**
-- **`tf.metrics`**
-- **namespace**
+- <b>`categoricalCrossentropy`</b>
+- <b>`oneHotTruth`</b>
+- <b>`tf.metrics`</b>
+- <b>namespace</b>
 
 <link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
 
