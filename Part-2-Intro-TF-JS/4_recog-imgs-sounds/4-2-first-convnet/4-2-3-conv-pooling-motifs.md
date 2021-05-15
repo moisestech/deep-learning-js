@@ -12,10 +12,10 @@
 
 ## **Vocabulary**
 
-- **motifs**
-- **convolution and pooling**
-- **`inputShape`**
-- **`filters`**
+- <b>motifs</b>
+- <b>convolution and pooling</b>
+- <b>`inputShape`</b>
+- <b>`filters`</b>
 
 <link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
 
