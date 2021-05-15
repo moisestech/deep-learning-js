@@ -12,9 +12,9 @@
 
 ## **Vocabulary**
 
-- **maxPooling2d layer**
-- **`pollSize`**
-- **`strides`**
+- <b>maxPooling2d layer</b>
+- <b>`pollSize`</b>
+- <b>`strides`</b>
 
 <link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
 
