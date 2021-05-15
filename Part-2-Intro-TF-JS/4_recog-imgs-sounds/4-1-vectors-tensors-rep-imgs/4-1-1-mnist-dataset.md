@@ -8,9 +8,9 @@
 
 ## **Vocabulary**
 
-- **MNIST dataset**
-- **label**
-- **Boston-housing datasets**
+- <b>MNIST dataset</b>
+- <b>label</b>
+- <b>Boston-housing datasets</b>
 
 <link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
 
