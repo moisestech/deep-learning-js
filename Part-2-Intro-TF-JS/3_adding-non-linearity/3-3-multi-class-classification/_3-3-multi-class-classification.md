@@ -1,4 +1,4 @@
-# ♒️ Multi Classification
+<b># ♒️ Multi Classificati</b>
 
 ## [**3.3.** Multiclass classification](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-3/192)
 
@@ -6,12 +6,12 @@
 
 ## **Vocabulary**
 
-- **nonbinary classification**
+- <b>nonbinary classification</b>
   - It is a type of supervised learning, a method of machine learning where the categories are predefined, and is used to categorize new probabilistic observations into said categories.
   - When there are only two categories the problem is known as statistical binary classification.
-- **iris flower dataset**
-- **multiclass classification**
-- **multi-label classification**
+- <b>iris flower dataset</b>
+- <b>multiclass classification</b>
+- <b>multi-label classification</b>
 
 <link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
 
