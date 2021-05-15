@@ -6,14 +6,14 @@
 
 ## **Vocabulary**
 
-- **classification**
+- <b>classification</b>
   - Classification is the process of predicting the class of given data points.
   - Classes are sometimes called as targets/ labels or categories.
   - Classification belongs to the category of supervised learning where the targets also provided with the input data.
-- **download time**
-- **target**
-- **images**
-- **multiclass-classification**
+- <b>download time</b>
+- <b>target</b>
+- <b>images</b>
+- <b>multiclass-classification</b>
 
 <link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
 
