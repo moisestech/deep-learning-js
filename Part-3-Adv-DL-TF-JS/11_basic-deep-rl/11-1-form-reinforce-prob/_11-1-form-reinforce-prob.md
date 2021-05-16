@@ -12,7 +12,7 @@
 
 ## **Vocabulary**
 
-- **observation**
+- <b>observation</b>
 - **possibilities**
 - **axis**
 
