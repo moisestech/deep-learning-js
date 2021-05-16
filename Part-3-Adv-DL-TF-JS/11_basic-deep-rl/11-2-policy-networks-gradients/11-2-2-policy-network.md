@@ -28,7 +28,7 @@
 
 ## **Vocabulary**
 
-- **features**
+- <b>features</b>
 - **vector**
 - **binary classifier**
 - **quality**
