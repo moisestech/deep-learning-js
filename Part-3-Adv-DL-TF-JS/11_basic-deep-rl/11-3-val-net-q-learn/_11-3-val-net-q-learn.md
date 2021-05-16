@@ -6,7 +6,7 @@
 
 ## **Vocabulary**
 
-- **value networks**
+- <b>value networks</b>
 - **snake game example**
 
 <link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
