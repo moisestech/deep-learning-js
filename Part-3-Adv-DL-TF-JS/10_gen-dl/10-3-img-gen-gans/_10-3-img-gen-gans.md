@@ -12,7 +12,7 @@
 
 ## **Vocabulary**
 
-- **StyleGAN**
+- <b>StyleGAN</b>
 - **artifacts**
 - **ACGAN**
 - **digit class**
