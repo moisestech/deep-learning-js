@@ -6,7 +6,7 @@
 
 ## **Vocabulary**
 
-- **reward discounting**
+- <b>reward discounting</b>
 - **`getGradientAndSaveActions()`**
 - **`scaleAndAverageGradients()`**
 - **loss function**
