@@ -20,7 +20,7 @@
 
 ## **Vocabulary**
 
-- **deep-neural-networks**
+- <b>deep-neural-networks</b>
 - **sounds**
 - **generative models**
 - **datasets**
