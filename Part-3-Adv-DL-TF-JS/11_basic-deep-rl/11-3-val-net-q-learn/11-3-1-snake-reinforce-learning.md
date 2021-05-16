@@ -12,7 +12,7 @@
 
 ## **Vocabulary**
 
-- **deep q-network**
+- <b>deep q-network</b>
 - **representing the snakes mouth**
 - **frames**
 - **hyperparameters**
