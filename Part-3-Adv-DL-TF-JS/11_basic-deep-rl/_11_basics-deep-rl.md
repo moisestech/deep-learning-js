@@ -26,7 +26,7 @@
 
 ## **Vocabulary**
 
-- **reward**
+- <b>reward</b>
 - **interactions**
 - **reinforcement learning**
 - **basic ideas**
