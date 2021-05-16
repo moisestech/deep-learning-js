@@ -12,7 +12,7 @@
 
 ## **Vocabulary**
 
-- **building blocks**
+- <b>building blocks</b>
 - **latent vector**
 - **embedding layer**
   **`imageClass`**
