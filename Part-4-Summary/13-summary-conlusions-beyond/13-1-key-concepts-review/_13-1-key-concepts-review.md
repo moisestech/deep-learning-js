@@ -14,7 +14,7 @@
 
 ## **Vocabulary**
 
-- **limitations of deep learning**
+- <b>limitations of deep learning</b>
 - **javascript ecosystem**
 
 <link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
