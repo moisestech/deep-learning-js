@@ -18,7 +18,7 @@
 
 ## **Vocabulary**
 
-- **training**
+- <b>training</b>
 - **weights**
 
 <link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
