@@ -16,7 +16,7 @@
 
 ## **Vocabulary**
 
-- **`categorical cross entropy`**
+- <b>`categorical cross entropy`</b>
 - **conv2dTranspose layer**
 
 <link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
