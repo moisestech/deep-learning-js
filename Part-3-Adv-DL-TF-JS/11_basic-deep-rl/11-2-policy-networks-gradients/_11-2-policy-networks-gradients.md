@@ -12,7 +12,7 @@
 
 ## **Vocabulary**
 
-- **cart-pole**
+- <b>cart-pole</b>
 - **benchmark**
 - **MNIST**
 
