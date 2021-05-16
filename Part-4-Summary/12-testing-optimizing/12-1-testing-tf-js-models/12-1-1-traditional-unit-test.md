@@ -4,7 +4,7 @@
 
 ## **Vocabulary**
 
-- **ml projects unit testing**
+- <b>ml projects unit testing</b>
 - **hyperparameter tuning and training**
 - **MSE for a regression task**
 - **dataset change & regularity**
