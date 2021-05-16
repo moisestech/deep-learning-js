@@ -16,7 +16,7 @@
 
 ## **Vocabulary**
 
-- **tensor**
+- <b>tensor</b>
 - **batch dimension**
 - **`getStateTensor()`**
 - **tensor buffer**
