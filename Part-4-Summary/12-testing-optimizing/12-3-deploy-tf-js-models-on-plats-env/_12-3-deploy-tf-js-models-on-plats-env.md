@@ -19,7 +19,7 @@
 
 ## **Vocabulary**
 
-- **deploying Tensorflow.js models**
+- <b>deploying Tensorflow.js models</b>
 
 <link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
 
