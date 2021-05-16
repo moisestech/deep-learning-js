@@ -6,7 +6,7 @@
 
 ## **Vocabulary**
 
-- **VAE**
+- <b>VAE</b>
 - **GAN**
 - **image generation**
 
