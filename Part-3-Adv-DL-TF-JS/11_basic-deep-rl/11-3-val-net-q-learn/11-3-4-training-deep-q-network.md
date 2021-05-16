@@ -40,7 +40,7 @@
 
 ## **Vocabulary**
 
-- **intuition**
+- <b>intuition</b>
 - **backpropagation**
 - **gradient descent**
 - **replay memory**
