@@ -16,7 +16,7 @@
 
 ## **Vocabulary**
 
-- **training and generation**
+- <b>training and generation</b>
 - **tensorboard url**
 - **feature**
 - **trend**
