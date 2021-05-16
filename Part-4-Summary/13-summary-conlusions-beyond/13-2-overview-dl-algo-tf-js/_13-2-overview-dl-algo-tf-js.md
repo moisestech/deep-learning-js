@@ -14,7 +14,7 @@
 
 ## **Vocabulary**
 
-- **considerations**
+- <b>considerations</b>
 - **Tensorflow.js ecosystem**
 
 <link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
