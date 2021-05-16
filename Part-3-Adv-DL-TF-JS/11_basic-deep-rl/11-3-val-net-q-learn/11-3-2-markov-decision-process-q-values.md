@@ -12,7 +12,7 @@
 
 ## **Vocabulary**
 
-- **markov decision process (MDP)**
+- <b>markov decision process (MDP)</b>
 - **non-markov decision process**
 - **conclusion**
 - **bellman equation**
