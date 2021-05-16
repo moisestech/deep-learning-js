@@ -16,7 +16,7 @@
 
 ## **Vocabulary**
 
-- **generator**
+- <b>generator</b>
 - **discriminator**
 - **1D Tensor**
 - **`latentSize`**
