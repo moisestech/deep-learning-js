@@ -12,7 +12,7 @@
 
 ## **Vocabulary**
 
-- **`sample()`**
+- <b>`sample()`</b>
 - **`tf.div()`**
 - **`tf.log()`**
 - **`tf.multinomial()`**
