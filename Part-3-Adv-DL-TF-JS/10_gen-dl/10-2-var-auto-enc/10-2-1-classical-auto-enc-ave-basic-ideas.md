@@ -20,7 +20,7 @@
 
 ## **Vocabulary**
 
-- **classical autoencoder**
+- <b>classical autoencoder</b>
 - **basic ideas**
 - **loss function**
 - **image-to-image transformation**
