@@ -16,7 +16,7 @@
 
 ## **Vocabulary**
 
-- **`zLogVar`**
+- <b>`zLogVar`</b>
 - **`epsilon`**
 - **`reparameterization`**
 - **`computeOutputShape`**
