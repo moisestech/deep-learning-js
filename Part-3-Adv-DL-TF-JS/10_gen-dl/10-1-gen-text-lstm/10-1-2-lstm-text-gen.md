@@ -12,7 +12,7 @@
 
 ## **Vocabulary**
 
-- **LSTM text generation**
+- <b>LSTM text generation</b>
 - **`returnSequence`**
 - **sequential**
 - **dense layers**
