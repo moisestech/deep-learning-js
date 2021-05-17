@@ -12,7 +12,7 @@
 
 ## **Vocabulary**
 
-- **next-character predictor**
+- <b>next-character predictor</b>
 - **sequence based classification**
 - **sentiment analysis**
 - **Claude Shannon**
