@@ -13,9 +13,9 @@
 ## **Vocabulary**
 
 - <b>StyleGAN</b>
-- **artifacts**
-- **ACGAN**
-- **digit class**
+- <b>artifacts</b>
+- <b>ACGAN</b>
+- <b>digit class</b>
 
 <link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
 
