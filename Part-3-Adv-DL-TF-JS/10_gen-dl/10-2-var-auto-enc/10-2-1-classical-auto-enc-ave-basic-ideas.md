@@ -21,14 +21,14 @@
 ## **Vocabulary**
 
 - <b>classical autoencoder</b>
-- **basic ideas**
-- **loss function**
-- **image-to-image transformation**
-- **z-vector**
-- **encoder**
-- **decoder**
-- **latent vector**
-- **classical autoencoders**
+- <b>basic ideas</b>
+- <b>loss function</b>
+- <b>image-to-image transformation</b>
+- <b>z-vector</b>
+- <b>encoder</b>
+- <b>decoder</b>
+- <b>latent vector</b>
+- <b>classical autoencoders</b>
 
 <link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
 
