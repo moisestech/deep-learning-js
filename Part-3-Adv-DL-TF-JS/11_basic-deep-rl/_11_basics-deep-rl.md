@@ -27,9 +27,9 @@
 ## **Vocabulary**
 
 - <b>reward</b>
-- **interactions**
-- **reinforcement learning**
-- **basic ideas**
+- <b>interactions</b>
+- <b>reinforcement learning</b>
+- <b>basic ideas</b>
 
 <link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
 
