@@ -5,20 +5,20 @@
 ## **Vocabulary**
 
 - <b>ml projects unit testing</b>
-- **hyperparameter tuning and training**
-- **MSE for a regression task**
-- **dataset change & regularity**
-- **problems with lenient or strict thresholds**
-- **`Math.seedrandom()` function**
-- **dropout layers** - is a technique applied to neural networks that randomly sets some of the neurons’ outputs to zero during training. This forces the network to learn better representations of the data by preventing complex interactions between the neurons: Each neuron needs to learn useful features.
-- **loss or metric value assertions**
-- **`model.fit()`**
-- **output shapes**
-- **sentiment-analysis**
-- **sequence**
-- **helper function**
-- **classification**
-- **random initialization**
+- <b>hyperparameter tuning and training</b>
+- <b>MSE for a regression task</b>
+- <b>dataset change & regularity</b>
+- <b>problems with lenient or strict thresholds</b>
+- <b>`Math.seedrandom()` function</b>
+- <b>dropout layers\*\* - is a technique applied to neural networks tha</b>randomly sets some of the neurons’ outputs to zero during training. This forces the network to learn better representations of the data by preventing complex interactions between the neurons: Each neuron needs to learn useful features.
+- <b>loss or metric value assertions</b>
+- <b>`model.fit()`</b>
+- <b>output shapes</b>
+- <b>sentiment-analysis</b>
+- <b>sequence</b>
+- <b>helper function</b>
+- <b>classification</b>
+- <b>random initialization</b>
 
 <link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
 
