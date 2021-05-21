@@ -13,8 +13,8 @@
 ## **Vocabulary**
 
 - <b>observation</b>
-- **possibilities**
-- **axis**
+- <b>possibilities</b>
+- <b>axis</b>
 
 <link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
 
