@@ -17,19 +17,19 @@
 ## **Vocabulary**
 
 - <b>`zLogVar`</b>
-- **`epsilon`**
-- **`reparameterization`**
-- **`computeOutputShape`**
-- **output shape**
-- **`call()`**
-- **`ZLayer`**
-- **`zMean`**
-- **`k1Loss`**
-- **regularization**
-- **`tf.train.adam()`**
-- **`fitDataset()`**
-- **`minimize()`**
-- **gradients**
+- <b>`epsilon`</b>
+- <b>`reparameterization`</b>
+- <b>`computeOutputShape`</b>
+- <b>output shape</b>
+- <b>`call()`</b>
+- <b>`ZLayer`</b>
+- <b>`zMean`</b>
+- <b>`k1Loss`</b>
+- <b>regularization</b>
+- <b>`tf.train.adam()`</b>
+- <b>`fitDataset()`</b>
+- <b>`minimize()`</b>
+- <b>gradients</b>
 
 <link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
 
