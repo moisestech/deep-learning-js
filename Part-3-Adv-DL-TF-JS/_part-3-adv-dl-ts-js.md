@@ -11,7 +11,7 @@
 - [[_10_gen-dl]]
 - [[_11_basics-deep-rl]]
 
-After reading parts 1 and 2, you should now be familiar with how basic deep learning is done in TensorFlow.js. Part 3 is intended for users who want to develop a firmer grasp of the techniques and gain a broader understanding of deep learning. Chapter 6 covers techniques for ingesting, transforming, and using data for machine learning. Chapter 7 presents tools for visualizing data and models. Chapter 8 is concerned with the important phenomena of underfitting and overfitting and how to deal with them effectively. Based on this discussion, we introduce the universal workflow of machine learning. Chapters 9–11 are hands-on tours of three advanced areas: sequence-oriented models, generative models, and reinforcement learning, respectively. They will familiarize you with some of the most exciting frontiers of deep learning.
+- After reading parts 1 and 2, you should now be familiar with how basic deep learning is done in TensorFlow.js. Part 3 is intended for users who want to develop a firmer grasp of the techniques and gain a broader understanding of deep learning. Chapter 6 covers techniques for ingesting, transforming, and using data for machine learning. Chapter 7 presents tools for visualizing data and models. Chapter 8 is concerned with the important phenomena of underfitting and overfitting and how to deal with them effectively. Based on this discussion, we introduce the universal workflow of machine learning. Chapters 9–11 are hands-on tours of three advanced areas: sequence-oriented models, generative models, and reinforcement learning, respectively. They will familiarize you with some of the most exciting frontiers of deep learning.
 
 ---
 
