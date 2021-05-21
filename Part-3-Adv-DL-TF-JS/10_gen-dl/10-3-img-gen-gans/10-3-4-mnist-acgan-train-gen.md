@@ -17,11 +17,11 @@
 ## **Vocabulary**
 
 - <b>training and generation</b>
-- **tensorboard url**
-- **feature**
-- **trend**
-- **binary cross entropy**
-- **`tf.concat()`**
+- <b>tensorboard url</b>
+- <b>feature</b>
+- <b>trend</b>
+- <b>binary cross entropy</b>
+- <b>`tf.concat()`</b>
 
 <link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
 
