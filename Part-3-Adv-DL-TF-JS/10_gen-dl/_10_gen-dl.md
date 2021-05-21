@@ -21,14 +21,14 @@
 ## **Vocabulary**
 
 - <b>deep-neural-networks</b>
-- **sounds**
-- **generative models**
-- **datasets**
-- **machine learning**
-- **this book**
-- **discriminative models**
-- **data better**
-- **autoencoder**
+- <b>sounds</b>
+- <b>generative models</b>
+- <b>datasets</b>
+- <b>machine learning</b>
+- <b>this book</b>
+- <b>discriminative models</b>
+- <b>data better</b>
+- <b>autoencoder</b>
 
 <link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
 
