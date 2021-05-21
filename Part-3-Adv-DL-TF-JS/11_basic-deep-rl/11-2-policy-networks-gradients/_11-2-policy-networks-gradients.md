@@ -13,8 +13,8 @@
 ## **Vocabulary**
 
 - <b>cart-pole</b>
-- **benchmark**
-- **MNIST**
+- <b>benchmark</b>
+- <b>MNIST</b>
 
 <link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
 
