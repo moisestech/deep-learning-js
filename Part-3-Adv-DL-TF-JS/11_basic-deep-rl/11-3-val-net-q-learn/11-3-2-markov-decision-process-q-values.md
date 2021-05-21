@@ -13,9 +13,9 @@
 ## **Vocabulary**
 
 - <b>markov decision process (MDP)</b>
-- **non-markov decision process**
-- **conclusion**
-- **bellman equation**
+- <b>non-markov decision process</b>
+- <b>conclusion</b>
+- <b>bellman equation</b>
 
 <link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
 
