@@ -17,14 +17,14 @@
 ## **Vocabulary**
 
 - <b>generator</b>
-- **discriminator**
-- **1D Tensor**
-- **`latentSize`**
-- **`batchSize`**
-- **backpropagation**
-- **labels**
-- **MINST**
-- **transfer learning**
+- <b>discriminator</b>
+- <b>1D Tensor</b>
+- <b>`latentSize`</b>
+- <b>`batchSize`</b>
+- <b>backpropagation</b>
+- <b>labels</b>
+- <b>MINST</b>
+- <b>transfer learning</b>
 
 <link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
 
