@@ -17,10 +17,10 @@
 ## **Vocabulary**
 
 - <b>tensor</b>
-- **batch dimension**
-- **`getStateTensor()`**
-- **tensor buffer**
-- **conv2d layers**
+- <b>batch dimension</b>
+- <b>`getStateTensor()`</b>
+- <b>tensor buffer</b>
+- <b>conv2d layers</b>
 
 <link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
 
