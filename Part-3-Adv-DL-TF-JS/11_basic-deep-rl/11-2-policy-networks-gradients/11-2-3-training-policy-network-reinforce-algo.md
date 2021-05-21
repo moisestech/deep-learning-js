@@ -7,13 +7,13 @@
 ## **Vocabulary**
 
 - <b>reward discounting</b>
-- **`getGradientAndSaveActions()`**
-- **`scaleAndAverageGradients()`**
-- **loss function**
-- **policy gradients**
-- **theory**
-- **target**
-- **deep q-learning**
+- <b>`getGradientAndSaveActions()`</b>
+- <b>`scaleAndAverageGradients()`</b>
+- <b>loss function</b>
+- <b>policy gradients</b>
+- <b>theory</b>
+- <b>target</b>
+- <b>deep q-learning</b>
 
 <link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
 
