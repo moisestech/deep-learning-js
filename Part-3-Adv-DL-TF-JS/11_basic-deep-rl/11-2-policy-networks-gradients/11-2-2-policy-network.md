@@ -29,17 +29,17 @@
 ## **Vocabulary**
 
 - <b>features</b>
-- **vector**
-- **binary classifier**
-- **quality**
-- **sigmoid function**
-- **nonlinearity**
-- **`tf.multinomial()`**
-- **lstm-text-generation**
-- **softmax**
-- **`tf.sigmoid()`**
-- **exploration versus exploitation**
-- **`fitDataset()`**
+- <b>vector</b>
+- <b>binary classifier</b>
+- <b>quality</b>
+- <b>sigmoid function</b>
+- <b>nonlinearity</b>
+- <b>`tf.multinomial()`</b>
+- <b>lstm-text-generation</b>
+- <b>softmax</b>
+- <b>`tf.sigmoid()`</b>
+- <b>exploration versus exploitation</b>
+- <b>`fitDataset()`</b>
 
 <link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
 
