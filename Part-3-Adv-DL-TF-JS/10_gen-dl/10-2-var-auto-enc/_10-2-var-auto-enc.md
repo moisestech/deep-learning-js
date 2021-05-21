@@ -7,8 +7,8 @@
 ## **Vocabulary**
 
 - <b>VAE</b>
-- **GAN**
-- **image generation**
+- <b>GAN</b>
+- <b>image generation</b>
 
 <link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
 
