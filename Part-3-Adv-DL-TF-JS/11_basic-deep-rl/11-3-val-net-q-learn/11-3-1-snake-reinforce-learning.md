@@ -13,9 +13,9 @@
 ## **Vocabulary**
 
 - <b>deep q-network</b>
-- **representing the snakes mouth**
-- **frames**
-- **hyperparameters**
+- <b>representing the snakes mouth</b>
+- <b>frames</b>
+- <b>hyperparameters</b>
 
 <link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
 
