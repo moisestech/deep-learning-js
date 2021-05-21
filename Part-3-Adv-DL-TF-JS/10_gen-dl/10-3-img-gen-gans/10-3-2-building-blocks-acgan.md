@@ -13,11 +13,11 @@
 ## **Vocabulary**
 
 - <b>building blocks</b>
-- **latent vector**
-- **embedding layer**
-  **`imageClass`**
-- **image tensors**
-- **`kernelSize`**
+- <b>latent vector</b>
+- <b>embedding layer</b>
+  <b>`imageClass`</b>
+- <b>image tensors</b>
+- <b>`kernelSize`</b>
 
 <link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
 
