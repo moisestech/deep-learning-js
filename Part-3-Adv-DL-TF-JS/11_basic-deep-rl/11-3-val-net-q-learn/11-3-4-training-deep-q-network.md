@@ -41,19 +41,19 @@
 ## **Vocabulary**
 
 - <b>intuition</b>
-- **backpropagation**
-- **gradient descent**
-- **replay memory**
-- \*_rolling dataset_
-- **`tf.LayersModel`**
-- **`fitDataset()`**
-- **epsilon-greedy algorithm**
-- **`actionTensor`**
-- **`createDeepQNetwork()`**
-- **`meanSquaredError`**
-- **`tf.variableGrads()`**
-- **optimizer**
-- **`targetQs`**
+- <b>backpropagation</b>
+- <b>gradient descent</b>
+- <b>replay memory</b>
+- <b>rolling dataset</b>
+- <b>`tf.LayersModel`</b>
+- <b>`fitDataset()`</b>
+- <b>epsilon-greedy algorithm</b>
+- <b>`actionTensor`</b>
+- <b>`createDeepQNetwork()`</b>
+- <b>`meanSquaredError`</b>
+- <b>`tf.variableGrads()`</b>
+- <b>optimizer</b>
+- <b>`targetQs`</b>
 
 <link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
 
