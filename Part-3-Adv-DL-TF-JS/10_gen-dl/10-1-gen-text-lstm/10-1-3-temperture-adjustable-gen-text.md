@@ -13,12 +13,12 @@
 ## **Vocabulary**
 
 - <b>`sample()`</b>
-- **`tf.div()`**
-- **`tf.log()`**
-- **`tf.multinomial()`**
-- **`argMax()`**
-- **deterministic**
-- **weights**
+- <b>`tf.div()`</b>
+- <b>`tf.log()`</b>
+- <b>`tf.multinomial()`</b>
+- <b>`argMax()`</b>
+- <b>deterministic</b>
+- <b>weights</b>
 
 <link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
 
