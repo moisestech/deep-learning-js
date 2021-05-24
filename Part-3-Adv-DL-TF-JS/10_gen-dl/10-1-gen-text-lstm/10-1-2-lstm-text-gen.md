@@ -13,18 +13,18 @@
 ## **Vocabulary**
 
 - <b>LSTM text generation</b>
-- **`returnSequence`**
-- **sequential**
-- **dense layers**
-- **`lstmLayerSize`**
-- **`sampleLen`**
-- **`charSetSize`**
-- **batch dimension**
-- **categorical cross-entropy loss**
-- **optimizer**
-- **RMSProp**
-- **hyperparameters**
-- **temperature values**
+- <b>`returnSequence`</b>
+- <b>sequential</b>
+- <b>dense layers</b>
+- <b>`lstmLayerSize`</b>
+- <b>`sampleLen`</b>
+- <b>`charSetSize`</b>
+- <b>batch dimension</b>
+- <b>categorical cross-entropy loss</b>
+- <b>optimizer</b>
+- <b>RMSProp</b>
+- <b>hyperparameters</b>
+- <b>temperature values</b>
 
 <link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
 
