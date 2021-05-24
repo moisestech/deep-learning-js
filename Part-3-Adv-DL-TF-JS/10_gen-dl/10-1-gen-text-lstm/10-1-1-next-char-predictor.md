@@ -13,10 +13,10 @@
 ## **Vocabulary**
 
 - <b>next-character predictor</b>
-- **sequence based classification**
-- **sentiment analysis**
-- **Claude Shannon**
-- **entropy**
+- <b>sequence based classification</b>
+- <b>sentiment analysis</b>
+- <b>Claude Shannon</b>
+- <b>entropy</b>
 
 <link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
 
