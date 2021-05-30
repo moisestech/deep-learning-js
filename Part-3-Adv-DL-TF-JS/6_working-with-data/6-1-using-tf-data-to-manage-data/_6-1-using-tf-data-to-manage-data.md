@@ -6,10 +6,11 @@
 
 ## **Vocabulary**
 
-- <b>technology</b>
+- <b>Data ingestion technology</b>
+  - solutions that require working with large, cumbersome, and possibly privacy-sensitive data sources, where one might have to access data from a remote source, piece by piece, on demand.
 - <b>`tf.data`</b>
-  - function that takes in the parameter (items).
-  - Creates a Dataset from an array of elements, objects, or numbers.
+  - **function** that takes in the parameter (items).
+  - Creates a `Dataset` from an array of elements, objects, or numbers.
   - Returns `tf.data.Dataset`
 
 <link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
