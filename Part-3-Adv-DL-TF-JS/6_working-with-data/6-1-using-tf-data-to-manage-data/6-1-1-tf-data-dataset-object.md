@@ -8,6 +8,7 @@
 
 - <b>interaction</b>
   - Approachable higher-level API to manipulate Tensors and write Neural Networks.
+  - TensorFlow.js comes packaged with an integrated library designed just for this sort of data management. It is built to enable users to ingest, preprocess, and route data in a concise and readable way.
 - <b>Dataset</b>
   - Object in `tfjs-data`
 - <b>[`tf.data.Dataset` 🔗](https://js.tensorflow.org/api/latest/#class:data.Dataset)</b>
