@@ -7,6 +7,10 @@
 ## **Vocabulary**
 
 - <b>technology</b>
+- <b>`tf.data`</b>
+  - function that takes in the parameter (items).
+  - Creates a Dataset from an array of elements, objects, or numbers.
+  - Returns `tf.data.Dataset`
 
 <link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
 
