@@ -2,6 +2,8 @@
 
 ## [**6.1.2.** Creating a tf.data.Dataset](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-6/20)
 
+<img src="../../../assets/tables/table_6-1.png">
+
 ---
 
 ## **Vocabulary**
