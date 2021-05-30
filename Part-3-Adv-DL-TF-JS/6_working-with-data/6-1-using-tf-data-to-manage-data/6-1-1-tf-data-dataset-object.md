@@ -7,8 +7,13 @@
 ## **Vocabulary**
 
 - <b>interaction</b>
-- <b>`tf.data.Dataset`</b>
-- <b>`Strean`</b>
+  - Approachable higher-level API to manipulate Tensors and write Neural Networks.
+- <b>Dataset</b>
+  - Object in `tfjs-data`
+- <b>[`tf.data.Dataset` 🔗](https://js.tensorflow.org/api/latest/#class:data.Dataset)</b>
+  - **Class** that represents a potentially large list of independent data elements (typically 'samples' or 'examples').
+  - A **'data example'** may be a primitive, an array, a map from string keys to values, or any nested structure of these.
+- <b>`Stream`</b>
 - <b>elements</b>
 
 <link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
