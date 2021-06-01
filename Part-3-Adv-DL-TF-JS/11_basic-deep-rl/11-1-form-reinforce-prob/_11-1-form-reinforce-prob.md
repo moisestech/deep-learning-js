@@ -10,6 +10,12 @@
 
 ---
 
+## [**Table 11.1** Describing the cart-pole problem in the canonical RL formulation](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-11/ch11table01)
+
+<img src="../../../assets/tables/table_11-1.png"/>
+
+---
+
 ## **Vocabulary**
 
 - <b>observation</b>
