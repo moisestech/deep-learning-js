@@ -10,6 +10,12 @@
 
 ---
 
+## [**Table 11.2** Describing the snake-game problem in the canonical RL formulation](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-11/ch11table02)
+
+<img src="../../../assets/tables/table_11-2.png"/>
+
+---
+
 ## **Vocabulary**
 
 - <b>deep q-network</b>
