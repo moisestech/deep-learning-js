@@ -6,7 +6,13 @@
 
 ### [**Figure 3.5.** An example result from a round of training the model for phishing web page detection.](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-3/ch03fig05)
 
-<img src="../../assets/figures/Figure_3-5.png">
+<img src="../../../assets/figures/Figure_3-5.png">
+
+---
+
+### [**Table 3.1** The four types of classification results in a binary classification problem](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-3/ch03table01)
+
+<img src="../../../assets/tables/table_3-1.png" />
 
 ---
 
@@ -34,8 +40,8 @@
 
 ## **Blogs**
 
-- [Classification: True vs. False and Positive vs. Negative](https://developers.google.com/machine-learning/crash-course/classification/true-false-positive-negative)
-- [Machine Learning Metrics: The Confusion Matrix, Accuracy, Precision & Recall](https://www.youtube.com/watch?v=_y-peoToPj0)
+- [🔗 Classification: True vs. False and Positive vs. Negative](https://developers.google.com/machine-learning/crash-course/classification/true-false-positive-negative), _Dev Google ML Crash Course_
+- [🔗 Machine Learning Metrics: The Confusion Matrix, Accuracy, Precision & Recall](https://www.youtube.com/watch?v=_y-peoToPj0), _Hello Paperspace, YouTube_
 
 <link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/custom.css" />
 
