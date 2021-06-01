@@ -4,6 +4,12 @@
 
 ---
 
+## [**Table 6.2** Methods that iterate over a dataset](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-6/ch06table02)
+
+<img src="../../../assets/tables/table_6-2.png"/>
+
+---
+
 ## **Vocabulary**
 
 - <b>`Dataset.toArray()`</b>
