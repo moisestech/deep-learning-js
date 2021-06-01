@@ -10,6 +10,12 @@
 
 ---
 
+### [**Table 1.2** A brief summary of the benefits of doing deep learning in JavaScript](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-1/ch01table02)
+
+<img src="../../assets/../../assets/tables/table_1-2.png"/>
+
+---
+
 ## **Vocabulary**
 
 - <b>Deployment</b>
