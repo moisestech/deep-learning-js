@@ -14,6 +14,12 @@
 
 ---
 
+## [**Table 8.1** An overview of commonly used methods for reducing overfitting in TensorFlow.js](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-8/ch08table01)
+
+<img src="../../../assets/tables/table_8-1.png"/>
+
+---
+
 ## **Vocabulary**
 
 - <b>weight regularization</b>
