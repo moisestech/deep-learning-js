@@ -4,7 +4,7 @@
 
 ---
 
-### [**Figure 7.1.** Line charts created using tfvis.render.linechart().](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-7/ch07fig01)
+### [**Figure 7.1.** Line charts created using `tfvis.render.linechart()`.](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-7/ch07fig01)
 
 <img src="../../../assets/figures/Figure_7-1.png">
 
@@ -25,6 +25,10 @@
 <img src="../../../assets/figures/Figure_7-5.png">
 
 ---
+
+## [**Table 7.1** A summary of the five major types of charts supported by tfjs-vis under the `tfvis.render` namespace](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-7/ch07table01)
+
+## <img src="../../../assets/tables/table_7-1.png"/>
 
 ## **Vocabulary**
 
