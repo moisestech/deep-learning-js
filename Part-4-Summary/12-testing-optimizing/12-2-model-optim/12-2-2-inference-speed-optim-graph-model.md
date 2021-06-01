@@ -10,6 +10,12 @@
 
 ---
 
+## [**Table 12.3** Comparing the inference speed of two model types (an MLP and MobileNetV2) with and without `GraphModel` conversion optimization, and in different deployment environments](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-12/ch12table03)
+
+<img src="../../../"/>
+
+---
+
 ## **Vocabulary**
 
 - <b>GraphModel</b>
