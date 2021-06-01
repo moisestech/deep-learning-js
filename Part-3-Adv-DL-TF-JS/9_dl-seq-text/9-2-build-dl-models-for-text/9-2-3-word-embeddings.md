@@ -16,6 +16,12 @@
 
 ---
 
+## [**Table 9.1** Comparing two paradigms of word vectorization: one-hot/multi-hot encoding and word embedding](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-9/ch09table01)
+
+<img src="../../../assets/tables/table_9-1.png"/>
+
+---
+
 ## **Vocabulary**
 
 - <b>word embedding</b>
