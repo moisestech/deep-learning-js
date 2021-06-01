@@ -4,6 +4,12 @@
 
 ---
 
+## [**Table 6.4** Configuring a CSV dataset to work with `model.fitDataset()`](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-6/ch06table03)
+
+<img src="../../../assets/tables/table_6-4.png"/>
+
+---
+
 ## **Vocabulary**
 
 - <b>CSV format</b>
