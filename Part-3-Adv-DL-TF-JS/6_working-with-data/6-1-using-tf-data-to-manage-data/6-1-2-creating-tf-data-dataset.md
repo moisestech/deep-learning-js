@@ -6,6 +6,12 @@
 
 ---
 
+## [**Table 6.1** Creating `tf.data.Dataset` object from a data source](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-5/ch05table01)
+
+<img src="../../../assets/tables/table_6-1.png"/>
+
+---
+
 ## **Vocabulary**
 
 - <b>`tf.data.Dataset`</b>
