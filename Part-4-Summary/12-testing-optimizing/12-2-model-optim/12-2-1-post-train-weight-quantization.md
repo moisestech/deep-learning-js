@@ -4,6 +4,16 @@
 
 ---
 
+## [**Table 12.1** Evaluation accuracies for four different models with post-training weight quantization](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-12/ch12table01)
+
+<img src="../../../assets/tables/table_12-1.png"/>
+
+## [**Table 12.2** The gzip compression ratios of model artifacts under different levels of quantization](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-12/ch12table02)
+
+<img src="../../../assets/tables/table_12-2.png"/>
+
+---
+
 ## **Vocabulary**
 
 - **predicting**
