@@ -4,6 +4,12 @@
 
 ---
 
+## [**Table 6.3** Chainable methods on the `tf.data.Dataset` object](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-6/ch06table03)
+
+<img src="../../../assets/tables/table_6-3.png"/>
+
+---
+
 ## **Vocabulary**
 
 - <b>tfjs-data datasets</b>
