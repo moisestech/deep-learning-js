@@ -4,7 +4,9 @@
 
 ---
 
-### [**Table 2.1** Features of the Boston-housing dataset]()
+### [**Table 2.1** Features of the Boston-housing dataset](https://livebook.manning.com/book/deep-learning-with-javascript/chapter-2/ch02table01)
+
+<img src="../../../assets/tables/table_2-1.png"/>
 
 ---
 
